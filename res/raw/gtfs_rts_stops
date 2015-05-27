@@ -116,8 +116,8 @@
 3551,'3551','110 Ave NW / 76 St NW',51.152727,-114.195592
 3552,'3552','24 St SE / Quarry Pk Blvd',50.964,-114.001393
 3553,'3553','24 St SE / Quarry Pk Blvd',50.962709,-114.002102
-3559,'3559','Hospital Dr / TRW Building',51.065945,-114.137246
-3560,'3560','Hospital Dr / TRW Building',51.065888,-114.137073
+3559,'3559','Hosp Dr / TRW Bldg',51.065945,-114.137246
+3560,'3560','Hosp Dr / TRW Bldg',51.065888,-114.137073
 3561,'3561','Old Banff Coach Rd / West Spgs Gt SW',51.065806,-114.189195
 3562,'3562','Shepard Rd / N. Of Shepard Pl SE',50.970796,-113.989054
 3563,'3563','Shepard Rd / N. Of Shepard Pl SE',50.970588,-113.989297
@@ -2126,8 +2126,8 @@
 5756,'5756','12 St E / Ctr Ave',51.052147,-114.033618
 5757,'5757','Crowchild Trl / 54 Ave SW',51.004667,-114.118211
 5758,'5758','Glenmore Trl / Crowchild Trl SW',50.999501,-114.116607
-5759,'5759','Rockyview Hospital SB',50.989595,-114.096171
-5760,'5760','Glenmore Auxiliary Hospital',50.992035,-114.09847
+5759,'5759','Rockyview Hosp SB',50.989595,-114.096171
+5760,'5760','Glenmore Auxiliary Hosp',50.992035,-114.09847
 5761,'5761','Heritage Dr / Haysboro Cr SW',50.979471,-114.091318
 5762,'5762','Heritage LRT Stn SB',50.979138,-114.075095
 5763,'5763','Heritage Dr / Elbow Dr SW',50.979648,-114.084353
@@ -2138,7 +2138,7 @@
 5768,'5768','Ricard Rd / Richardson Way SW',51.012913,-114.121378
 5769,'5769','Crowchild Trl / 17 Ave Overpass SW',51.037507,-114.113091
 5770,'5770','Crowchild Trl / Flanders Ave SW',51.016403,-114.117355
-5771,'5771','Foothills Hospital (Women''s Health Ctr)',51.065251,-114.132606
+5771,'5771','Foothills Hosp (Women''s Health Ctr)',51.065251,-114.132606
 5772,'5772','Uxbridge Dr / 16 Ave NW',51.069238,-114.129033
 5773,'5773','Bowness Rd / 46 St NW',51.072239,-114.160185
 5774,'5774','Campus Dr / Campus Pl NW',51.07963,-114.124405
@@ -2959,7 +2959,7 @@
 6626,'6626','Lions Pk LRT Stn (EB 14 Ave NW)',51.065097,-114.101967
 6627,'6627','14 Ave NW / 19 St NW',51.065071,-114.105623
 6628,'6628','Lions Pk LRT Stn (EB 14 Ave NW)',51.065114,-114.101923
-6629,'6629','29 St NW / Hospital Dr',51.065925,-114.129652
+6629,'6629','29 St NW / Hosp Dr',51.065925,-114.129652
 6630,'6630','14 St NW / 14 Ave NW',51.065113,-114.093915
 6631,'6631','69 St NW / 32 Ave NW',51.081948,-114.187493
 6632,'6632','Erin Woods Dr / Erin Grv Bay SE',51.025161,-113.966038
@@ -3329,14 +3329,14 @@
 7041,'7041','McKenzie Dr / McKerrell Close SE',50.902643,-113.982167
 7042,'7042','McKenzie Dr / McKerrell Way SE',50.90487,-113.981667
 7043,'7043','McKenzie Lk Blvd / McKenzie Lk Gdns SE',50.911868,-113.986918
-7044,'7044','Mountain Pk Dr / 100 Mt Victoria Pl SE',50.912598,-113.991126
+7044,'7044','Mtn Pk Dr / 100 Mt Victoria Pl SE',50.912598,-113.991126
 7045,'7045','McKenzie Lk Way / McKenzie Dr SE',50.90708,-113.981581
 7046,'7046','McKenzie Lk Way / McKenzie Lk Mnr SE',50.909381,-113.97769
 7047,'7047','McKenzie Lk Way / 1000McKenzie Lk Bay SE',50.91353,-113.977762
 7048,'7048','McKenzie Lk Way / 500 McKenzie Lk Bay SE',50.915289,-113.980736
-7049,'7049','Mountain Pk Dr / Mt Belcher Pl SE',50.910129,-113.994103
-7050,'7050','Mountain Pk Dr / Mt Norquay Gt SE',50.906211,-113.997372
-7051,'7051','Mountain Pk Dr / Mt Kidd Rd SE',50.902776,-113.993951
+7049,'7049','Mtn Pk Dr / Mt Belcher Pl SE',50.910129,-113.994103
+7050,'7050','Mtn Pk Dr / Mt Norquay Gt SE',50.906211,-113.997372
+7051,'7051','Mtn Pk Dr / Mt Kidd Rd SE',50.902776,-113.993951
 7052,'7052','49 St NW / 40 Ave NW',51.087498,-114.158879
 7053,'7053','Charleswood Dr / Brentwood Mall NW',51.084449,-114.123963
 7054,'7054','Northmount Dr / Benson Rd NW',51.094247,-114.131368
@@ -3969,7 +3969,7 @@
 7706,'7706','Vly Rdg East Terminal',51.092894,-114.23689
 7707,'7707','Hamptons Bus Terminal WB',51.140988,-114.149589
 7708,'7708','Hamptons Blvd / Hampshire Close NW',51.139527,-114.157171
-7709,'7709','McKenzie Lk Blvd / Mountain Pk Cir SE',50.911053,-113.986673
+7709,'7709','McKenzie Lk Blvd / Mtn Pk Cir SE',50.911053,-113.986673
 7712,'7712','Castleridge Blvd / Falconridge Blvd NE',51.100039,-113.959236
 7713,'7713','CPS Westwinds Campus / N. Of 50 Ave NE',51.098746,-113.967978
 7715,'7715','1A St SW / 60 Ave SW',50.999313,-114.067525
@@ -4252,9 +4252,9 @@
 8019,'8019','Kensington Rd / 20 St NW',51.052434,-114.107439
 8020,'8020','Edgebrook Dr / Edgebrook Lndg NW',51.1367,-114.131281
 8021,'8021','29 St NW / 7 Ave NW',51.058422,-114.129602
-8022,'8022','Foothills Hospital (Women''s Health Ctr)',51.06531,-114.132816
-8023,'8023','Health Science Ctr Hospital Dr NW',51.066351,-114.132338
-8024,'8024','Health Science Ctr Hospital Dr NW',51.066413,-114.132291
+8022,'8022','Foothills Hosp (Women''s Health Ctr)',51.06531,-114.132816
+8023,'8023','Health Science Ctr Hosp Dr NW',51.066351,-114.132338
+8024,'8024','Health Science Ctr Hosp Dr NW',51.066413,-114.132291
 8025,'8025','27 St NW / 6 Ave NW',51.05725,-114.125479
 8026,'8026','29 St NW / 7 Ave NW',51.059119,-114.129388
 8027,'8027','5 Ave NW / Crowchild Trl',51.057185,-114.118803
@@ -4335,7 +4335,7 @@
 8104,'8104','Berkshire Rd / Berkshire Blvd NW',51.135326,-114.08413
 8105,'8105','Sandstone Dr / Sanderling Rise NW',51.136389,-114.091069
 8106,'8106','Sandstone Dr / Sandpiper Rd NW',51.139309,-114.099979
-8107,'8107','Auburn BAY Blvd / Auburn Shrs Way SE',50.885384,-113.957018
+8107,'8107','Auburn Bay Blvd / Auburn Shrs Way SE',50.885384,-113.957018
 8108,'8108','36 St SE / 30 Ave SE',51.027376,-113.981384
 8109,'8109','36 St SE / Erin Woods Blvd',51.018011,-113.979939
 8110,'8110','36 St SE / Erin Woods Close',51.017271,-113.979146
@@ -4550,8 +4550,8 @@
 8336,'8336','Coverntry Hls Way / Coverton Grn NE',51.167042,-114.040139
 8337,'8337','Coverntry Hls Way / Coville Cr NE',51.169136,-114.039705
 8338,'8338','Evanston Dr / 24 St NW',51.179918,-114.118388
-8339,'8339','Foothills Hospital (North Tower)',51.064705,-114.130884
-8340,'8340','Foothills Hospital Main Door',51.063718,-114.133899
+8339,'8339','Foothills Hosp (North Tower)',51.064705,-114.130884
+8340,'8340','Foothills Hosp Main Door',51.063718,-114.133899
 8341,'8341','52 St SE / 52 Ave SE',51.00694,-113.958189
 8342,'8342','52 St SE / 52 Ave SE',51.006433,-113.958764
 8343,'8343','7 Ave S / Ctr St S',51.046471,-114.063861
@@ -4635,7 +4635,7 @@
 8433,'8433','Ctr St / Beddington Dr N',51.128223,-114.071312
 8434,'8434','Anderson LRT Stn',50.954234,-114.074154
 8435,'8435','Anderson LRT Stn',50.954229,-114.073955
-8436,'8436','McKenzie Lk Blvd / Mountain Pk Dr SE',50.901769,-113.991526
+8436,'8436','McKenzie Lk Blvd / Mtn Pk Dr SE',50.901769,-113.991526
 8437,'8437','Anderson LRT Stn',50.953994,-114.073884
 8438,'8438','Citadel Dr / Citadel Mnr NW',51.141846,-114.178262
 8439,'8439','Royal Oak Way / Royal Oak Pk NW',51.150927,-114.221283
@@ -5985,8 +5985,8 @@
 9899,'9899','Tuscany Spgs Hl / Tuscany Spgs Ter NW',51.134326,-114.250315
 9900,'9900','64 Ave NW / Tregillus St',51.110744,-114.06784
 9901,'9901','Hamptons Dr / Hampstead Rd NW',51.141369,-114.132516
-9902,'9902','Hospital Dr / Health Science Ctr NW',51.066569,-114.13213
-9903,'9903','Hospital Dr / Health Science Ctr NW',51.06644,-114.131957
+9902,'9902','Hosp Dr / Health Science Ctr NW',51.066569,-114.13213
+9903,'9903','Hosp Dr / Health Science Ctr NW',51.06644,-114.131957
 9904,'9904','Canterbury Dr / Canterbury Pl SW',50.947926,-114.08758
 9915,'9915','Barlow Trl / Airport Rd NE',51.135353,-114.000277
 9916,'9916','Nose Hl Dr / Hawkwood Rd NW',51.130529,-114.191662
@@ -5996,8 +5996,8 @@
 9922,'9922','24 St SE / Quarry Pk Blvd',50.963104,-114.001943
 9923,'9923','24 St SE / 18 St SE',50.95618,-114.001269
 9924,'9924','5 St SW / 4 Ave SW',51.049273,-114.073744
-9925,'9925','Rockyview Hospital NB',50.989569,-114.09623
-9926,'9926','Glenmore Auxiliary Hospital',50.992008,-114.098444
+9925,'9925','Rockyview Hosp NB',50.989569,-114.09623
+9926,'9926','Glenmore Auxiliary Hosp',50.992008,-114.098444
 9927,'9927','Holy Cross Care Ctr SW',50.991604,-114.097029
 9928,'9928','75 Ave SW / Eagle Rdg Dr NB',50.988044,-114.09567
 9931,'9931','52 St SE / New Brighton Gt',50.918736,-113.957943
