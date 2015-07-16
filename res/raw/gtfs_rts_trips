@@ -187,14 +187,10 @@
 30100,0,'Country Vlg',301
 30200,0,'City Ctr',302
 30201,0,'South Health',302
-30400,0,'Ctr St North',304
-30401,0,'Stampede Pk',304
 30501,1,'E',305
 30502,1,'W',305
 30601,0,'Heritage',306
 30600,0,'Westbrook',306
-30801,0,'City Ctr',308
-30800,0,'Forest Lawn Shuttle',308
 40200,0,'Silverado',402
 40400,0,'North Hl',404
 40500,0,'Brentwood',405
@@ -242,4 +238,3 @@
 50201,0,'Sta Heritage',502
 50600,0,'Chinook Ctr Shuttle',506
 55500,0,'Dashmesh Ctr',555
-1000100,0,'Out Of Service Next Bus Please',10001
