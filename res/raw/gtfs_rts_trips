@@ -125,7 +125,7 @@
 9401,0,'Strathcona',94
 9402,0,'Westbrook Sta',94
 9500,0,'Westwinds Business Pk',95
-9600,0,'Mckenzie',96
+9603,1,'N',96
 9804,0,'69 St Sta',98
 9803,0,'Cougar Rdg',98
 10000,0,'Airport',100
@@ -169,7 +169,7 @@
 15200,0,'New Brighton',152
 15300,0,'Copperfield',153
 15400,0,'Hamptons',154
-15700,0,'Royal Vista',157
+15703,1,'N',157
 15800,0,'Royal Oak',158
 15901,0,'Saddlebrook',159
 16900,0,'Rocky Rdg',169
