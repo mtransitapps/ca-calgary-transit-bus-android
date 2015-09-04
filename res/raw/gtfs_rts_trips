@@ -126,6 +126,7 @@
 9402,0,'Westbrook Sta',94
 9500,0,'Westwinds Business Pk',95
 9603,1,'N',96
+9604,1,'S',96
 9804,0,'69 St Sta',98
 9803,0,'Cougar Rdg',98
 10000,0,'Airport',100
@@ -170,6 +171,7 @@
 15300,0,'Copperfield',153
 15400,0,'Hamptons',154
 15703,1,'N',157
+15704,1,'S',157
 15800,0,'Royal Oak',158
 15901,0,'Saddlebrook',159
 16900,0,'Rocky Rdg',169
@@ -178,6 +180,8 @@
 17604,1,'S',176
 17801,0,'Chaparral',178
 17800,0,'Sundance',178
+18100,0,'MRU North',181
+18200,0,'MRU South',182
 19900,0,'Citadel',199
 19901,0,'Crowfoot',199
 29900,0,'Arbour Lk',299
@@ -205,7 +209,7 @@
 41000,0,'Glenmore Business Pk',410
 41101,0,'City Ctr',411
 41100,0,'East Calgary',411
-41200,0,'Beltline',412
+41200,0,'Beltline / Route 412',412
 41201,0,'Westgate',412
 41400,0,'14 St Crosstown',414
 41903,0,'Foothills',419
@@ -238,3 +242,214 @@
 50201,0,'Sta Heritage',502
 50600,0,'Chinook Ctr Shuttle',506
 55500,0,'Dashmesh Ctr',555
+69600,0,'Assumption Bowness',696
+69601,0,'Vly Rdg',696
+69700,0,'B Grandin Beaverbrook',697
+69801,0,'69 St Sta',698
+69800,0,'WCHS / St Mary''''s',698
+69903,1,'N',699
+69904,1,'S',699
+70203,1,'N',702
+70204,1,'S',702
+70301,0,'Churchill',703
+70300,0,'Sherwood',703
+70401,0,'Churchill',704
+70400,0,'Country Hls',704
+70501,0,'Churchill',705
+70500,0,'Edgebrook Rise',705
+70601,0,'Churchill',706
+70600,0,'Hamptons',706
+71000,0,'Beaverbrook',710
+71001,0,'Cranston',710
+71100,0,'Beaverbrook',711
+71101,0,'Douglas Glen',711
+71200,0,'Beaverbrook',712
+71201,0,'Parkland',712
+71300,0,'Beaverbrook',713
+71301,0,'Deer Run',713
+71400,0,'Beaverbrook',714
+71401,0,'Prestwick',714
+71500,0,'Beaverbrook',715
+71501,0,'Queensland',715
+71600,0,'Beaverbrook',716
+71601,0,'New Brighton',716
+71700,0,'Beaverbrook',717
+71701,0,'Copperfield',717
+71800,0,'Beaverbrook',718
+71801,0,'Douglasdale',718
+71900,0,'Beaverbrook',719
+71901,0,'McKenzie',719
+72101,0,'Bowness',721
+72100,0,'Tuscany',721
+72401,0,'Bowness',724
+72400,0,'Tuscany',724
+72501,0,'Bowness',725
+72500,0,'Silver Spgs',725
+73101,0,'Central Memorial',731
+73100,0,'Riverbend',731
+73200,0,'Central Memorial',732
+73201,0,'Glamorgan',732
+73300,0,'Central Memorial',733
+73301,0,'Lakeview',733
+73401,0,'Central Memorial',734
+73400,0,'Ogden',734
+73501,0,'Central Memorial',735
+73500,0,'North Ogden',735
+73701,0,'Diefenbaker',737
+73700,0,'Harvest Hls',737
+73801,0,'Diefenbaker',738
+73800,0,'N Panorama Hls',738
+73901,0,'Diefenbaker',739
+73900,0,'Panorama Hls',739
+74001,0,'Crescent Hts',740
+74000,0,'Saddletowne',740
+74101,0,'Crescent Hts',741
+74100,0,'Saddlecrest',741
+74201,0,'Crescent Hts',742
+74200,0,'Saddle Rdg',742
+74301,0,'Crescent Hts',743
+74300,0,'Whitehorn',743
+74401,0,'Crescent Hts',744
+74400,0,'SCoventry',744
+74501,0,'Crescent Hts',745
+74500,0,'Vista Hts',745
+74600,0,'Coventry Hls',746
+74601,0,'Crescent Hts',746
+74701,0,'Crescent Hts',747
+74700,0,'Hidden Vly',747
+75101,0,'Fowler',751
+75100,0,'Taradale',751
+75201,0,'Fowler',752
+75200,0,'Martindale',752
+75300,0,'Evanston',753
+75301,0,'Fowler Evanston',753
+75401,0,'Fowler',754
+75400,0,'Saddletowne',754
+75500,0,'Castleridge',755
+75501,0,'Fowler',755
+75601,0,'Fowler',756
+75600,0,'Martindale',756
+75700,0,'Coral Spgs',757
+75701,0,'Fowler',757
+75801,0,'Fowler',758
+75800,0,'Taradale',758
+75900,0,'Falconridge',759
+75901,0,'Fowler',759
+76001,0,'Scarlett',760
+76000,0,'W Bonavista',760
+76101,0,'Auburn Bay',761
+76100,0,'Scarlett',761
+76200,0,'Bonavista',762
+76201,0,'Scarlett',762
+76300,0,'Scarlett',763
+76301,0,'Woodbine',763
+76400,0,'Scarlett',764
+76401,0,'Somerset-Bridlewood Sta',764
+76500,0,'Scarlett',765
+76501,0,'Somerset-Bridlewood Sta',765
+76601,0,'Evergreen',766
+76600,0,'Scarlett',766
+77001,0,'Ogden',770
+77000,0,'Western Canada',770
+77101,0,'Chinook',771
+77300,0,'R Thirsk',773
+77301,0,'Rocky Rdg',773
+77400,0,'R Thirsk',774
+77401,0,'Royal Oak',774
+77500,0,'Citadel',775
+77501,0,'R Thirsk',775
+77601,0,'Palliser / Oakridge',776
+77600,0,'Wise Wood',776
+77701,0,'Evergreen',777
+77700,0,'Wise Wood',777
+77800,0,'Wise Wood',778
+77801,0,'Woodlands',778
+77900,0,'Wise Wood',779
+77901,0,'Woodbine',779
+78001,0,'Oakridge',780
+78000,0,'Wise Wood',780
+79100,0,'MacEwan',791
+79101,0,'Queen Elizabeth',791
+79201,0,'Queen Elizabeth',792
+79200,0,'Sandstone',792
+79501,0,'Strathcona',795
+79500,0,'V Massey',795
+79600,0,'Edgemont',796
+79601,0,'Tom Baines',796
+79700,0,'Tom Baines Hamptons',797
+79801,0,'Annie Gale',798
+79800,0,'Taradale',798
+79901,0,'Annie Gale',799
+79900,0,'Coral Spgs',799
+80100,0,'Brebeuf',801
+80101,0,'Royal Oak',801
+80200,0,'Brebeuf',802
+80201,0,'Hawkwood',802
+80300,0,'Brebeuf Nolan Hl',803
+80401,0,'Brebeuf',804
+80400,0,'Sherwood',804
+80501,0,'Brebeuf',805
+80500,0,'Hamptons',805
+80700,0,'Brebeuf',807
+80701,0,'Rocky Rdg',807
+81100,0,'St Francis',811
+81101,0,'Tuscany',811
+81201,0,'Citadel',812
+81200,0,'St Francis',812
+81301,0,'Arbour Lk',813
+81300,0,'St Francis',813
+81401,0,'Royal Oak',814
+81400,0,'St Francis',814
+81501,0,'Arbour Lk',815
+81500,0,'St Francis',815
+81601,0,'Citadel',816
+81600,0,'St Francis',816
+81701,0,'Rocky Rdg',817
+81700,0,'St Francis',817
+81800,0,'Hamptons',818
+81801,0,'St Francis',818
+81900,0,'Sherwood',819
+81901,0,'St Francis',819
+82101,0,'B O''Byrne',821
+82100,0,'Mtn Park',821
+82201,0,'B O''Byrne',822
+82200,0,'McKenzie Lk Way',822
+83001,0,'M d''Houet',830
+83000,0,'Sandstone',830
+83101,0,'N Scenic Acres',831
+83100,0,'St Francis',831
+83201,0,'S Scenic Acres',832
+83200,0,'St Francis',832
+83300,0,'Dalhousie',833
+83301,0,'M d''Houet',833
+83400,0,'Dalhousie',834
+83401,0,'M d''Houet',834
+83500,0,'Anderson',835
+83701,0,'S Scenic Acres',837
+83801,0,'N Scenic Acres',838
+84101,0,'Hidden Vly',841
+84100,0,'Notre Dame',841
+84201,0,'MacEwan',842
+84200,0,'Notre Dame',842
+85100,0,'Lynnwood',851
+85101,0,'St Augustine',851
+85300,0,'Riverbend',853
+85301,0,'St Augustine',853
+85701,0,'Evergreen',857
+85700,0,'St Stephen',857
+86000,0,'B Grandin',860
+86001,0,'Cranston',860
+86101,0,'Auburn Bay',861
+86100,0,'B Grandin',861
+87801,0,'Chaparral',878
+88001,0,'Heritage',880
+88000,0,'St Matthew',880
+88300,0,'Evanston',883
+88301,0,'St Helena Evanston',883
+88400,0,'Kincora',884
+88401,0,'St Helena Kincora',884
+88800,0,'North Pte',888
+88801,0,'St Margaret',888
+88900,0,'Beddington',889
+89201,0,'McKenzie',892
+89200,0,'St Isabella',892
