@@ -72,11 +72,12 @@
 4901,0,'Forest Hts',49
 5000,0,'Forest Lawn',50
 5101,0,'Penbrooke',51
-5200,0,'Evergreen / Somerset',52
+5203,0,'Evergreen',52
+5204,0,'Somerset',52
 5400,0,'Edgevalley',54
 5500,0,'Falconridge',55
-5604,0,'Anderson',56
-5603,0,'Southland',56
+5604,0,'Anderson Sta',56
+5603,0,'Southland Sta',56
 5701,0,'Erinwoods',57
 5700,0,'McCall Way',57
 6000,0,'Martindale',60
@@ -93,7 +94,7 @@
 6900,0,'Deerfoot Ctr',69
 7000,0,'City Ctr',70
 7001,0,'Vly Rdg',70
-7101,0,'McKinght-Westwinds',71
+7101,0,'McKnight-Westwinds',71
 7100,0,'Saddletowne',71
 7200,0,'Circle Route',72
 7301,0,'Circle Route',73
@@ -103,8 +104,10 @@
 7700,0,'Edgemont',77
 7801,0,'Chaparral',78
 7800,0,'Sundance',78
-7900,0,'Acadia / Oakridge',79
-8000,0,'Oakridge / Acadia',80
+7903,0,'Heritage Sta',79
+7904,0,'Southland Sta',79
+8003,0,'Heritage Sta',80
+8004,0,'Southland Sta',80
 8103,1,'N',81
 8104,1,'S',81
 8300,0,'Parkland',83
@@ -116,9 +119,9 @@
 8800,0,'Harvest Hls',88
 8900,0,'Beddington',89
 8901,0,'Lions Pk',89
-9101,0,'Brentwood',91
-9100,0,'Lions Park',91
-9200,0,'Anderson',92
+9101,0,'Brentwood Sta',91
+9100,0,'Lions Pk Sta',91
+9200,0,'Anderson Sta',92
 9201,0,'McKenzie Towne',92
 9301,0,'Coach Hl',93
 9300,0,'Westbrook',93
@@ -217,9 +220,11 @@
 42001,0,'Evanston',420
 42000,0,'North Pte',420
 42100,0,'Panatella',421
-42500,0,'Sage Hill / Kincora',425
+42501,0,'Country Vlg',425
+42502,0,'Sage Hl',425
 42900,0,'Sherwood',429
-43000,0,'Sandstone / Airport',430
+43001,0,'Airport',430
+43002,0,'Sandstone',430
 43903,0,'69 St Sta',439
 43904,0,'Discovery Rdg',439
 44000,0,'Chateau Ests',440
@@ -308,7 +313,7 @@
 74201,0,'Crescent Hts',742
 74200,0,'Saddle Rdg',742
 74301,0,'Crescent Hts',743
-74300,0,'Whitehorn',743
+74300,0,'Whitehorn Sta',743
 74401,0,'Crescent Hts',744
 74400,0,'SCoventry',744
 74501,0,'Crescent Hts',745
@@ -351,7 +356,7 @@
 76600,0,'Scarlett',766
 77001,0,'Ogden',770
 77000,0,'Western Canada',770
-77101,0,'Chinook',771
+77101,0,'Chinook Sta',771
 77300,0,'R Thirsk',773
 77301,0,'Rocky Rdg',773
 77400,0,'R Thirsk',774
