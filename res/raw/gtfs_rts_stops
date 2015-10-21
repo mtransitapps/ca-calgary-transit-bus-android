@@ -46,6 +46,7 @@
 2157,'2157','23 St NE / 35 Ave NE',51.083995,-114.00499
 2158,'2158','23 St NE / 32 Ave NE',51.082219,-114.004926
 2164,'2164','Shawville Gt / Shawville Link SE',50.898931,-114.064968
+2165,'2165','5 St SW / 5 Ave SW',51.048407,-114.073879
 2234,'2234','6 Ave SE / 1 St SE',51.047488,-114.061551
 2256,'2256','Redstone St / 128 Ave NE',51.165535,-113.961798
 2257,'2257','Redstone Dr / Redstone St NE',51.168566,-113.962565
@@ -58,9 +59,9 @@
 2264,'2264','128 Ave NE / Redstone St',51.165352,-113.962929
 2267,'2267','9 Ave SW / 81 St SW',51.059553,-114.20549
 2268,'2268','9 Ave SW / 77 St SW',51.059753,-114.199942
-2270,'2270','Skyview Rnch Blvd / Skyview Pt Common NE',51.158071,-113.950492
-2271,'2271','Skyview Rnch Blvd / Skyview Rnch Ave NE',51.161084,-113.949822
-2272,'2272','Skyview Rnch Rd / Skyview Rnch Blvd NE',51.162736,-113.950322
+2270,'2270','Skyview Rnch Blvd / Skyview Pt Common NE',51.158607,-113.950978
+2271,'2271','Skyview Rnch Blvd / Skyview Rnch Ave NE',51.161077,-113.9507
+2272,'2272','Skyview Rnch Rd / Skyview Rnch Blvd NE',51.163052,-113.950965
 2273,'2273','80 Av NE & Martha''s Mdws Dr',51.125064,-113.963948
 2274,'2274','COUNTRY Hls Blvd / 14 St NE',51.154125,-114.027317
 2275,'2275','COUNTRY Hls Blvd / 19 St NE',51.154459,-114.028812
@@ -94,14 +95,14 @@
 3513,'3513','Copperpond Blvd / Copperpond Rd SE',50.923997,-113.929826
 3514,'3514','Copperpond Blvd / Copperpond Gt SE',50.924909,-113.925575
 3515,'3515','Copperpond Blvd / Copperpond Gt SE',50.924537,-113.925575
-3516,'3516','Copperpond Blvd / Copperpond Pk SE',50.921485,-113.917617
-3517,'3517','Copperpond Blvd / Copperpond Pk SE',50.921126,-113.918311
-3518,'3518','Copperpond Blvd / Copperpond St SE',50.918616,-113.916932
-3519,'3519','Copperpond Blvd / Copperpond St SE',50.918505,-113.917866
-3520,'3520','Copperpond Blvd / Copperstone St SE',50.916119,-113.916508
-3521,'3521','Copperstone Dr / Copperpond Blvd SE',50.915876,-113.917307
-3522,'3522','Copperpond Blvd / Copperpond Cv SE',50.922702,-113.91772
-3523,'3523','Copperpond Blvd / Copperpond Cv SE',50.922733,-113.918541
+3516,'3516','Copperpond Blvd / Copperpond Pk SE',50.921263,-113.920128
+3517,'3517','Copperpond Blvd / Copperpond Pk SE',50.921234,-113.920146
+3518,'3518','Copperpond Blvd / Copperpond St SE',50.917953,-113.918397
+3519,'3519','Copperpond Blvd / Copperpond St SE',50.917974,-113.918572
+3520,'3520','Copperpond Blvd / Copperstone St SE',50.916084,-113.9177
+3521,'3521','Copperstone Dr / Copperpond Blvd SE',50.915759,-113.918147
+3522,'3522','Copperpond Blvd / Copperpond Cv SE',50.92271,-113.920512
+3523,'3523','Copperpond Blvd / Copperpond Cv SE',50.922638,-113.920575
 3524,'3524','McIvor Blvd / Copperfield Blvd SE',50.919577,-113.931959
 3525,'3525','Quarry Pk Blvd / Quarry Dr SE',50.959516,-114.011188
 3526,'3526','Quarry Pk Blvd / Quarry LK SE',50.959531,-114.013682
@@ -147,23 +148,23 @@
 3575,'3575','Chaparral Vly Dr / Chaparral Vly Gdns SE',50.88026,-114.013206
 3576,'3576','Chaparral Vly Dr / Chaparral Vly Grv SE',50.884155,-114.01519
 3577,'3577','6 St / Shawville Gt SE',50.897261,-114.072163
-3578,'3578','Cranston Gt / Cranford Dr SE',50.86797,-113.972302
-3579,'3579','Cranford Dr / Cranford Pk SE',50.869226,-113.967662
-3580,'3580','Cranford Dr / Cranford Close SE',50.872339,-113.966944
+3578,'3578','Cranston Gt / Cranford Dr SE',50.869962,-113.971342
+3579,'3579','Cranford Dr / Cranford Pk SE',50.870909,-113.967836
+3580,'3580','Cranford Dr / Cranford Close SE',50.87281,-113.967166
 3581,'3581','Cranford Dr / Cranford Cr SE',50.875801,-113.968638
 3582,'3582','Cranford Dr / Cranford St SE',50.877076,-113.970184
 3583,'3583','Cranford Dr / Cranarch Rd SE',50.87689,-113.975614
 3584,'3584','Cranarch Rd / Cranston Ave SE',50.878578,-113.976461
 3586,'3586','52 St / Auburn Mdws Dr SE',50.893094,-113.943181
 3588,'3588','52 St / Auburn Bay Dr SE',50.89897,-113.944429
-3589,'3589','Mahogany Blvd / Mahogany Hts SE',50.902625,-113.933159
-3590,'3590','Mahogany Blvd / Mahogany Way SE',50.90273,-113.928778
-3591,'3591','Mahogany Blvd / Marquis Gdns SE',50.902481,-113.922431
-3592,'3592','Mahogany Blvd / Marquis Grn SE',50.902653,-113.913637
-3593,'3593','Mahogany Blvd / 300 Marquis Ct SE',50.900339,-113.910598
-3594,'3594','Cranford Dr / Cranston Gt SE',50.86856,-113.971192
-3595,'3595','Cranford Dr / Cranford Pk SE',50.869079,-113.967021
-3596,'3596','Cranford Dr / Cranford Close SE',50.87254,-113.966344
+3589,'3589','Mahogany Blvd / Mahogany Hts SE',50.902545,-113.933563
+3590,'3590','Mahogany Blvd / Mahogany Way SE',50.90257,-113.928824
+3591,'3591','Mahogany Blvd / Marquis Gdns SE',50.902463,-113.922387
+3592,'3592','Mahogany Blvd / Marquis Grn SE',50.903395,-113.91441
+3593,'3593','Mahogany Blvd / 300 Marquis Ct SE',50.901265,-113.910407
+3594,'3594','Cranford Dr / Cranston Gt SE',50.870324,-113.970755
+3595,'3595','Cranford Dr / Cranford Pk SE',50.871504,-113.966664
+3596,'3596','Cranford Dr / Cranford Close SE',50.873463,-113.966912
 3597,'3597','Cranford Dr / Cranford Cr SE',50.876032,-113.968133
 3598,'3598','Cranford Dr / Cranford St SE',50.877498,-113.970467
 3600,'3600','52 St / Mahogany Rd SE',50.89326,-113.942666
@@ -172,7 +173,7 @@
 3605,'3605','Mahogany Blvd / Mahogany Hts SE',50.90243,-113.932733
 3606,'3606','Mahogany Blvd / Marine Dr SE',50.902438,-113.928437
 3607,'3607','Mahogany Blvd / Marquis Gdns SE',50.902241,-113.922083
-3608,'3608','Mahogany Blvd / Marquis Grn SE',50.902293,-113.914213
+3608,'3608','Mahogany Blvd / Marquis Grn SE',50.902756,-113.913559
 3609,'3609','Cranarch Rd / Cranford Dr SE',50.8787,-113.97597
 3610,'3610','52 St / Mckenzie Towne Li SE',50.91503,-113.956345
 3611,'3611','114 Ave SE (WBay) / 29 St SE',50.951569,-113.996145
@@ -192,7 +193,6 @@
 3651,'3651','Canyon Mdws Stn (SB Lk Fraser Dr)',50.936489,-114.06666
 3652,'3652','90 Ave SE / 38 St SE',50.972177,-113.978389
 3670,'3670','194 Ave SE / Walden Gt SE',50.877187,-114.035438
-3677,'3677','Symons Vly Rd / Sage Hls Dr NW',51.16991,-114.133204
 3678,'3678','Symons Vly Rd / Kincora Gln Rd NW',51.165208,-114.130157
 3679,'3679','Hamptons Dr / Hampstead Grv NW',51.142929,-114.131267
 3680,'3680','Hamptons Dr / Hampstead Ter NW',51.144698,-114.133635
@@ -464,7 +464,7 @@
 3972,'3972','Copperfield Blvd / Copperfield Ln SE',50.908158,-113.941091
 3973,'3973','Copperfield Blvd / Copperfield Gdns SE',50.909355,-113.944897
 3974,'3974','Barlow Trl / Airport Rd NE',51.135353,-114.000277
-3975,'3975','McKenzie Towne Link / 52 St SE',50.914551,-113.955783
+3975,'3975','McKenzie Towne Link / 52 St SE',50.928744,-113.958117
 3976,'3976','McKenzie Towne Link / 52 St SE',50.914467,-113.956068
 3978,'3978','Sunpark Plz / W. Of Sunpark Dr SE',50.901805,-114.057813
 3979,'3979','Sunpark Plz / Sunpark Dr SE',50.901119,-114.055936
@@ -565,7 +565,7 @@
 4083,'4083','21 St SW / 51 Ave SW',51.007467,-114.112115
 4084,'4084','52 St NE / 80 Ave NE',51.125602,-113.958142
 4085,'4085','Country Vlg Way NE / Country Vlg Link',51.156571,-114.066687
-4086,'4086','Saddlebrook Dr / Saddlelake Way NE',51.132161,-113.929873
+4086,'4086','Saddlebrook Dr / Saddlelake Way NE',51.131393,-113.929598
 4087,'4087','42 St SE / 104 Ave SE',50.960186,-113.973879
 4088,'4088','Martindale Blvd / Martha''s Way NE',51.122678,-113.961593
 4089,'4089','Martindale Dr / Martindale Blvd NE',51.120944,-113.954275
@@ -594,7 +594,6 @@
 4112,'4112','Dalhousie LRT Sta NB',51.103865,-114.158003
 4113,'4113','Collegiate Rd / W. Of Collegiate Ct NW',51.078292,-114.140638
 4114,'4114','Panatela Gt / Harvest Hls Blvd NE',51.167033,-114.069068
-4115,'4115','West Campus Dr / Oki Dr NW',51.07458,-114.14515
 4116,'4116','West Campus Way / Collegiate Rd NW',51.078517,-114.141723
 4117,'4117','Shawville Blvd / N. Of Shalom Way SE',50.907917,-114.067614
 4118,'4118','Shawville Blvd / 162 Ave SE',50.904698,-114.066237
@@ -1065,7 +1064,6 @@
 4618,'4618','12 Ave NE / 5 St NE',51.063231,-114.050039
 4619,'4619','12 Ave NE / 4 St NE',51.063231,-114.052551
 4624,'4624','BOW Trl / 26 St SW',51.04143,-114.123348
-4625,'4625','12 Ave SW / 29 St SW',51.041355,-114.129074
 4626,'4626','Spruce Dr / 8 Ave SW',51.044673,-114.135604
 4627,'4627','Spruce Dr / Cedar Cr SW',51.047758,-114.135228
 4628,'4628','Spruce Dr / 37 St SW',51.052217,-114.140647
@@ -1326,7 +1324,6 @@
 4891,'4891','McCall Way / Palmer Rd NE',51.097016,-114.006561
 4892,'4892','Coventry Dr / Covington Close NE',51.161973,-114.042781
 4893,'4893','Coventry Dr / Covington Rd NE',51.160174,-114.043511
-4894,'4894','Richard Rd / Flanders Ave SW',51.015273,-114.119336
 4895,'4895','130 Ave SE / W.Entr South Trl Mall',50.931824,-113.97074
 4896,'4896','130 Ave SE / Mt McKenzie Dr',50.931796,-113.982855
 4897,'4897','James McKevitt Rd / Millrise Way SW',50.921212,-114.07802
@@ -1614,6 +1611,7 @@
 5200,'5200','Elbow Dr / Southampton Dr SW',50.952663,-114.084691
 5201,'5201','Canada Olympic Dr / W. Of Canada Olympic Rd SW',51.083777,-114.222184
 5203,'5203','Elbow Dr Loop',50.934012,-114.08452
+5204,'5204','Elbow Dr / Canyon Mdws Dr SW',50.940155,-114.085217
 5205,'5205','Elbow Dr / Canterbury Ct SW',50.941925,-114.085477
 5206,'5206','Elbow Dr / Canterbury Dr SW',50.948137,-114.084276
 5207,'5207','Elbow Dr / Anderson Rd SW',50.951493,-114.084308
@@ -2041,7 +2039,6 @@
 5645,'5645','6 Ave SW / 4 St SW',51.047795,-114.072539
 5646,'5646','6 Ave SW / 10 St SW',51.048199,-114.086541
 5651,'5651','Bow Trl / 24 St SW',51.041796,-114.117775
-5653,'5653','Bow Trl / 29 St SW',51.041675,-114.130025
 5656,'5656','Bow Trl / 37 St SW',51.045437,-114.141464
 5657,'5657','Bow Trl / 37 St SW',51.045187,-114.140823
 5659,'5659','8 Ave SW / Westview Dr',51.045124,-114.155923
@@ -2050,7 +2047,6 @@
 5662,'5662','Spruce Dr / 3 Ave SW',51.050021,-114.136201
 5663,'5663','14 St NW / 20 Ave NW',51.070831,-114.094527
 5664,'5664','Spruce Dr / Bow Trl SW',51.041985,-114.135684
-5665,'5665','12 Ave SW / 31 St SW',51.041349,-114.132114
 5667,'5667','Bow Tr / 24 St SW',51.041431,-114.11864
 5669,'5669','19 St SW / 11 Ave SW',51.043243,-114.106813
 5670,'5670','12 Ave SW / 18 St SW',51.042449,-114.103781
@@ -2135,7 +2131,6 @@
 5752,'5752','Crowchild Trl / 26 Ave SW Overpass',51.030315,-114.118346
 5753,'5753','53 St NW / Dalhart Dr',51.111364,-114.158243
 5754,'5754','Crowchild Trl / N. Of 33 Ave SW',51.024207,-114.118682
-5755,'5755','Richard Rd / Flanders Ave SW',51.015724,-114.11975
 5756,'5756','12 St E / Ctr Ave',51.052147,-114.033618
 5757,'5757','Crowchild Trl / 54 Ave SW',51.004667,-114.118211
 5758,'5758','Glenmore Trl / Crowchild Trl SW',50.999501,-114.116607
@@ -2150,7 +2145,6 @@
 5767,'5767','Crowchild Trl / 26 Ave Overpass SW',51.029795,-114.117665
 5768,'5768','Ricard Rd / Richardson Way SW',51.012913,-114.121378
 5769,'5769','Crowchild Trl / 17 Ave Overpass SW',51.037507,-114.113091
-5770,'5770','Crowchild Trl / Flanders Ave SW',51.016403,-114.117355
 5771,'5771','Foothills Hosp (Women''s Health Ctr)',51.065251,-114.132606
 5772,'5772','Uxbridge Dr / 16 Ave NW',51.069238,-114.129033
 5773,'5773','Bowness Rd / 46 St NW',51.072239,-114.160185
@@ -2570,7 +2564,7 @@
 6205,'6205','Crowchild Trl / 63 Ave SW',50.997434,-114.117776
 6206,'6206','Crowchild Trl / Glenmore Trl SW',50.99924,-114.117692
 6208,'6208','Macleod Trl / S. Of 61 Ave SW',50.99655,-114.071776
-6209,'6209','85 Ave SE / 24 St SE',50.975768,-113.998746
+6209,'6209','85 Ave SE / 24 St SE',50.97592,-113.997099
 6210,'6210','Crowchild T R / 63 Ave SW',50.996839,-114.118098
 6211,'6211','Rundlehorn Dr / 36 St NE',51.071383,-113.980447
 6212,'6212','Rundlehorn Dr / 48 St NE',51.07075,-113.964355
@@ -3899,7 +3893,7 @@
 7630,'7630','Crowfoot Way / Crowfoot Cr NW',51.125936,-114.207533
 7631,'7631','Arbour Lk Rd / W. Of Crowfoot Rise NW',51.128201,-114.213486
 7632,'7632','Coventry Hls Blvd / Country Vlg Rd NE',51.162588,-114.056103
-7633,'7633','85 Ave SE / 24 St SE',50.975722,-114.000785
+7633,'7633','27 St / 24 St SE',50.974947,-114.001346
 7635,'7635','24 St SE / 114 Ave SE',50.954117,-114.000463
 7636,'7636','Kincora Dr / Kincora HTS NW',51.155909,-114.136112
 7638,'7638','Kincora Dr / Kincora Mnr NW',51.156994,-114.138333
@@ -4367,7 +4361,7 @@
 8136,'8136','61 Ave SE / BARLOW Trl',50.998754,-113.983471
 8137,'8137','61 Ave SE / BARLOW Trl',50.998885,-113.985074
 8138,'8138','Marbank Dr / 36 St NE',51.062561,-113.980522
-8139,'8139','Skyview Rnch Rd / Skyview Rnch St NE',51.16289,-113.956593
+8139,'8139','Skyview Rnch Rd / Skyview Rnch St NE',51.163021,-113.956087
 8140,'8140','Marlborough LRT Sta NB',51.058884,-113.981405
 8141,'8141','36 St NE / S. Of 5 Ave NE',51.056052,-113.98136
 8142,'8142','19 St SE / 64 Ave SE',50.99558,-114.013625
@@ -5655,7 +5649,7 @@
 9538,'9538','Taradale Dr / Taralake Vw NE',51.122535,-113.931001
 9539,'9539','Taradale Dr / Taravista Dr NE',51.121265,-113.929556
 9540,'9540','Taradale Dr / Taralake Rd NE',51.120149,-113.928186
-9545,'9545','Saddlebrook Dr / Saddlebrook Cir NE',51.132664,-113.929986
+9545,'9545','Saddlebrook Dr / Saddlebrook Cir NE',51.134219,-113.931019
 9546,'9546','Saddlecrest Blvd / Saddlebrook Common NE',51.136625,-113.930809
 9547,'9547','Saddlecrest Blvd / 68 St NE',51.137309,-113.934567
 9548,'9548','Saddlecrest Blvd / Saddlecrest Gdns NE',51.137453,-113.936645
@@ -5767,7 +5761,7 @@
 9661,'9661','Taradale Rd / Taralake Rd NE',51.120691,-113.928608
 9662,'9662','Taradale Rd / Taralake Gt NE',51.121883,-113.930129
 9663,'9663','Taradale Rd / Taralake Vw NE',51.123276,-113.93078
-9666,'9666','80 Ave NE / 52 St NE',51.125216,-113.959211
+9666,'9666','80 Ave NE / 52 St NE',51.125251,-113.959326
 9667,'9667','Sunpark Plz / Sunpark Gt SE',50.904088,-114.057043
 9668,'9668','Sunpark Gt / Sunpark Plz',50.904416,-114.056823
 9669,'9669','Anderson LRT Sta',50.953984,-114.073856
