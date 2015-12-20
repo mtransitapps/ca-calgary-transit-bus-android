@@ -80,6 +80,7 @@
 5603,0,'Southland Sta',56
 5701,0,'Erinwoods',57
 5700,0,'McCall Way',57
+5900,0,'Route 59',59
 6000,0,'Martindale',60
 6101,0,'Taradale',61
 6201,0,'City Ctr',62
@@ -171,7 +172,7 @@
 15100,0,'City Ctr',151
 15101,0,'New Brighton',151
 15200,0,'New Brighton',152
-15300,0,'Copperfield',153
+15300,0,'Copperfield / Out Of Service Next Bus Please',153
 15400,0,'Hamptons',154
 15703,1,'N',157
 15704,1,'S',157
@@ -397,6 +398,8 @@
 80500,0,'Hamptons',805
 80700,0,'Brebeuf',807
 80701,0,'Rocky Rdg',807
+81000,0,'North Pte',810
+81001,0,'St Francis',810
 81100,0,'St Francis',811
 81101,0,'Tuscany',811
 81201,0,'Citadel',812
@@ -417,8 +420,8 @@
 81901,0,'St Francis',819
 82101,0,'B O''Byrne',821
 82100,0,'Mtn Park',821
-82201,0,'B O''Byrne',822
-82200,0,'McKenzie Lk Way',822
+82501,0,'B Carroll',825
+82500,0,'McKenzie Towne',825
 83001,0,'M d''Houet',830
 83000,0,'Sandstone',830
 83101,0,'N Scenic Acres',831
