@@ -141,7 +141,7 @@
 9500,0,'Westwinds Business Pk',95
 9600,0,'Anderson Sta',96
 9601,0,'Mckenzie',96
-9701,0,'Scenic Acres',97
+9701,0,'Crowfoot / Scenic Acres',97
 9700,0,'South Ranchlands',97
 9804,0,'69 St Sta',98
 9803,0,'Cougar Rdg',98
@@ -160,8 +160,8 @@
 11000,0,'City Ctr',110
 11201,0,'City Ctr',112
 11202,0,'Westhills',112
+11301,0,'Crowfoot / Scenic Acres',113
 11300,0,'North Ranchlands',113
-11301,0,'Scenic Acres',113
 11400,0,'Panorama Country Hls',114
 11601,0,'City Ctr',116
 11600,0,'Coventry Hls',116
@@ -174,7 +174,7 @@
 12500,0,'Erin Woods',125
 12600,0,'Applewood',126
 12601,0,'City Ctr',126
-12701,0,'Barlow/Max Bell',127
+12701,0,'Barlow / Max Bell',127
 12700,0,'Marlborough',127
 13300,0,'City Ctr',133
 13301,0,'Cranston',133
@@ -261,6 +261,7 @@
 50201,0,'Sta Heritage',502
 50600,0,'Chinook Ctr Shuttle',506
 55500,0,'Dashmesh Ctr',555
+69501,0,'St Francis',695
 69600,0,'Assumption Bowness',696
 69601,0,'Vly Rdg',696
 69700,0,'B Grandin Beaverbrook',697
@@ -300,6 +301,8 @@
 71901,0,'McKenzie',719
 72101,0,'Bowness',721
 72100,0,'Tuscany',721
+72201,0,'Bowness',722
+72202,0,'Tuscany',722
 72401,0,'Bowness',724
 72400,0,'Tuscany',724
 72501,0,'Bowness',725
@@ -432,6 +435,7 @@
 81801,0,'St Francis',818
 81900,0,'Sherwood',819
 81901,0,'St Francis',819
+82004,0,'Evanston',820
 82101,0,'B O''Byrne',821
 82100,0,'Mtn Park',821
 82501,0,'B Carroll',825
@@ -447,6 +451,7 @@
 83400,0,'Dalhousie',834
 83401,0,'M d''Houet',834
 83500,0,'Anderson',835
+83602,0,'St V De Paul Scenic Acres',836
 83701,0,'S Scenic Acres',837
 83801,0,'N Scenic Acres',838
 84101,0,'Hidden Vly',841
@@ -468,8 +473,6 @@
 87801,0,'Chaparral',878
 88001,0,'Heritage',880
 88000,0,'St Matthew',880
-88300,0,'Evanston',883
-88301,0,'St Helena',883
 88400,0,'Kincora',884
 88401,0,'St Helena',884
 88800,0,'North Pte',888
