@@ -15,7 +15,7 @@
 801,0,'Brentwood',8
 800,0,'North Pte',8
 900,0,'Dalhousie',9
-901,0,'Varsity Acres',9
+901,0,'Foothills Medical Ctr',9
 1000,0,'Home Rd',10
 1001,0,'Southcentre',10
 1100,0,'Southwest Loop',11
@@ -107,7 +107,8 @@
 7303,0,'Brentwood',73
 7304,0,'Chinook',73
 7401,0,'Tuscany',74
-7500,0,'Riverbend',75
+7503,0,'City Ctr',75
+7504,0,'Riverbend',75
 7601,0,'Crowfoot',76
 7600,0,'Dalhousie',76
 7700,0,'Edgemont',77
@@ -129,7 +130,7 @@
 8900,0,'Beddington',89
 8901,0,'Lions Pk',89
 9000,0,'Bridgeland',90
-9001,0,'Parkhill',90
+9001,0,'Sunalta',90
 9101,0,'Brentwood Sta',91
 9100,0,'Lions Pk Sta',91
 9200,0,'Anderson Sta',92
@@ -151,6 +152,8 @@
 10201,0,'Douglasdale',102
 10300,0,'City Ctr',103
 10301,0,'McKenzie',103
+10401,0,'Foothills Medical Ctr',104
+10400,0,'Sunnyside',104
 10500,0,'Dalhousie',105
 10501,0,'Lions Pk',105
 10700,0,'City Ctr',107
@@ -227,7 +230,8 @@
 41101,0,'City Ctr',411
 41100,0,'East Calgary',411
 41201,0,'Bow Trl',412
-41400,0,'14 St Crosstown',414
+41404,0,'City Ctr',414
+41403,0,'North Haven',414
 42001,0,'Evanston',420
 42000,0,'North Pte',420
 42100,0,'Panatella',421
@@ -247,6 +251,8 @@
 44400,0,'Somerset Bridlewood Sta',444
 44501,0,'Saddletown',445
 44500,0,'Skyview Ranch',445
+44900,0,'Eau Claire',449
+44901,0,'Parkhill',449
 45201,0,'69 St Sta',452
 45200,0,'Wentworth',452
 45301,0,'69 St Sta',453
@@ -299,6 +305,8 @@
 71801,0,'Douglasdale',718
 71900,0,'Beaverbrook',719
 71901,0,'McKenzie',719
+72003,0,'Beaverbrook',720
+72004,0,'Mt McKenzie',720
 72101,0,'Bowness',721
 72100,0,'Tuscany',721
 72201,0,'Bowness',722
@@ -394,6 +402,7 @@
 79101,0,'Queen Elizabeth',791
 79201,0,'Queen Elizabeth',792
 79200,0,'Sandstone',792
+79300,0,'Queen Elizabeth / Sunnyside',793
 79501,0,'Strathcona',795
 79500,0,'V Massey',795
 79600,0,'Edgemont',796
@@ -479,3 +488,5 @@
 88801,0,'St Margaret',888
 89201,0,'McKenzie',892
 89200,0,'St Isabella',892
+89401,0,'69 St SW',894
+89402,0,'Strathcona',894
