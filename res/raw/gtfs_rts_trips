@@ -120,6 +120,8 @@
 8004,0,'Southland Sta',80
 8103,1,'N',81
 8104,1,'S',81
+8201,0,'Brentwood',82
+8200,0,'Nolan Hl',82
 8300,0,'Parkland',83
 8400,0,'Palliser',84
 8501,0,'McKnight-Westwinds',85
@@ -179,6 +181,8 @@
 12601,0,'City Ctr',126
 12701,0,'Barlow / Max Bell',127
 12700,0,'Marlborough',127
+12901,0,'Dalhousie',129
+12900,0,'Sage Hl',129
 13300,0,'City Ctr',133
 13301,0,'Cranston',133
 13403,0,'Crowfoot',134
@@ -239,8 +243,6 @@
 42201,0,'Montgomery',422
 42501,0,'Country Vlg',425
 42502,0,'Sage Hl',425
-42901,0,'Dalhousie',429
-42900,0,'Sherwood',429
 43001,0,'Airport',430
 43002,0,'Sandstone',430
 43903,0,'69 St Sta',439

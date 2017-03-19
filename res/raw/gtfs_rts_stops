@@ -5,10 +5,12 @@
 2024,'2024','Edmonton Trl @ 6 Ave NE',51.05773,-114.054426
 2027,'2027','Radnor Ave @ Remington Rd',51.064064,-114.040824
 2030,'2030','7 St SW @ 7 Ave SW',51.047054,-114.078824
+2031,'2031','Nolan Hl Gt @ Shanappi Tr NW',51.179856,-114.161529
 2034,'2034','Nolan Hl Blvd Farside Nolan Hl Dr',51.171915,-114.157201
 2035,'2035','Nolan Hl Dr @ Nolanfield Rd NW',51.172571,-114.160533
 2036,'2036','Nolan Hl Dr @ Nolanfield Ln NW',51.174407,-114.160997
 2037,'2037','Nolan Hl Dr @ Nolanfield Hts NW',51.176731,-114.162292
+2038,'2038','Nolan Hl Gt @ Nolanfield Way NW',51.179002,-114.162744
 2039,'2039','Nolan Hl Blvd @ Shaganappi Tr NW',51.172536,-114.155891
 2047,'2047','Nolan Hl Dr NW @ Nolanfield Pt NW',51.178811,-114.166014
 2048,'2048','Nolan Hl Bvd @ Nolancrest Gr NW',51.178604,-114.170647
@@ -18,26 +20,43 @@
 2052,'2052','Nolan Hl Bv @ Nolanshire Gr NW',51.172748,-114.16407
 2053,'2053','Nolan Hl Bv @ Nolanshire Pt 100 NW',51.171535,-114.162001
 2054,'2054','Kincora Ga @ Shaganappi Tr NW',51.166028,-114.147628
+2055,'2055','Nolan Hl Dr @ Nolanfield Pt NW',51.178536,-114.16528
+2056,'2056','Nolan Hl Bv @ Nolan Hl Dr NW',51.178649,-114.170406
+2057,'2057','Nolan Hl Gt @ Nolan Hl Dr NW',51.178673,-114.16344
 2058,'2058','Nolan Hl Bv @ Nolan Hl Heigths NW',51.171859,-114.158121
 2059,'2059','Shaganappi Tr @ Nolan Hl Bv NW',51.171968,-114.154337
 2061,'2061','Shaganappi Tr @ Sage Hl Bv NW',51.170106,-114.153089
+2062,'2062','Shaganappi Tr @ Kincora Ga NW',51.165839,-114.1488
 2063,'2063','Shaganappi Tr @ Kincora Ga NW',51.165348,-114.148304
 2064,'2064','Shaganappi Tr @ Sherwood Ga NW',51.163521,-114.143644
-2076,'2076','128 Ave @ Kincora Ga NW',51.167686,-114.146126
+2066,'2066','Nolan Hl Bv @ Nolanshire Pt 100 NW',51.171723,-114.161892
+2067,'2067','Nolan Hl Bv @ Nolanshire Cr NW',51.173239,-114.164713
+2068,'2068','Nolan Hl Bv @ Nolancrest Ht NW',51.173197,-114.169186
+2069,'2069','Nolan Hl Bv @ Nolancrest Ga NW',51.174094,-114.171424
+2070,'2070','Nolan Hl Bv @ Nolan Hl Ave NW',51.176249,-114.171477
+2076,'2076','Symons Vly Py @ Kincora Ga NW',51.167686,-114.146126
 2078,'2078','Shaganappi Tr @ 128 Ave NW',51.167681,-114.151947
 2079,'2079','Sherwood Bv @ Sherwood Ga NW',51.163013,-114.150369
 2080,'2080','Sherwood Ga @ Sherwood Sq NW',51.162938,-114.145474
 2081,'2081','Sherwood Ga @ Sherwood Sq NW',51.163466,-114.146831
-2082,'2082','Sage Hl @ Kincora Gt NW',51.170472,-114.148218
-2083,'2083','Sage Hl @ Shaganappi Tr NW',51.1706,-114.152186
+2082,'2082','Sage Hl Bv@ Kincora Gt NW',51.170472,-114.148218
+2083,'2083','Sage Hl Bv @ Shaganappi Tr NW',51.1706,-114.152186
 2084,'2084','29 St NE @ 23 Ave NE',51.072897,-113.991726
 2085,'2085','Cranston Av @ Cranberry Rd SE',50.879573,-113.977431
-2086,'2086','Evanston Dr @ Our Lady Of Grace School',51.179267,-114.121248
+2086,'2086','Evanston Dr @ Our Lady Of Grace School',51.179268,-114.121234
 2087,'2087','Evanston Dr @ Evansfield Way',51.179511,-114.110602
 2088,'2088','Symons Vly PY @ Evanston Dr',51.177943,-114.10585
 2089,'2089','Symons Vly PY @ Evanspark Dr',51.172526,-114.109064
 2090,'2090','Symons Vly PY @ Evanspark Cir',51.170185,-114.110497
 2091,'2091','YYC International Terminal',51.130857,-114.006519
+2092,'2092','Shaganappi Tr @ Nolan Hl Bv NW',51.173145,-114.154702
+2093,'2093','Shaganappi Tr @ Sage Valleyl Bv NW',51.175599,-114.156727
+2094,'2094','Sherwood Dr @ Symons Vly Py NW',51.16787,-114.160847
+2095,'2095','Sherwood Dr @ Sherwood Bv (North Leg) NW',51.165211,-114.160569
+2096,'2096','Sherwood Dr @ Sherwood Bv (South Leg) NW',51.162879,-114.15948
+2097,'2097','Sherwood Dr @ Sherwood Bv (North Leg) NW',51.165599,-114.160231
+2098,'2098','Sherwood Dr @ Symons Vly Py NW',51.168337,-114.160462
+2099,'2099','Shaganappi Tr @ Nolan Hl Ga NW',51.179852,-114.160183
 2112,'2112','Auburn Bay Dr @ S.LEG Auburn Gln Hts SE',50.894138,-113.95618
 2113,'2113','Auburn Bay Dr @ Auburn Gln Grn SE',50.897821,-113.952971
 2114,'2114','Auburn Bay Dr @ Auburn Gln Dr SE',50.898699,-113.950632
@@ -78,12 +97,17 @@
 2178,'2178','17 Ave SE @ 70 St SE',51.03772,-113.929609
 2179,'2179','17 Ave SE @ 68 St SE',51.037906,-113.936009
 2180,'2180','17 Ave SE @ 70 St SE',51.037937,-113.931015
+2193,'2193','Shaganappi Tr @ Sage Vly Bv NW',51.175259,-114.15722
+2194,'2194','Sage Hl Bv @ Shaganappi Tr NW',51.17027,-114.152326
+2195,'2195','Sage Hl Bv @ Kincora Ga NW',51.170407,-114.146624
+2196,'2196','Symons Vly Py @ Kincora Ga NW',51.168084,-114.147342
+2200,'2200','Front St @ Main Ent. South Health Campus SE',50.88132,-113.949646
 2234,'2234','6 Ave SE @ 1 St SE',51.047488,-114.061551
-2256,'2256','Redstone St @ 128 Ave NE',51.165535,-113.961798
-2257,'2257','Redstone Dr @ Redstone St NE',51.168566,-113.962565
-2258,'2258','Redstone Grv @ Redstone Dr NE',51.168617,-113.966042
-2259,'2259','Redstone Grv @ Redstone Villas NE',51.17088,-113.965964
-2260,'2260','Redstone Grv @ Redstone Plz NE',51.171944,-113.965372
+2256,'2256','Redstone St @ 128 Ave NE',51.165543,-113.961835
+2257,'2257','Redstone Dr @ Redstone St NE',51.168534,-113.96257
+2258,'2258','Redstone Grv @ Redstone Dr NE',51.168631,-113.966059
+2259,'2259','Redstone Grv @ Redstone Villas NE',51.170887,-113.965985
+2260,'2260','Redstone Grv @ Redstone Plz NE',51.171964,-113.965392
 2261,'2261','Redstone Grv @ Redstone Ave NE',51.173132,-113.963352
 2262,'2262','Redstone St @ Redstone Ave NE',51.172891,-113.9614
 2263,'2263','Redstone St @ Redstone Pk NE',51.169343,-113.962044
@@ -123,6 +147,7 @@
 2417,'2417','72 Ave NE @ 8 St NE',51.117711,-114.044381
 2418,'2418','130 Ave @ 50 St SE',50.932128,-113.963825
 2420,'2420','YYC International Terminal',51.130855,-114.006525
+2422,'2422','Hidden Vly Gt @ Hidden Vly Dr NW',51.1472,-114.099883
 3400,'3400','Discovery Rdg Blvd @ Discovery Rdg Gdns SW',51.015953,-114.219941
 3401,'3401','Aspen Hls Dr N. Of Aspen Stone Blvd SW',51.040265,-114.217047
 3402,'3402','Cortina Dr @ Tremblant Way SW',51.035913,-114.222888
@@ -156,7 +181,6 @@
 3497,'3497','Country Vlg Way @ Harvest Hls Blvd N',51.156824,-114.068671
 3498,'3498','Country Vlg Way @ Harvest Hls Blvd N',51.156853,-114.068435
 3499,'3499','Country Vlg Li NE @ Country Vlg Wy',51.15854,-114.067908
-3500,'3500','Front St @ Main Ent. South Health Campus SE',50.880966,-113.951546
 3501,'3501','Seton Blvd @ Auburn Bay Link SE',50.882798,-113.954296
 3502,'3502','52 St SE @ Mahogany Gt',50.899011,-113.944324
 3503,'3503','52 St SE @ Mahogany Gt',50.900078,-113.944852
@@ -387,7 +411,7 @@
 3785,'3785','69 St SW @ 69 St West LRT Sta',51.037152,-114.187355
 3786,'3786','Old Banff Coach Rd @ Coulee Way SW',51.067166,-114.194057
 3788,'3788','12 Ave SW @ 2 St SW',51.041493,-114.068727
-3791,'3791','10 Ave @ E. Of 14 St SW',51.044306,-114.095646
+3791,'3791','10 Ave @ E. Of 14 St SW',51.044287,-114.093892
 3792,'3792','Sunalta LRT Sta WB',51.044391,-114.099037
 3795,'3795','MRU Terminal',51.014743,-114.133965
 3796,'3796','MRU Terminal',51.01441,-114.133767
@@ -509,7 +533,7 @@
 3928,'3928','Everridge Dr @ Evermeadow Ave SW',50.914359,-114.123327
 3929,'3929','Sheriff King St @ Silverado Way SW',50.881775,-114.070764
 3930,'3930','Everridge Dr @ Everhollow Rise SW',50.917866,-114.124021
-3931,'3931','Beacon Hl Ctr @ CIBC',51.160601,-114.159411
+3931,'3931','Beacon Hl Ctr @ Canadien Tire',51.160601,-114.159411
 3932,'3932','Fish Crk Blvd @ Everridge Dr SW',50.921209,-114.122435
 3933,'3933','Fish Crk Blvd @ 100M W. Of 24 St SW',50.921214,-114.117881
 3934,'3934','Fish Crk Blvd @ Everstone Dr SW',50.917506,-114.10509
@@ -629,7 +653,7 @@
 4071,'4071','40 Ave NW @ Vardale Rd',51.0878,-114.142864
 4073,'4073','31 Ave NW @ Bowview Rd',51.080688,-114.178845
 4079,'4079','Aspen Way @ Silver Birch Way NW',51.090947,-114.217341
-4080,'4080','Bowfort Rd @ Bowfort Cr NW',51.084335,-114.208612
+4080,'4080','Bowfort Rd @ Bowridge Dr NW',51.084335,-114.208612
 4081,'4081','40 Ave NW @ 42 St NW',51.088374,-114.151641
 4082,'4082','24 St NW @ Cherokee Dr',51.084783,-114.117787
 4083,'4083','21 St SW @ 51 Ave SW',51.007467,-114.112115
@@ -1935,6 +1959,7 @@
 5489,'5489','Dalhousie Dr @ Dalton Dr NW',51.103298,-114.146923
 5490,'5490','Dalhousie Dr @ Dalton Dr NW',51.103298,-114.146923
 5491,'5491','Northland Dr @ 52 Ave NW',51.100423,-114.141514
+5492,'5492','Northland Dr @ Northmount Dr NW',51.095512,-114.141503
 5493,'5493','14 St NW @ Cambrian Dr',51.083765,-114.094487
 5494,'5494','Northmount Dr @ Boulton Rd NW',51.095951,-114.139962
 5495,'5495','Northmount Dr @ Brisebois Dr NW',51.092808,-114.128444
@@ -2395,7 +2420,7 @@
 5997,'5997','Manhattan Rd @ Blackfoot Trl SE',51.011355,-114.049954
 5998,'5998','Manhattan Rd @ Manilla Rd SE',51.014136,-114.053229
 5999,'5999','6 Ave SE @ Macleod Trl',51.047398,-114.057467
-6005,'6005','6 Ave SW @ 9 St SW',51.048113,-114.084534
+6005,'6005','6 Ave SW @ 9 St SW Farside',51.048113,-114.084534
 6007,'6007','31 St NW @ S. Of Brentwood Sta',51.083947,-114.129493
 6009,'6009','64 Ave N @ Ctr St N',51.110493,-114.061589
 6010,'6010','32 Ave NW @ 33 St NW',51.081369,-114.133693
@@ -3125,7 +3150,7 @@
 6782,'6782','Hawkstone Dr @ Hawkmount Grn NW',51.134829,-114.177832
 6785,'6785','Patina Dr @ Patina Pl SW',51.060681,-114.168358
 6786,'6786','Patina Dr @ Vlg Hts SW',51.056797,-114.169523
-6787,'6787','Front St @ Main Ent. South Health Campus SE',50.880938,-113.951588
+6787,'6787','Front St @ Main Ent. South Health Campus SE',50.881088,-113.950931
 6788,'6788','Seton Way @ Front St SE',50.881033,-113.956424
 6789,'6789','Strathcona Blvd @ Strathcona Dr SW',51.047447,-114.185347
 6790,'6790','17 Ave SW @ Costello Blvd',51.037449,-114.170974
@@ -3414,7 +3439,7 @@
 7127,'7127','Varsity Ests Dr @ Varsity Ests Vw NW',51.106119,-114.173395
 7128,'7128','Varsity Ests Dr @ Varsity Ests Cr NW',51.106927,-114.178547
 7129,'7129','53 St NW @ Valparaiso Pl',51.100671,-114.164599
-7130,'7130','53 St NW @ Valhalla Cr',51.098628,-114.164553
+7130,'7130','53 St NW @ Valhalla Cr',51.09755,-114.164633
 7131,'7131','Silver Spgs Blvd @ Silver Spgs Gt NW',51.104235,-114.188912
 7132,'7132','Silver Spgs Rd @ Silver Spgs Blvd NW',51.110215,-114.200437
 7133,'7133','Silver Spgs Rd @ S Silver Vly Dr NW',51.109155,-114.206888
@@ -4235,7 +4260,7 @@
 8015,'8015','Kincora Dr @ Kincora Blvd NW',51.158825,-114.128255
 8016,'8016','Sherwood Blvd @ Sherwood Link NW',51.160979,-114.149949
 8017,'8017','17 Ave SW @ 35 St SW',51.037727,-114.13773
-8018,'8018','17 Ave SW @ Georia St',51.037719,-114.153595
+8018,'8018','17 Ave SW @ Georgia St SW',51.037719,-114.153595
 8019,'8019','Kensington Rd @ 20 St NW',51.052434,-114.107439
 8020,'8020','Edgebrook Dr @ Edgebrook Lndg NW',51.1367,-114.131281
 8021,'8021','29 St NW @ 7 Ave NW',51.058422,-114.129602
@@ -4541,7 +4566,7 @@
 8347,'8347','Panatella Blvd @ Panatella St NW',51.162945,-114.091281
 8348,'8348','Taradale Dr @ Taralake Way NE',51.118662,-113.92737
 8349,'8349','Rocky Vista Dr @ Rocky Vista Pk NW',51.138068,-114.23774
-8350,'8350','Evanston Dr @ Evansborough Gt NW',51.17925,-114.121345
+8350,'8350','Evanston Dr @ Evansborough Gt NW',51.179255,-114.121342
 8351,'8351','Rocky Vista Dr @ Eamon Rd NW',51.137736,-114.23969
 8352,'8352','Martindale Blvd @ Martha''s Way NE',51.122616,-113.960925
 8353,'8353','Martindale Blvd @ Martinvally Way NE',51.121858,-113.955315
