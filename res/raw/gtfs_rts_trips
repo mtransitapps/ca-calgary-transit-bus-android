@@ -13,7 +13,7 @@
 700,0,'City Ctr',7
 701,0,'South Calgary',7
 801,0,'Brentwood',8
-800,0,'North Pte',8
+800,0,'North',8
 900,0,'Dalhousie',9
 901,0,'Foothills Medical Ctr',9
 1000,0,'Home Rd',10
@@ -237,7 +237,7 @@
 41404,0,'City Ctr',414
 41403,0,'North Haven',414
 42001,0,'Evanston',420
-42000,0,'North Pte',420
+42000,0,'North',420
 42100,0,'Panatella',421
 42200,0,'Dalhousie',422
 42201,0,'Montgomery',422
