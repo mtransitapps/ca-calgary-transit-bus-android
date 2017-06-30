@@ -90,49 +90,7 @@
 2198,'2198','Sage Hl Dr @ Sage Hl Gdns NW',51.171117,-114.137585
 2199,'2199','Sage Hl Dr @ Sage Hl Gdns NW',51.171814,-114.137923
 2200,'2200','Front St @ Main Ent. South Health Campus SE',50.88132,-113.949646
-2201,'2201','Walden Dr SE @ Acr. Walden Ter SE',50.874104,-114.03653
-2202,'2202','Walden Dr SE @ Walden Cr SE (N.Leg)',50.872975,-114.038183
-2203,'2203','Walden Dr SE @ Walden Pk SE',50.869087,-114.036862
-2204,'2204','Walden Dr SE @ Walden Hts SE',50.868065,-114.032462
-2205,'2205','Legacy Vlg Way / Legacy Vil Rd SE',50.859404,-114.024907
-2206,'2206','Legacy Vlg Way @ Legacy Blvd SE',50.857189,-114.020877
-2207,'2207','Legacy Cir SE @ Legacy Vlg Way',50.857363,-114.01736
-2210,'2210','Legacy Vw SE @ Legacy Mnr SE',50.858067,-114.009231
-2211,'2211','Legacy Cir @ Legacy Vw SE',50.860957,-114.009859
-2212,'2212','Legacy Cir @ Legacy Common SE',50.860895,-114.012224
-2213,'2213','Legacy Main St SE @ Legacy Gt SE',50.860955,-114.01803
-2214,'2214','Legacy Blvd SE @ Legacy Main St SE',50.861233,-114.021459
-2215,'2215','Walgrove Dr SE @ 210 Ave SE',50.8634,-114.021347
-2216,'2216','Walden Dr SE @ Walgrove Close SE',50.865627,-114.022954
-2217,'2217','Walden Dr SE @ Walgrove St SE',50.866615,-114.02564
-2218,'2218','Walden Blvd SE @ Walden Grv SE',50.869949,-114.02964
-2219,'2219','Walden Blvd SE @ Walden Rise SE',50.87271,-114.029774
-2220,'2220','Walden Blvd @ Walden Rise SE',50.872092,-114.030065
-2221,'2221','Walden Blvd @ Acr Fr Walden Grv SE',50.869401,-114.03002
-2222,'2222','Walden Dr @ Walgrove Cv SE',50.866125,-114.025424
-2223,'2223','Walden Dr SE @ Walgrove Dr SE',50.865429,-114.022951
-2225,'2225','Legacy Blvd SE @ 210 Ave SE',50.862519,-114.021754
-2226,'2226','Legacy Main St SE @ Legacy Blvd SE',50.860801,-114.020708
-2227,'2227','Legacy Cir SE @ Legacy Gt SE',50.860778,-114.016748
-2228,'2228','Legacy Cir SE @ Legacy Lndg SE',50.86078,-114.011566
-2229,'2229','Legacy Vw SE @ Legacy Legacy Cir SE',50.860203,-114.009363
-2231,'2231','Legacy Vw SE @ Legacy Mnr SE',50.8577,-114.009724
 2234,'2234','6 Ave SE @ 1 St SE',51.047488,-114.061551
-2236,'2236','Legacy Cir SE @ Legacy Hts SE',50.855695,-114.015477
-2237,'2237','Legacy Vlg Way @ Legacy Cir SE',50.857703,-114.017834
-2238,'2238','Legacy Vlg Rd SE @Legacy Vlg Way SE',50.859872,-114.025075
-2239,'2239','Legacy Vlg Link @ Legacy Main St SE',50.861997,-114.027133
-2240,'2240','Walden Common @ 210 Ave SE',50.866248,-114.028337
-2241,'2241','Walden Dr @ Walden Hts SE',50.868201,-114.033036
-2242,'2242','Walden Dr @ Acr Sleg Of Walden Cr SE',50.870604,-114.037792
-2243,'2243','Walden Dr @ Acr Nleg Of Walden Cr SE',50.873334,-114.037491
-2246,'2246','Legacy Vlg Li @ 210 Av SE',50.86381,-114.026257
-2247,'2247','Chaparral Blvd @ 194 Ave SE',50.878232,-114.024404
-2248,'2248','Shawville Way @ W. Of Shawville Link SE',50.900436,-114.069218
-2249,'2249','Shawville Link @ Shawville Way SE',50.89931,-114.066536
-2250,'2250','Shawville Blvd @ Shawville Gt SE',50.899854,-114.063378
-2251,'2251','162 Ave SE @ Shawville Blvd SE',50.904223,-114.064832
-2252,'2252','Legacy Vlg Link @ 210 Ave SE',50.863462,-114.026086
 2254,'2254','8 Ave NE @ 13A St NE',51.059082,-114.028984
 2256,'2256','Redstone St @ 128 Ave NE',51.165543,-113.961835
 2257,'2257','Redstone Dr @ Redstone St NE',51.168534,-113.96257
@@ -4158,7 +4116,6 @@
 7980,'7980','Skyview Rnch Rd @ Skyview Rnch Way NE',51.164672,-113.961728
 7981,'7981','Chaparral Dr @ Chaparral Way SE',50.886206,-114.031835
 7982,'7982','Chaparral Dr @ Chapala Dr SE',50.885116,-114.029302
-7983,'7983','Chaparral Blvd @ Chaparral Rdg Dr SE',50.8864,-114.024627
 7984,'7984','Skyview Rnch Way @ S Leg Skyview Spgs Gdns NE',51.161435,-113.966012
 7985,'7985','Chaparral Dr @ Chaparral Cir SE',50.887525,-114.042317
 7986,'7986','Chaparral Dr @ Chaparral Mnr SE',50.886746,-114.039281
@@ -5889,7 +5846,9 @@
 9983,'9983','6 Ave SW @ E. Of 1 St SW',51.047627,-114.064416
 9984,'9984','6 Ave SE @ 1 St SE',51.047498,-114.060015
 9985,'9985','5 Ave SE @ Macleod Trl',51.04816,-114.058446
+9991,'9991','Victoria Pk Garage',51.041281,-114.047853
+9992,'9992','Spg Gdns Garage',51.082209,-114.04416
 9996,'9996','52 St SE @ 86 Ave SE',50.975965,-113.958173
 9998,'9998','19 St SE @ 62 Ave SE',50.997509,-114.013415
-99911,'99911','VP Arrival',51.041376,-114.047851
-99921,'99921','SG Arrive',51.08342,-114.044951
+99911,'','VP Arrival',51.041376,-114.047851
+99921,'','SG Arrive',51.08342,-114.044951
