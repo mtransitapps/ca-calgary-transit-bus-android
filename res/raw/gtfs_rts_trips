@@ -201,6 +201,10 @@
 15803,0,'Royal Oak',158
 15804,0,'Tuscany',158
 15901,0,'Saddlebrook',159
+16704,0,'Legacy',167
+16703,0,'Walden',167
+16804,0,'Legacy',168
+16803,0,'Walden',168
 16900,0,'Rocky Rdg',169
 17400,0,'Tuscany',174
 17603,1,'N',176
@@ -216,14 +220,10 @@
 30100,0,'Country Vlg',301
 30200,0,'City Ctr',302
 30201,0,'South Health',302
-30400,0,'Ctr St North',304
-30401,0,'Stampede Pk',304
 30500,0,'17 AV SE',305
 30501,0,'Canada Olympic Pk',305
 30601,0,'Heritage',306
 30600,0,'Westbrook',306
-30801,0,'City Ctr',308
-30800,0,'Forest Lawn Shuttle',308
 40200,0,'Silverado',402
 40401,1,'E',404
 40402,1,'W',404
@@ -273,4 +273,3 @@
 50600,0,'Chinook Ctr Shuttle',506
 55500,0,'Dashmesh Ctr',555
 62700,0,'Columbia College',627
-1000100,0,'Stampede Parade',10001
