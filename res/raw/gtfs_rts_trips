@@ -374,6 +374,8 @@
 76600,0,'Scarlett',766
 76701,0,'AM',767
 76700,0,'PM',767
+76803,0,'Scarlett',768
+76804,0,'Walden',768
 77001,0,'Ogden',770
 77000,0,'Western Canada',770
 77101,0,'Chinook Sta',771
@@ -391,6 +393,8 @@
 77801,0,'Woodlands',778
 78001,0,'Oakridge',780
 78000,0,'Wise Wood',780
+78204,0,'HD Cartwrightl',782
+78203,0,'Nolan Hl',782
 79100,0,'MacEwan',791
 79101,0,'Queen Elizabeth',791
 79201,0,'Queen Elizabeth',792
@@ -459,10 +463,9 @@
 83601,0,'Scenic Acres',836
 83602,0,'St V De Paul',836
 83900,0,'Lady Of Grace / Evanston',839
-84101,0,'Hidden Vly',841
-84100,0,'Notre Dame',841
-84201,0,'MacEwan',842
-84200,0,'Notre Dame',842
+84304,0,'MacEwan',843
+84303,0,'Notre Dame',843
+84402,0,'Evanston',844
 85100,0,'Lynnwood',851
 85101,0,'St Augustine',851
 85300,0,'Riverbend',853
@@ -482,7 +485,6 @@
 88000,0,'St Matthew',880
 88400,0,'Kincora',884
 88401,0,'St Helena',884
-88800,0,'North Pte',888
 89201,0,'McKenzie',892
 89200,0,'St Isabella',892
 89401,0,'69 St SW',894
