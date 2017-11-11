@@ -66,7 +66,7 @@
 2115,'2115','Auburn Bay Dr @ 56 St SE',50.899205,-113.947186
 2116,'2116','Mahogany Blvd @ Mahogany Gt SE',50.899358,-113.93762
 2118,'2118','Mahogany Gt @ Mahogany Blvd SE',50.899631,-113.937671
-2119,'2119','Auburn Bay Dr @ Auburn Mdws Blvd',50.899381,-113.948023
+2119,'2119','Auburn Bay Dr @ Auburn Mdws Blvd',50.899359,-113.947927
 2120,'2120','Auburn Bay Dr @ Auburn Gln Dr SE',50.898166,-113.952893
 2121,'2121','Auburn Bay Dr @ Auburn Gln Grn SE',50.897618,-113.953707
 2122,'2122','Auburn Bay Dr @ Auburn Gln Way SE',50.895969,-113.955087
@@ -270,14 +270,14 @@
 3513,'3513','Copperpond Blvd @ Copperpond Rd SE',50.924,-113.929833
 3514,'3514','Copperpond Blvd @ Copperpond Gt SE',50.924909,-113.925575
 3515,'3515','Copperpond Blvd @ Copperpond Gt SE',50.924537,-113.925575
-3516,'3516','Copperpond Blvd @ Copperpond Pk SE',50.921263,-113.920128
-3517,'3517','Copperpond Blvd @ Copperpond Pk SE',50.921234,-113.920146
-3518,'3518','Copperpond Blvd @ Copperpond St SE',50.917953,-113.918397
-3519,'3519','Copperpond Blvd @ Copperpond St SE',50.917974,-113.918572
-3520,'3520','Copperpond Blvd @ Copperstone St SE',50.916084,-113.9177
-3521,'3521','Copperstone Dr @ Copperpond Blvd SE',50.915759,-113.918147
-3522,'3522','Copperpond Blvd @ Copperpond Cv SE',50.92291,-113.920489
-3523,'3523','Copperpond Blvd @ Copperpond Cv SE',50.922279,-113.920615
+3516,'3516','Copperpond Blvd @ Copperpond Pk SE',50.921276,-113.920055
+3517,'3517','Copperpond Blvd @ Copperpond Pk SE',50.921174,-113.920175
+3518,'3518','Copperpond Blvd @ Copperpond St SE',50.917951,-113.918358
+3519,'3519','Copperpond Blvd @ Copperpond St SE',50.917969,-113.91857
+3520,'3520','Copperpond Blvd @ Copperstone St SE',50.916085,-113.917684
+3521,'3521','Copperstone Dr @ Copperpond Blvd SE',50.915766,-113.918148
+3522,'3522','Copperpond Blvd @ Copperpond Cv SE',50.922876,-113.920461
+3523,'3523','Copperpond Blvd @ Copperpond Cv SE',50.92228,-113.920622
 3524,'3524','McIvor Blvd @ Copperfield Blvd SE',50.919577,-113.931959
 3525,'3525','Quarry Pk Blvd @ Quarry Dr SE',50.959516,-114.011188
 3526,'3526','Quarry Pk Blvd @ Quarry LK SE',50.959531,-114.013682
@@ -325,37 +325,37 @@
 3575,'3575','Chaparral Vly Dr @ Chaparral Vly Gdns SE',50.88026,-114.013206
 3576,'3576','Chaparral Vly Dr @ Chaparral Vly Grv SE',50.884155,-114.01519
 3577,'3577','6 St @ Shawville Gt SE',50.897261,-114.072163
-3578,'3578','Cranston Gt @ Cranford Dr SE',50.869962,-113.971342
-3579,'3579','Cranford Dr @ Cranford Pk SE',50.870909,-113.967836
-3580,'3580','Cranford Dr @ Cranford Close SE',50.87281,-113.967166
+3578,'3578','Cranston Gt @ Cranford Dr SE',50.869948,-113.971354
+3579,'3579','Cranford Dr @ Cranford Pk SE',50.870941,-113.967851
+3580,'3580','Cranford Dr @ Cranford Close SE',50.872796,-113.96722
 3581,'3581','Cranford Dr @ Cranford Cr SE',50.875801,-113.968638
 3582,'3582','Cranford Dr @ Cranford St SE',50.877076,-113.970184
 3583,'3583','Cranford Dr @ Cranarch Rd SE',50.87689,-113.975614
 3584,'3584','Cranarch Rd @ Cranston Ave SE',50.878578,-113.976461
 3585,'3585','52 St @ Auburn Bay Ave SE',50.8902,-113.94322
-3586,'3586','52 St @ Auburn Mdws Dr SE',50.893094,-113.943181
-3587,'3587','52 St @ Auburn Mdws Ave SE',50.897702,-113.943794
+3586,'3586','52 St @ Auburn Mdws Dr SE',50.893093,-113.943071
+3587,'3587','52 St @ Auburn Mdws Ave SE',50.897697,-113.94384
 3588,'3588','52 St @ Auburn Bay Dr SE',50.89881,-113.944184
 3589,'3589','Mahogany Blvd @ Mahogany Hts SE',50.902545,-113.933563
-3590,'3590','Mahogany Blvd @ Mahogany Way SE',50.90257,-113.928824
-3591,'3591','Mahogany Blvd @ Marquis Gdns SE',50.902463,-113.922387
-3592,'3592','Mahogany Blvd @ Marquis Grn SE',50.903395,-113.91441
-3593,'3593','Mahogany Blvd @ 300 Marquis Ct SE',50.901265,-113.910407
-3594,'3594','Cranford Dr @ Cranston Gt SE',50.870324,-113.970755
-3595,'3595','Cranford Dr @ Cranford Pk SE',50.871504,-113.966664
-3596,'3596','Cranford Dr @ Cranford Close SE',50.873463,-113.966912
-3597,'3597','Cranford Dr @ Cranford Cr SE',50.876032,-113.968133
+3590,'3590','Mahogany Blvd @ Mahogany Way SE',50.902672,-113.928817
+3591,'3591','Mahogany Blvd @ Marquis Gdns SE',50.902436,-113.922335
+3592,'3592','Mahogany Blvd @ Marquis Grn SE',50.903267,-113.914387
+3593,'3593','Mahogany Blvd @ 300 Marquis Ct SE',50.901271,-113.910491
+3594,'3594','Cranford Dr @ Cranston Gt SE',50.870327,-113.970769
+3595,'3595','Cranford Dr @ Cranford Pk SE',50.871506,-113.966678
+3596,'3596','Cranford Dr @ Cranford Close SE',50.873458,-113.966957
+3597,'3597','Cranford Dr @ Cranford Cr SE',50.876034,-113.96807
 3598,'3598','Cranford Dr @ Cranford St SE',50.877498,-113.970467
 3599,'3599','52 St @ Mahogany Dr SE',50.890393,-113.942667
-3600,'3600','52 St @ Mahogany Dr SE',50.89326,-113.942666
+3600,'3600','52 St @ Mahogany Dr SE',50.893252,-113.942676
 3601,'3601','52 St @ Mahogany St SE',50.898869,-113.94408
 3603,'3603','Mahogany Gt @ Mahogany Plz SE',50.899417,-113.941283
 3604,'3604','Mahogany Blvd @ Mahogany Gt SE',50.899723,-113.936959
 3605,'3605','Mahogany Blvd @ Mahogany Hts SE',50.90243,-113.932733
-3606,'3606','Mahogany Blvd @ Marine Dr SE',50.902438,-113.928437
-3607,'3607','Mahogany Blvd @ Marquis Gdns SE',50.902241,-113.922083
-3608,'3608','Mahogany Blvd @ Marquis Grn SE',50.902756,-113.913559
-3609,'3609','Cranarch Rd @ Cranford Dr SE',50.8787,-113.97597
+3606,'3606','Mahogany Blvd @ Marine Dr SE',50.902443,-113.928349
+3607,'3607','Mahogany Blvd @ Marquis Gdns SE',50.902221,-113.922174
+3608,'3608','Mahogany Blvd @ Marquis Grn SE',50.902758,-113.913536
+3609,'3609','Cranarch Rd @ Cranford Dr SE',50.878709,-113.975937
 3610,'3610','52 St @ Mckenzie Towne Li SE',50.91548,-113.956877
 3611,'3611','114 Ave SE (WBay) @ 29 St SE',50.951569,-113.996145
 3612,'3612','18 St SE @ Douglas Gln Blvd SE',50.957447,-114.007579
@@ -1793,7 +1793,7 @@
 5238,'5238','Macleod Trl @ 53 Ave SW',51.005972,-114.069362
 5239,'5239','Northmount Dr @ Charleswood Dr NW',51.089046,-114.116694
 5240,'5240','Northmount Dr @ 19 St NW',51.087371,-114.1086
-5241,'5241','Northmount Dr @ 14 St NW',51.08292,-114.093921
+5241,'5241','Northmount Dr @ 14 St NW',51.082943,-114.094159
 5242,'5242','10 St NW @ Rosehill Dr NW',51.077923,-114.085287
 5243,'5243','10 St NW@ 20 Ave NW',51.070225,-114.084986
 5244,'5244','10 St NW@ 16 Ave NW',51.067202,-114.084961
@@ -2280,7 +2280,7 @@
 5776,'5776','Ogden Rd @ 69th Ave SE',50.990794,-114.001479
 5777,'5777','Edmonton Trl @ 10 Ave NE',51.06119,-114.055421
 5778,'5778','Charleswood Dr @ Brentwood Blvd NW',51.084923,-114.122749
-5779,'5779','Northmount Dr @ 14 St NW',51.082904,-114.09387
+5779,'5779','Northmount Dr @ 14 St NW',51.082959,-114.093084
 5780,'5780','Northmount Dr @ 40 Ave NW',51.089195,-114.084978
 5781,'5781','Northmount Dr @ Trafford Cr NW',51.097268,-114.07727
 5782,'5782','Northmount Dr @ 4 St NW',51.102581,-114.071763
@@ -2333,7 +2333,7 @@
 5830,'5830','194 Ave @ Chaparral Dr SE',50.876889,-114.03756
 5831,'5831','Shawville Blvd @ 162 Ave SE',50.90354,-114.065983
 5832,'5832','12 St E @ Ctr Ave E',51.052035,-114.033811
-5833,'5833','1 St SW @ 8 Ave SW',51.046031,-114.065344
+5833,'5833','1 St SW @ 8 Ave SW Farside',51.046031,-114.065344
 5834,'5834','MacDonald Ave @ Maggie St SE',51.04111,-114.04247
 5835,'5835','21 Ave SE @ Spiller Rd',51.034506,-114.042064
 5836,'5836','21 Ave SE @ Hurst Rd',51.034503,-114.038027
@@ -4414,7 +4414,7 @@
 8124,'8124','Auburn Bay Blvd @ Auburn Bay Close SE',50.885339,-113.955969
 8125,'8125','Auburn Bay Blvd @ Auburn Bay St SE',50.886521,-113.951981
 8126,'8126','Marbank Dr @ Mardale Rd NE',51.063229,-113.962935
-8127,'8127','Auburn Bay St @ Auburn Bay Blvd SE',50.886181,-113.950681
+8127,'8127','Auburn Bay St @ Auburn Bay Blvd SE',50.886098,-113.950756
 8128,'8128','Marbank Dr @ Marlyn Way NE',51.063549,-113.971093
 8129,'8129','Tuscany Mdws Dr @ Tuscany Mdws Heath NW',51.114366,-114.243413
 8130,'8130','Marbank Dr @ Mardale Dr NE',51.063551,-113.966325
@@ -4873,7 +4873,7 @@
 8640,'8640','Country Hls Blvd @ Hamptons Dr NW',51.140325,-114.132758
 8641,'8641','Country Hls Blvd @ Edgeridge Pk NW',51.139565,-114.135908
 8642,'8642','5 Ave SW @ 1 St SW',51.048361,-114.065696
-8643,'8643','Auburn Bay Blvd @ Auburn Bay Link SE',50.886303,-113.95191
+8643,'8643','Auburn Bay Blvd @ Auburn Bay Link SE',50.886214,-113.952073
 8644,'8644','Seton Blvd @ Auburn Bay Link',50.882634,-113.955401
 8645,'8645','5 Ave SW @ 3 St SW',51.048457,-114.069158
 8646,'8646','5 Ave SW @ 1 St SW',51.048361,-114.065696
@@ -5161,7 +5161,7 @@
 8965,'8965','10 St NW @ Confederation Pk',51.076065,-114.084733
 8966,'8966','10 St NW @ 23 Ave NW',51.072881,-114.084733
 8967,'8967','10 St NW @ 18 Ave NW',51.067975,-114.084941
-8968,'8968','10 St NW @ 16 Ave NW',51.06714,-114.084651
+8968,'8968','10 St NW @ 16 Ave NW',51.066669,-114.084748
 8969,'8969','10 St NW @ 20 Ave NW',51.070955,-114.084697
 8970,'8970','10 St NW @ Rosehill Dr',51.078109,-114.084832
 8971,'8971','Cambrian Dr @ 31 Ave NW',51.08093,-114.088996
@@ -5212,7 +5212,7 @@
 9018,'9018','4 St NE @ Hunterhorn Gt',51.116487,-114.052419
 9019,'9019','Huntington St @ 72 Ave NE',51.118395,-114.05357
 9020,'9020','Spruce Dr @ Bow Trl SW',51.042096,-114.135064
-9021,'9021','Auburn Bay St @ Seton Blvd SE',50.884562,-113.949279
+9021,'9021','Auburn Bay St @ Seton Blvd SE',50.884596,-113.949258
 9022,'9022','7 St NW @ 22 Ave NW',51.072733,-114.078831
 9023,'9023','20 Ave NW @ 8 St NW',51.070471,-114.080816
 9025,'9025','21 Ave NW @ 13 St NW',51.071504,-114.091572
@@ -5251,7 +5251,7 @@
 9061,'9061','Northmount Dr @ Harlow Ave NW',51.091683,-114.081964
 9062,'9062','Northmount Dr @ 44 Ave NW',51.093744,-114.079492
 9063,'9063','Northmount Dr @ Hendon Dr NW',51.095806,-114.078148
-9064,'9064','Seton Blvd @ Auburn Bay St SE',50.884083,-113.949893
+9064,'9064','Seton Blvd @ Auburn Bay St SE',50.884212,-113.949727
 9065,'9065','40 Ave N @ Ctr St N',51.088802,-114.063179
 9066,'9066','Ctr St N @ 78 Ave N',51.12232,-114.071559
 9067,'9067','Richmond Rd @ 37 St SW',51.022556,-114.140448
@@ -5743,7 +5743,7 @@
 9592,'9592','Tuscany Dr @ Tuscany Way NW',51.128993,-114.250746
 9593,'9593','Tuscany Dr @ Tuscany Rdg Cr NW',51.125209,-114.254273
 9594,'9594','Tuscany Dr @ Toscana Gdns NW',51.121099,-114.254302
-9595,'9595','McIvor Blvd @ Copperstone Gt SE',50.914295,-113.938441
+9595,'9595','McIvor Blvd @ Copperstone Gt SE',50.914325,-113.938431
 9596,'9596','Saddlebrook Dr @ Saddlelake Dr NE',51.125634,-113.930138
 9598,'9598','Country Hls Blvd @ Royal Birch Blvd',51.147678,-114.211011
 9599,'9599','31 St NW @ S. Of Brentwood Stn',51.083965,-114.129506
@@ -5806,7 +5806,7 @@
 9662,'9662','Taradale Rd @ Taralake Gt NE',51.121883,-113.930129
 9663,'9663','Taradale Rd @ Taralake Vw NE',51.123276,-113.93078
 9667,'9667','Sunpark Plz @ Sunpark Gt SE',50.904088,-114.057043
-9668,'9668','Sunpark Gt @ Sunpark Plz',50.904416,-114.056823
+9668,'9668','Sunpark Gt @ Sunpark Plz SE',50.904416,-114.056823
 9669,'9669','Anderson LRT Sta',50.953984,-114.073856
 9670,'9670','Southland LRT Sta WB',50.964597,-114.077747
 9671,'9671','Symons Vly Rd @ Kincora Blvd NW',51.160668,-114.124944
@@ -5903,7 +5903,7 @@
 9769,'9769','3 Ave NW @ 34 St NW',51.058269,-114.137291
 9770,'9770','6 Ave NW @ 18 St NW',51.057644,-114.101974
 9771,'9771','Cranston Dr @ Cranston Way SE',50.887033,-113.974757
-9772,'9772','Cranston Ave @ Cranarch Rd SE',50.878926,-113.975354
+9772,'9772','Cranston Ave @ Cranarch Rd SE',50.878911,-113.975311
 9773,'9773','Cranston Ave @ Cranberry Rd SE',50.879493,-113.977088
 9774,'9774','Cranston Dr @ Cranston Rd SE',50.882105,-113.978618
 9775,'9775','Cranston Dr @ Cranberry Ln SE',50.883331,-113.974571
