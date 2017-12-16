@@ -155,7 +155,7 @@
 2251,'2251','162 Ave SE @ Shawville Blvd SE',50.904223,-114.064832
 2252,'2252','Legacy Vlg Link @ 210 Ave SE',50.863462,-114.026086
 2254,'2254','8 Ave NE @ 13A St NE',51.059082,-114.028984
-2256,'2256','Redstone St @ 128 Ave NE',51.165543,-113.961835
+2256,'2256','Redstone St @ 128 Ave NE',51.166404,-113.96182
 2257,'2257','Redstone Dr @ Redstone St NE',51.168534,-113.96257
 2258,'2258','Redstone Grv @ Redstone Dr NE',51.168767,-113.965782
 2259,'2259','Redstone Grv @ Redstone Villas NE',51.170189,-113.965715
@@ -164,7 +164,7 @@
 2262,'2262','Redstone St @ Redstone Ave NE',51.172891,-113.9614
 2263,'2263','Redstone St @ Redstone Pk NE',51.169343,-113.962044
 2264,'2264','128 Ave NE @ Redstone St',51.165352,-113.962929
-2265,'2265','Skyview Rnch Dr @ 52 St NE (Proposed)',51.15788,-113.957853
+2265,'2265','Skyview Rnch Dr @ 52 St NE',51.15788,-113.957853
 2267,'2267','9 Ave SW @ 81 St SW',51.059553,-114.20549
 2268,'2268','9 Ave SW @ 77 St SW',51.059753,-114.199942
 2269,'2269','Skyview Rnch Dr @ Skyview Rnch St NE',51.157949,-113.954998
@@ -182,7 +182,7 @@
 2281,'2281','Aero Dr @ S Of Aero Gt NE',51.119402,-114.033443
 2282,'2282','Aero Dr @ S Of Aero Gt NE',51.117845,-114.03124
 2283,'2283','36 Ave NE @ 6 St NE',51.085027,-114.048009
-2286,'2286','162 Ave SW @ 24 St',50.906556,-114.116716
+2286,'2286','162 Ave SW @ 24 St SW',50.906556,-114.116716
 2287,'2287','52 St NE Adjacent To Saddlecreek Cr',51.127999,-113.958162
 2300,'2300','52 St SE @ 94 Ave SE',50.969216,-113.958206
 2301,'2301','52 St SE @ 94 Ave SE',50.968049,-113.958926
@@ -399,9 +399,9 @@
 3688,'3688','Evanston Vw @ Evansbrooke Way NW',51.166567,-114.12157
 3689,'3689','Evanston Vw @ Evansbrooke Link NW',51.164535,-114.119992
 3690,'3690','Evanston Vw @ Evanston Rise NW',51.164264,-114.117595
-3691,'3691','Evanston Vw @ Evansmeade Way NW',51.164742,-114.114022
-3692,'3692','Evanston Vw @ Evansford Rd NW',51.167153,-114.112575
-3693,'3693','Symons Vly PY @ E. Leg Evanston Vw NW',51.168707,-114.112086
+3691,'3691','Evanston Vw @ Evansmeade Way NW',51.164744,-114.113964
+3692,'3692','Evanston Vw @ Evansford Rd NW',51.167269,-114.112493
+3693,'3693','Symons Vly PY @ E. Leg Evanston Vw NW',51.168471,-114.112015
 3694,'3694','Symons Vly PY @ Evansford Close NW',51.170977,-114.10938
 3698,'3698','Evanspark Blvd @ Evanston Dr NW',51.173301,-114.118112
 3699,'3699','Evanspark Blvd @ Evansview Gt NW',51.170095,-114.118084
@@ -537,7 +537,7 @@
 3841,'3841','Country Hls Blvd @ W.Leg Hamptons Blvd NW',51.138948,-114.157778
 3842,'3842','Nose Hl Dr @ Arbour Lk Way NW',51.137122,-114.185269
 3843,'3843','Symons Vly Rd @ Kincora Gln Rd NW',51.165901,-114.130012
-3844,'3844','Symons Vly PY NW @ Symons Valey Rd NW',51.16785,-114.129877
+3844,'3844','Symons Vly PY NW @ Symons Valey Rd NW',51.167825,-114.129876
 3845,'3845','Brentwood LRT Sta',51.086763,-114.132446
 3846,'3846','48 St SE @ 110 Ave SE',50.954434,-113.965409
 3847,'3847','Brentwood LRT Sta',51.086423,-114.132167
@@ -1051,7 +1051,7 @@
 4418,'4418','Hidden Vly Link @ Hidden Vly Dr NW',51.151315,-114.106076
 4419,'4419','58 Ave SE @ 9 St SE',51.001681,-114.040176
 4420,'4420','58 Ave SE @ Blackfoot Trl',51.001274,-114.047201
-4421,'4421','Hidden Vly Dr @ Hidden Vly Grv NW',51.149331,-114.10294
+4421,'4421','Hidden Vly Dr @ Hidden Vly Grv NW',51.14928,-114.102921
 4422,'4422','58 Ave SE @ 4 St SE',51.001309,-114.053215
 4423,'4423','58 Ave SE @ 3 St SE',51.001456,-114.057611
 4424,'4424','58 Ave SE @ 2 St SE',51.001453,-114.060704
@@ -1561,7 +1561,7 @@
 4978,'4978','90 Ave SE @ 52 St SE',50.972373,-113.957187
 4979,'4979','114 Ave SE @ 29 St SE',50.950838,-113.995719
 4980,'4980','29 St SE @ 27 St SE',50.952526,-113.994898
-4981,'4981','27 St SE @ 107 Ave SE',50.956389,-113.997511
+4981,'4981','27 St SE @ 107 Ave SE',50.95638,-113.99756
 4982,'4982','Martin Xing Dr @ Martin Xing Grn NE',51.117715,-113.958546
 4983,'4983','Martin Xing Dr @ Martin Xing Pk NE',51.117726,-113.962433
 4984,'4984','Martindale LRT Sta EB (Martin Xing Dr)',51.117358,-113.966993
@@ -1576,7 +1576,7 @@
 4996,'4996','Whitefield Dr @ Whitefield Pl NE',51.089003,-113.972757
 4999,'4999','Whitefield Dr @ 39 St NE',51.088288,-113.97676
 5000,'5000','Marlborough LRT Sta (SB 36 St NE @ 8 Ave NE)',51.058553,-113.982067
-5001,'5001','7 Ave SW @ 2 St SW',51.04672,-114.068641
+5001,'5001','7 Ave SW @ 1 St SW',51.046681,-114.066122
 5002,'5002','3 Ave NW @ 34 St NW',51.057778,-114.136721
 5004,'5004','7 Ave SW @ 4 St SW',51.046802,-114.071303
 5005,'5005','6 Ave SE @ Macleod Trl',51.047398,-114.057467
@@ -4494,7 +4494,7 @@
 8215,'8215','16 Ave NE @ Edmonton Trl',51.066758,-114.055453
 8216,'8216','16 Ave NE @ 4 St NE',51.066807,-114.052752
 8217,'8217','16 Ave NE @ 5 St NE',51.066772,-114.050299
-8218,'8218','Evanston Dr @ Evanscrest Gt NW',51.179572,-114.107963
+8218,'8218','Evanston Dr @ Evanscrest Gt NW',51.179491,-114.107784
 8219,'8219','Shawinigan Dr @ Shawglen Rise SW',50.905031,-114.077355
 8220,'8220','Shawinigan Dr @ Shawfield Dr SW',50.905233,-114.081497
 8221,'8221','Shawinigan Dr @ Shawglen Rise SW',50.904279,-114.076791
@@ -4533,7 +4533,7 @@
 8255,'8255','11 St NE @ 57 Ave NE',51.105625,-114.03658
 8256,'8256','James McKevitt Rd @ Millrise Hl SW',50.921231,-114.088521
 8257,'8257','Cranston Dr @ Cranfield Pk SE',50.892098,-113.978923
-8259,'8259','Evanston Dr @ E. Leg Evansfield Way NW',51.17976,-114.1118
+8259,'8259','Evanston Dr @ E. Leg Evansfield Way NW',51.179821,-114.111809
 8260,'8260','Morley Trl @ 22 St NW',51.077735,-114.1125
 8261,'8261','Morley Trl @ 26 Ave NW',51.07654,-114.110018
 8262,'8262','Evanston Dr @ W. Leg Evansfield Way NW',51.179866,-114.11508
@@ -4591,7 +4591,7 @@
 8318,'8318','Douglasdale Blvd @ 130 Ave SE',50.932766,-113.983476
 8319,'8319','Douglasdale Blvd @ Douglas Pk Blvd SE',50.934136,-113.982903
 8320,'8320','Douglasdale Blvd @ Douglas Woods Rise SE',50.941899,-113.995783
-8321,'8321','24 St SE @ S. Of 114 Ave SE',50.952857,-114.001114
+8321,'8321','24 St SE @ S. Of 114 Ave SE',50.952833,-114.001117
 8322,'8322','Deer Run Dr @ Deer Pk Dr SE',50.917947,-114.007786
 8323,'8323','Deer Run Dr @ Deer Side Rd SE',50.91747,-114.004985
 8324,'8324','Deer Run Dr @ Deer Side Dr SE',50.918192,-114.000499
@@ -4616,7 +4616,7 @@
 8344,'8344','Edgebrook Dr @ Edgebrook Lndg NW',51.136448,-114.132383
 8345,'8345','Edgebrook Blvd @ Edgebrook Pk NW',51.138374,-114.12806
 8346,'8346','Edgebrook Dr @ Edgebrook Rise NW',51.135031,-114.133672
-8347,'8347','Panatella Blvd @ Panatella St NW',51.162945,-114.091281
+8347,'8347','Panatella Blvd @ Panatella St NW',51.162941,-114.091319
 8348,'8348','Taradale Dr @ Taralake Way NE',51.118662,-113.92737
 8349,'8349','Rocky Vista Dr @ Rocky Vista Pk NW',51.138068,-114.23774
 8350,'8350','Evanston Dr @ Evansborough Gt NW',51.179255,-114.121342
@@ -4867,7 +4867,7 @@
 8634,'8634','Beddington Blvd @ Ctr St N',51.125295,-114.072184
 8635,'8635','Ctr St N @ N. Of Beddington Blvd N',51.126421,-114.071632
 8636,'8636','Saddletown LRT Sta NB',51.124578,-113.94855
-8637,'8637','Symons Vly PY @ Evanston Way NW',51.173721,-114.107769
+8637,'8637','Symons Vly PY @ Evanston Way NW',51.173913,-114.107783
 8638,'8638','Taradale Dr @ Taravista Mews NE',51.114314,-113.928974
 8639,'8639','Seton Blvd @ Auburn Bay Link SE',50.883429,-113.95379
 8640,'8640','Country Hls Blvd @ Hamptons Dr NW',51.140325,-114.132758
@@ -4898,9 +4898,9 @@
 8672,'8672','18 St SE @ Lynnover Rd',50.990441,-114.015608
 8673,'8673','18 St SE @ Lysander Dr',50.987622,-114.015803
 8674,'8674','29 St SE @ 114 Ave SE',50.95126,-113.995322
-8675,'8675','27 St SE @ W. Of 29 St SE',50.953041,-113.995691
+8675,'8675','27 St SE @ W. Of 29 St SE',50.952997,-113.995123
 8676,'8676','107 Ave SE @ 27 St SE',50.956856,-113.998165
-8677,'8677','Symons Vly PY @ N. Of Evanston Way NW',51.176015,-114.106579
+8677,'8677','Symons Vly PY @ N. Of Evanston Way NW',51.175892,-114.106514
 8678,'8678','86 Ave SE @ W. Of 60 St SE',50.975889,-113.950261
 8679,'8679','Saddlebrook Dr @ Saddlelake Pl NE',51.127695,-113.929306
 8680,'8680','Shawville Gt @ Shawville Blvd SE',50.899397,-114.064225
@@ -5485,7 +5485,7 @@
 9308,'9308','Shawville Blvd @ Home Depot',50.896778,-114.061786
 9309,'9309','Nose Hl Dr @ John Laurie Blvd NW',51.128318,-114.193567
 9310,'9310','51 St SW @ 30 Ave SW',51.026739,-114.1611
-9311,'9311','Woodpark Blvd @ Woodacres Dr SW',50.936225,-114.122561
+9311,'9311','Woodpark Blvd @ Woodacres Dr SW',50.936235,-114.122873
 9312,'9312','Shawnee Dr @ S. Of Shawnee Gdns SW',50.928119,-114.090952
 9313,'9313','162 Ave SW @ 6 St SW',50.902509,-114.075422
 9314,'9314','Fish Crk Blvd @ Everwillow Pk SW',50.917513,-114.102129
@@ -5654,7 +5654,7 @@
 9497,'9497','Dufferin Blvd @ 54 St SE',50.953896,-113.954393
 9498,'9498','52 St SE @ McKenzie Towne Dr',50.914313,-113.955099
 9499,'9499','McKenzie Towne Dr @ 52 St SE',50.9124,-113.952708
-9500,'9500','107 Ave SE @ 24 St SE',50.956581,-114.000433
+9500,'9500','107 Ave SE @ 24 St SE',50.95656,-114.00044
 9501,'9501','Hamptons Dr @ Hamstead Rd NW',51.141963,-114.131727
 9502,'9502','Hamptons Dr @ Hamstead Gdns NW',51.143867,-114.130865
 9503,'9503','Hamptons Dr @ Hamstead Ter NW',51.14482,-114.13451
@@ -5773,8 +5773,8 @@
 9624,'9624','Martindale Dr @ Martindale Blvd NE',51.121456,-113.953684
 9625,'9625','Martindale Dr @ Martinvalley Mews NE',51.12296,-113.949297
 9626,'9626','Saddletowne Cir @ Martindale Dr NE',51.123239,-113.94722
-9632,'9632','80 Ave NE @ Martha''s Way',51.12508,-113.956404
-9633,'9633','80 Ave NE @ Saddlecreek Gt',51.125072,-113.953017
+9632,'9632','80 Ave NE @ Martha''s Way',51.125039,-113.956424
+9633,'9633','80 Ave NE @ Saddlecreek Gt',51.125059,-113.953005
 9634,'9634','Martindale Dr @ Martinvalley Mews NE',51.123169,-113.949026
 9635,'9635','Martin Xing Dr @ Martindale Dr NE',51.118477,-113.954651
 9636,'9636','Martin Xing Dr @ Martin Xing Way NE',51.117905,-113.957233
@@ -5833,14 +5833,14 @@
 9694,'9694','Richard Rd @ Richardson WAY SW',51.011839,-114.123582
 9695,'9695','26 Ave SW @ 32 St SW',51.030141,-114.134304
 9696,'9696','Harvest Hls Blvd @ Country Vlg Rd NE',51.160648,-114.070546
-9697,'9697','Panatella Blvd @ Harvest Hls Blvd NW',51.164796,-114.071685
-9698,'9698','Panatella Blvd @ Panatella Dr NW',51.164796,-114.074903
+9697,'9697','Panatella Blvd @ Harvest Hls Blvd NW',51.164774,-114.071606
+9698,'9698','Panatella Blvd @ Panatella Dr NW',51.164778,-114.074893
 9699,'9699','Panatella Blvd @ Panatella Close NW',51.16412,-114.07702
 9700,'9700','Panatella Blvd NW @ Panamount Rise NW',51.163285,-114.081408
-9701,'9701','Panatella Blvd @ E. Of Panamount Mnr NW',51.163428,-114.083874
-9702,'9702','Panatella Blvd @ Panamount St NW',51.163405,-114.088739
-9703,'9703','Panamount Blvd @ S. Of Panamount Plz NW',51.161566,-114.092889
-9704,'9704','Hidden Crk Way @ Panamount Blvd NW',51.159347,-114.093
+9701,'9701','Panatella Blvd @ E. Of Panamount Mnr NW',51.163388,-114.083808
+9702,'9702','Panatella Blvd @ Panamount St NW',51.163314,-114.0887
+9703,'9703','Panamount Blvd @ S. Of Panamount Plz NW',51.161223,-114.09293
+9704,'9704','Hidden Crk Way @ Panamount Blvd NW',51.159369,-114.093021
 9705,'9705','Hidden Crk Way @ Hidden Crk Pt NW',51.159228,-114.095081
 9706,'9706','Panamount Blvd @ Hidden Crk Way NW',51.159706,-114.09262
 9707,'9707','Panatella Blvd NW @ Panamount Blvd NW',51.162827,-114.092266
@@ -5952,7 +5952,7 @@
 9821,'9821','9 Ave SE @ 7 St SE',51.044051,-114.045294
 9823,'9823','6 Ave SE @ Macleod Trl',51.047406,-114.057438
 9824,'9824','1 St SE @ 7 Ave SE',51.046712,-114.060578
-9825,'9825','7 Ave SW @ 2 St SW',51.046745,-114.068705
+9825,'9825','7 Ave SW @ 1 St SW',51.046721,-114.06619
 9826,'9826','7 Ave SW @ 4 St SW',51.046846,-114.071272
 9827,'9827','7 Ave SW @ 6 St SW',51.046917,-114.075919
 9828,'9828','6 Ave SW @ W. Of 7 St SW',51.047984,-114.079348

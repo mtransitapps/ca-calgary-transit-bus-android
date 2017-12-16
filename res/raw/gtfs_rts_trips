@@ -22,8 +22,8 @@
 1201,0,'Southwest Loop',12
 1301,0,'City Ctr',13
 1302,0,'Westhills',13
-1401,0,'Bridlewood',14
-1400,0,'Cranston',14
+1402,0,'Bridlewood',14
+1401,0,'Cranston',14
 1503,1,'N',15
 1504,1,'S',15
 1601,0,'Palliser',16
@@ -49,7 +49,7 @@
 3001,1,'E',30
 3002,1,'W',30
 3100,0,'Dalhousie',31
-3101,0,'South University',31
+3101,0,'University Of Calgary',31
 3201,0,'Huntington',32
 3200,0,'Sunridge',32
 3301,0,'Barlow Sta',33
@@ -151,7 +151,7 @@
 9804,0,'69 St Sta',98
 9803,0,'Cougar Rdg',98
 10000,0,'Airport',100
-10001,0,'Mcknight Westwinds Sta',100
+10001,0,'Mcknight Westwinds',100
 10200,0,'City Ctr',102
 10201,0,'Douglasdale',102
 10300,0,'City Ctr',103
@@ -369,8 +369,8 @@
 76301,0,'Ep Scarlett Woodbine ',763
 76400,0,'Ep Scarlett James Mckevitt',764
 76401,0,'Ep Scarlett James Mckevitt ',764
+76500,0,'Ep Scarlett Somerset-Bridlewood Sta',765
 76501,0,'Ep Scarlett Somerset-Bridlewood Sta ',765
-76500,0,'Ep Scarlett Woodbine',765
 76600,0,'Ep Scarlett Evergreen',766
 76601,0,'Ep Scarlett Evergreen ',766
 76703,1,'N',767
@@ -484,8 +484,8 @@
 87801,0,'F Whelihan Chaparral ',878
 88000,0,'St Matthew Heritage',880
 88001,0,'St Matthew Heritage ',880
-88400,0,'St Helena / Kincora Sage Hl',884
-88401,0,'St Helena / Kincora Sage Hl ',884
+88400,0,'St Helena / Kincora / Sage Hl',884
+88401,0,'St Helena / Kincora / Sage Hl ',884
 89200,0,'St Isabella Mckenzie Towne',892
 89201,0,'St Isabella Mckenzie Towne ',892
 89401,0,'69 St SW',894
