@@ -127,7 +127,7 @@
 8300,0,'Parkland',83
 8400,0,'Palliser',84
 8501,0,'Mcknight Westwinds',85
-8500,0,'Saddleridge',85
+8500,0,'Saddletowne',85
 8603,1,'N',86
 8604,1,'S',86
 8800,0,'Harvest Hls',88
@@ -150,8 +150,8 @@
 9700,0,'South Ranchlands',97
 9804,0,'69 St Sta',98
 9803,0,'Cougar Rdg',98
-10000,0,'Airport',100
 10001,0,'Mcknight Westwinds',100
+10000,0,'North Pte',100
 10200,0,'City Ctr',102
 10201,0,'Douglasdale',102
 10300,0,'City Ctr',103
@@ -192,6 +192,8 @@
 13600,0,'Riverbend',136
 14201,0,'City Ctr',142
 14200,0,'Panorama',142
+14501,0,'Saddletowne Sta',145
+14500,0,'Skyview Rnch / Redstone',145
 14601,0,'Beddington',146
 15100,0,'City Ctr',151
 15101,0,'New Brighton',151
@@ -251,7 +253,7 @@
 42201,0,'Montgomery',422
 42501,0,'Country Vlg',425
 42502,0,'Sage Hl',425
-43001,0,'Airport',430
+43001,0,'North Pte',430
 43002,0,'Sandstone',430
 43903,0,'69 St Sta',439
 43904,0,'Discovery Rdg',439
@@ -259,8 +261,6 @@
 44001,0,'Franklin Sta',440
 44401,0,'Chaparral',444
 44400,0,'Somerset Bridlewood Sta',444
-44501,0,'Saddletowne',445
-44500,0,'Skyview Rnch',445
 44900,0,'Eau Claire',449
 44901,0,'Parkhill',449
 45201,0,'69 St Sta',452
@@ -369,8 +369,8 @@
 76301,0,'Ep Scarlett Woodbine ',763
 76400,0,'Ep Scarlett James Mckevitt',764
 76401,0,'Ep Scarlett James Mckevitt ',764
-76500,0,'Ep Scarlett Somerset-Bridlewood Sta',765
 76501,0,'Ep Scarlett Somerset-Bridlewood Sta ',765
+76500,0,'Ep Scarlett Woodbine',765
 76600,0,'Ep Scarlett Evergreen',766
 76601,0,'Ep Scarlett Evergreen ',766
 76703,1,'N',767
