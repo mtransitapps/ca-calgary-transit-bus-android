@@ -170,13 +170,21 @@
 11301,0,'Crowfoot / Scenic Acres',113
 11300,0,'North Ranchlands',113
 11400,0,'Panorama Country Hls',114
+11500,0,'Evanston',115
+11501,0,'Tuscany',115
 11601,0,'City Ctr',116
 11600,0,'Coventry Hls',116
 11700,0,'City Ctr',117
 11701,0,'Mckenzie Towne',117
 11800,0,'Hidden Vly',118
+11901,0,'Freeport',119
+11900,0,'Saddletowne Sta',119
 12003,0,'Crowfoot',120
 12004,0,'Dalhousie',120
+12300,0,'North Pte',123
+12301,0,'Sage Hl',123
+12401,0,'Evanston',124
+12400,0,'North Pte',124
 12502,0,'City Ctr',125
 12501,0,'Erin Woods',125
 12601,0,'Applewood',126
@@ -190,6 +198,8 @@
 13403,0,'Crowfoot',134
 13404,0,'Dalhousie',134
 13600,0,'Riverbend',136
+13801,0,'Crowfoot',138
+13800,0,'Tuscany',138
 14201,0,'City Ctr',142
 14200,0,'Panorama',142
 14501,0,'Saddletowne Sta',145
@@ -200,8 +210,6 @@
 15200,0,'New Brighton',152
 15300,0,'Copperfield',153
 15400,0,'Hamptons',154
-15701,0,'Beacon Hl Ctr',157
-15702,0,'Tuscany',157
 15803,0,'Royal Oak',158
 15804,0,'Tuscany',158
 15901,0,'Saddlebrook',159
@@ -218,8 +226,6 @@
 17800,0,'Sundance',178
 18100,0,'MRU North',181
 18200,0,'MRU South',182
-19900,0,'Citadel',199
-19901,0,'Crowfoot',199
 29900,0,'Arbour Lk',299
 30003,0,'Airport',300
 30004,0,'City Ctr',300
@@ -246,13 +252,9 @@
 41201,0,'Bow Trl',412
 41404,0,'City Ctr',414
 41403,0,'North Haven',414
-42001,0,'Evanston',420
-42000,0,'North Pte',420
 42100,0,'Panatella',421
 42200,0,'Dalhousie',422
 42201,0,'Montgomery',422
-42501,0,'Country Vlg',425
-42502,0,'Sage Hl',425
 43001,0,'North Pte',430
 43002,0,'Sandstone',430
 43903,0,'69 St Sta',439
@@ -463,6 +465,7 @@
 83601,0,'Scenic Acres',836
 83602,0,'St V De Paul',836
 83900,0,'Lady Of Grace / Evanston',839
+83901,0,'Lady Of Grace / Evanston ',839
 84304,0,'MacEwan',843
 84303,0,'Notre Dame',843
 84402,0,'Evanston',844
