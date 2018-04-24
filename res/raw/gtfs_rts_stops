@@ -46,11 +46,11 @@
 2083,'2083','Sage Hl Blvd @ E. Of Shaganappi Tr NW',51.1706,-114.152186
 2084,'2084','29 St NE @ 23 Ave NE',51.072897,-113.991726
 2085,'2085','Cranston Ave @ Cranberry Rd SE',50.879573,-113.977431
-2086,'2086','Evanston Dr @ Our Lady Of Grace School',51.179268,-114.121234
-2087,'2087','Evanston Dr @ Evansfield Way',51.179511,-114.110602
-2088,'2088','Symons Vly PY @ Evanston Dr (North Leg) NW',51.17835,-114.105564
+2086,'2086','Evanston Dr @ Our Lady Of Grace School',51.179286,-114.121409
+2087,'2087','Evanston Dr @ Evansfield Way',51.179627,-114.110577
+2088,'2088','Symons Vly PY @ Evanston Dr (North Leg) NW',51.178239,-114.105663
 2089,'2089','Symons Vly PY @ Evanston Dr (South Leg) NW',51.173262,-114.108843
-2090,'2090','Symons Vly PY @ Evanspark Cir',51.170185,-114.110497
+2090,'2090','Symons Vly PY @ Evanspark Cir',51.170192,-114.110522
 2091,'2091','YYC Airport International Terminal',51.130857,-114.006519
 2092,'2092','Shaganappi Tr @ Nolan Hl Bv NW',51.173145,-114.154702
 2093,'2093','Shaganappi Tr @ Sage Vly Bv NW',51.175599,-114.156727
@@ -219,7 +219,7 @@
 2407,'2407','Cityscape Blvd @ Cityscape Dr NE',51.147286,-113.966919
 2408,'2408','Cityscape Dr @ 104 Ave NE',51.147638,-113.9662
 2409,'2409','Cityscape Dr @ Cityscape Mnr NE',51.150786,-113.966137
-2410,'2410','Cityscape Dr @ 52 St NE',51.152812,-113.958168
+2410,'2410','Cityscape Gt @ Cityscape Dr',51.152812,-113.958168
 2411,'2411','Cityscape Dr @ Cityscape Heath NE',51.152393,-113.962529
 2412,'2412','104 Ave NE @ Metis Trl',51.147339,-113.971156
 2413,'2413','104 Ave NE @ 36 St NE',51.147118,-113.980008
@@ -246,12 +246,13 @@
 2436,'2436','Douglas Gln Term South Bay',50.953065,-113.997686
 2437,'2437','Douglas Gln Term North Bay',50.953442,-113.997458
 2438,'2438','24 St & QUARRY Pk Blvd SE',50.963879,-114.001541
+2448,'2448','Hidden Vly Dr @ Hidden Spgs Gr',51.151564,-114.111053
 2490,'2490','5 Ave & Ctr St S',51.04831,-114.06189
 2491,'2491','1 St SW @ 6 Ave SW',51.047287,-114.06555
 2492,'2492','1 St SW & 6 Av S Fs',51.047729,-114.065087
 2493,'2493','Symons Vly PY @ 14 St NW',51.181686,-114.096159
 2494,'2494','Symons Vly PY @ Evanston Wy (North Leg) NW',51.180789,-114.099857
-2495,'2495','Symons Vly PY@N.Of Evanston Dr (South Leg) NW',51.174474,-114.108134
+2495,'2495','Symons Vly PY@N.Of Evanston Dr (South Leg) NW',51.174747,-114.107886
 2496,'2496','69 Ave SE @ 20A St SE',50.990943,-114.010757
 2497,'2497','Anderson LRT Sta',50.954315,-114.074166
 2727,'2727','Haddon Rd @ Hogarth Rd',50.973656,-114.078207
@@ -390,7 +391,7 @@
 3575,'3575','Chaparral Vly Dr @ Chaparral Vly Gdns SE',50.88026,-114.013206
 3576,'3576','Chaparral Vly Dr @ Chaparral Vly Grv SE',50.884155,-114.01519
 3577,'3577','6 St @ Shawville Gt SE',50.897261,-114.072163
-3578,'3578','Cranston Gt @ Cranford Dr SE',50.869948,-113.971354
+3578,'3578','Cranston Gt @ Cranford Dr SE',50.870105,-113.971418
 3579,'3579','Cranford Dr @ Cranford Pk SE',50.870941,-113.967851
 3580,'3580','Cranford Dr @ Cranford Close SE',50.872796,-113.96722
 3581,'3581','Cranford Dr @ Cranford Cr SE',50.875801,-113.968638
@@ -480,9 +481,9 @@
 3709,'3709','77 St SW @ 10 Ave SW',51.057622,-114.19963
 3710,'3710','77 St SW @ 10 Ave SW',51.058045,-114.199262
 3711,'3711','Westbrook LRT Sta',51.040415,-114.135588
-3713,'3713','85 St SW @ Strathlea Ave',51.049153,-114.210701
+3713,'3713','85 St SW @ Strathlea Ave',51.049074,-114.210734
 3714,'3714','85 St SW @ Wentworth Dr',51.05724,-114.210743
-3715,'3715','85 St SW @ 8 Ave SW',51.063482,-114.210753
+3715,'3715','85 St SW @ 8 Ave SW',51.063605,-114.210845
 3716,'3716','85 St SW @ 9 Ave SW',51.060095,-114.210842
 3717,'3717','Old Banff Coach Rd @ 89 St SW',51.067002,-114.21578
 3718,'3718','85 St SW @ Old Banff Coach Rd',51.066516,-114.211213
@@ -1503,7 +1504,7 @@
 4842,'4842','Bowness Rd @ Veteran''s Way NW',51.061322,-114.143682
 4843,'4843','Old Banff Coach Rd @ Patterson Blvd SW',51.060443,-114.180433
 4844,'4844','Old Banff Coach Rd @ Coach Hl Rd SW',51.06237,-114.184613
-4845,'4845','Cougar Rdg Dr @ Cougar Rdg Ct SW',51.069489,-114.217858
+4845,'4845','Cougar Rdg Dr @ Cougarstone Ct SW',51.069489,-114.217858
 4846,'4846','17 Ave SW @ Richmond Rd',51.03772,-114.111537
 4847,'4847','17 Ave SW @ Crowchild Trl',51.0379,-114.114422
 4848,'4848','Coventry Dr @ Coverton Gt NE',51.16442,-114.042796
@@ -1629,7 +1630,7 @@
 4988,'4988','Saddlecrest Blvd @ Saddlecrest Way NE',51.137493,-113.940245
 4989,'4989','Everridge Dr @ 146 Ave SW',50.920741,-114.123502
 4990,'4990','7 Ave SW @ 6 St SW',51.046934,-114.075861
-4991,'4991','Old Banff Coach Rd @ 85 St SW',51.066954,-114.210373
+4991,'4991','Old Banff Coach Rd @ 85 St SW',51.066946,-114.210269
 4992,'4992','77 St SW @ Old Banff Coach Rd',51.066806,-114.199661
 4993,'4993','New Brighton Dr @ New Brighton Gdns SE',50.915812,-113.951048
 4996,'4996','Whitefield Dr @ Whitefield Pl NE',51.089003,-113.972757
@@ -2136,7 +2137,7 @@
 5550,'5550','Fairmount Dr @ Fyffe Rd SE',50.985464,-114.059791
 5551,'5551','Ctr St S @ Glenmore Trl',50.994827,-114.063703
 5552,'5552','61 Ave S @ Ctr St S',50.997801,-114.064271
-5553,'5553','Chinook LRT Sta SB',50.99747,-114.0662
+5553,'5553','Chinook LRT Sta SB',50.997121,-114.066346
 5554,'5554','Macleod Trl @ 55 Ave SW',51.004394,-114.070355
 5555,'5555','Macleod Trl @ 50 Ave SW',51.008464,-114.067675
 5556,'5556','Macleod Trl @ 42 Ave SE',51.016678,-114.063805
@@ -4225,7 +4226,7 @@
 7856,'7856','Douglasdale Blvd @ Douglas Rdg Grn SE',50.936471,-113.981727
 7857,'7857','14 St SW @ 10 Ave SW',51.043983,-114.094938
 7858,'7858','11 St SE @ Highfield Cr',51.007109,-114.037164
-7859,'7859','Hidden Vly Dr @ Hidden Spg Grn NW',51.151562,-114.11098
+7859,'7859','Hidden Vly Dr @ Hidden Spg Grn NW',51.151613,-114.110991
 7860,'7860','Hidden Vly Dr @ Hidden Vly Cr NW',51.146056,-114.098912
 7861,'7861','Hidden Vly Dr @ 200 Hidden Vly Pl NW',51.14419,-114.097671
 7862,'7862','Coventry Dr @ Coventry Blvd NE',51.157678,-114.045087
@@ -4326,6 +4327,7 @@
 7963,'7963','26 Ave NE @ 66 St NE',51.076071,-113.938362
 7964,'7964','Morley Trl @ 23A St NW',51.079079,-114.115186
 7965,'7965','52 St SE @ 72 Ave SE',50.990192,-113.958216
+7966,'7966','Skyview Shrs Mnr NE @ Skyview Shrs Ct NE',51.156884,-113.962206
 7967,'7967','Skyview Rnch Dr @ Skyview Shrs Mnr NE',51.158089,-113.960752
 7968,'7968','5 Ave SE @ Macleod Trl',51.048172,-114.058188
 7969,'7969','Citadel Gt @ Citadel Dr NW',51.142187,-114.180843
@@ -4366,7 +4368,7 @@
 8011,'8011','Edgebrook Blvd @ Edgeridge Vw NW',51.138604,-114.129333
 8012,'8012','Edgebrook Dr @ Edgebrook Blvd NW',51.137814,-114.128667
 8013,'8013','McKenzie Lk Blvd @ McKenzie Lk Way SE',50.907377,-113.987836
-8014,'8014','85 St SW @ Aspenshire Dr',51.048578,-114.211141
+8014,'8014','85 St SW @ Aspenshire Dr',51.048477,-114.21109
 8015,'8015','Kincora Dr @ Kincora Blvd NW',51.158825,-114.128255
 8016,'8016','Sherwood Blvd @ Sherwood Link NW',51.160979,-114.149949
 8017,'8017','17 Ave SW @ 35 St SW',51.037727,-114.13773
@@ -4550,7 +4552,7 @@
 8215,'8215','16 Ave NE @ Edmonton Trl',51.066758,-114.055453
 8216,'8216','16 Ave NE @ 4 St NE',51.066807,-114.052752
 8217,'8217','16 Ave NE @ 5 St NE',51.066772,-114.050299
-8218,'8218','Evanston Dr @ Evanscrest Gt NW',51.179491,-114.107784
+8218,'8218','Evanston Dr @ Evanscrest Gt NW',51.179407,-114.107853
 8219,'8219','Shawinigan Dr @ Shawglen Rise SW',50.905031,-114.077355
 8220,'8220','Shawinigan Dr @ Shawfield Dr SW',50.905233,-114.081497
 8221,'8221','Shawinigan Dr @ Shawglen Rise SW',50.904279,-114.076791
@@ -4589,7 +4591,7 @@
 8255,'8255','11 St NE @ 57 Ave NE',51.105625,-114.03658
 8256,'8256','James McKevitt Rd @ Millrise Hl SW',50.921231,-114.088521
 8257,'8257','Cranston Dr @ Cranfield Pk SE',50.892098,-113.978923
-8259,'8259','Evanston Dr @ Evanston Hl NW',51.179821,-114.111809
+8259,'8259','Evanston Dr @ Evanston Hl NW',51.179938,-114.111879
 8260,'8260','Morley Trl @ 22 St NW',51.077735,-114.1125
 8261,'8261','Morley Trl @ 26 Ave NW',51.07654,-114.110018
 8262,'8262','Evanston Dr @ Evansfield Gt NW',51.179866,-114.11508
@@ -4664,7 +4666,7 @@
 8335,'8335','Coverntry Hls Way @ Coventry Dr NE',51.165629,-114.042604
 8336,'8336','Coverntry Hls Way @ Coverton Grn NE',51.167042,-114.040139
 8337,'8337','Coverntry Hls Way @ Coville Cr NE',51.169136,-114.039705
-8338,'8338','Evanston Dr @ 24 St NW',51.179918,-114.118388
+8338,'8338','Evanston Dr @ 24 St NW',51.179927,-114.118269
 8339,'8339','Foothills Hosp (North Tower)',51.064705,-114.130884
 8341,'8341','52 St SE @ 52 Ave SE',51.00694,-113.958189
 8342,'8342','52 St SE @ 52 Ave SE',51.006433,-113.958764
@@ -4675,14 +4677,14 @@
 8347,'8347','Panatella Blvd @ Panatella St NW',51.162941,-114.091319
 8348,'8348','Taradale Dr @ Taralake Way NE',51.118662,-113.92737
 8349,'8349','Rocky Vista Dr @ Rocky Vista Pk NW',51.138068,-114.23774
-8350,'8350','Evanston Dr @ Evansborough Gt NW',51.179255,-114.121342
+8350,'8350','Evanston Dr @ Evansborough Gt NW',51.179235,-114.121813
 8351,'8351','Rocky Vista Dr @ Eamon Rd NW',51.137736,-114.23969
 8352,'8352','Martindale Blvd @ Martha''s Way NE',51.122616,-113.960925
-8354,'8354','Evanston Dr @ Evansridge Cir NW',51.176286,-114.121581
+8354,'8354','Evanston Dr @ Evansridge Cir NW',51.176378,-114.122108
 8355,'8355','24 St SE @ Douglas Gln Gt',50.953203,-114.001304
 8356,'8356','Richardson Way @ Richard Rd SW',51.012625,-114.122822
 8357,'8357','Edgebrook Blvd @ Country Hls Blvd NW',51.139797,-114.13179
-8359,'8359','Evanston Rd @ Evansridge Dr NW',51.173331,-114.120531
+8359,'8359','Evanston Rd @ Evansridge Dr NW',51.173602,-114.12069
 8360,'8360','Mt Royal Gt @ Richard Rd SW',51.008675,-114.130466
 8361,'8361','McKenzie Lk Blvd @ McKenzie Lk Way SE',50.907989,-113.9868
 8362,'8362','Country Hls Dr @ Country Hls Way NW',51.150241,-114.066957
@@ -5875,7 +5877,7 @@
 9681,'9681','17 Ave SW @ Aspen Summit Dr',51.038171,-114.204356
 9682,'9682','17 Ave SW @ 85 St SW',51.038067,-114.210525
 9683,'9683','Martha''s Way @ Martha''s Mdw Gt NE',51.1239,-113.960155
-9684,'9684','Aspen Stone Blvd @ 17 Ave SW',51.039177,-114.216722
+9684,'9684','Aspen Stone Blvd @ 17 Ave SW',51.039124,-114.216769
 9685,'9685','Val Gardena Blvd @ St Moritz Dr SW',51.033191,-114.212002
 9686,'9686','17 Ave SW @ 73 St SW',51.037951,-114.193669
 9687,'9687','17 Ave SW @ 73 St SW',51.037592,-114.193334
@@ -5957,7 +5959,7 @@
 9770,'9770','6 Ave NW @ 18 St NW',51.057644,-114.101974
 9771,'9771','Cranston Dr @ Cranston Way SE',50.887033,-113.974757
 9772,'9772','Cranston Ave @ Cranarch Rd SE',50.878911,-113.975311
-9773,'9773','Cranston Ave @ Cranberry Rd SE',50.879493,-113.977088
+9773,'9773','Cranston Ave @ Cranberry Rd SE',50.879548,-113.977053
 9774,'9774','Cranston Dr @ Cranston Rd SE',50.882105,-113.978618
 9775,'9775','Cranston Dr @ Cranberry Ln SE',50.883331,-113.974571
 9776,'9776','Cranston Dr @ Cranston Way SE',50.887671,-113.97473
