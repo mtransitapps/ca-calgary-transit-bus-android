@@ -118,7 +118,7 @@
 2197,'2197','Symons Vly PY @ Shaganappi Trl',51.167837,-114.150225
 2198,'2198','Sage Hl Dr @ Sage Hl Gdns NW',51.171117,-114.137585
 2199,'2199','Sage Hl Dr @ Sage Hl Gdns NW',51.171814,-114.137923
-2200,'2200','Front St @ Main Ent. South Health Campus SE',50.88132,-113.949646
+2200,'2200','Front St @ Main Ent. South Health Campus SE',50.881488,-113.949494
 2201,'2201','Walden Dr SE @ Acr. Walden Ter SE',50.874104,-114.03653
 2202,'2202','Walden Dr SE @ Walden Cr SE (N.Leg)',50.872975,-114.038183
 2203,'2203','Walden Dr SE @ Walden Pk SE',50.869087,-114.036862
@@ -289,7 +289,7 @@
 3452,'3452','Evanston Way @ Evansglen Ln NW',51.178827,-114.099156
 3453,'3453','Symons Vly PY @ Evanston Link NW',51.18097,-114.101094
 3454,'3454','Symons Vly PY @ Evanston Vw (East Leg) NW',51.168509,-114.113795
-3455,'3455','Symons Vly PY @ Evanston Vw (East Leg) NW',51.168135,-114.121713
+3455,'3455','Symons Vly PY @ Evanston Vw (West Leg) NW',51.168135,-114.121713
 3456,'3456','Symons Vly Rd @ Symons Vly PY NW',51.16807,-114.132458
 3457,'3457','Symons Vly PY @ Shaganappi Trl NW',51.168137,-114.152325
 3458,'3458','Symons Vly PY @ Nolan Hl Rise NW',51.168126,-114.156396
@@ -507,7 +507,7 @@
 3736,'3736','45 St SW @ 26 Ave SW',51.030753,-114.152681
 3737,'3737','45 St SW @ 25 Ave SW',51.033109,-114.152665
 3738,'3738','45 St West LRT Sta',51.038227,-114.152665
-3739,'3739','45 St SW @ 13 Ave SW',51.042811,-114.152555
+3739,'3739','45 St SW @ 13 Ave SW',51.041864,-114.152576
 3740,'3740','45 St SW @ Rossmere Rd',51.046787,-114.152554
 3741,'3741','Westbrook LRT Sta',51.040501,-114.136632
 3742,'3742','84 St SE @ 17 Ave SE',51.040073,-113.90816
@@ -2232,7 +2232,7 @@
 5661,'5661','Spruce Dr @ Wimbledon Cr SW',51.052223,-114.153419
 5662,'5662','Spruce Dr @ 3 Ave SW',51.050021,-114.136201
 5663,'5663','14 St NW @ 20 Ave NW',51.070831,-114.094527
-5664,'5664','Spruce Dr @ Bow Trl SW',51.041985,-114.135684
+5664,'5664','Spruce Dr @ Bow Trl SW',51.042201,-114.135519
 5667,'5667','Bow Tr @ 24 St SW',51.041431,-114.11864
 5669,'5669','19 St SW @ 11 Ave SW',51.043243,-114.106813
 5670,'5670','12 Ave SW @ 18 St SW',51.042449,-114.103781
@@ -3264,7 +3264,7 @@
 6782,'6782','Hawkstone Dr @ Hawkmount Grn NW',51.134829,-114.177832
 6785,'6785','Patina Dr @ Patina Pl SW',51.060681,-114.168358
 6786,'6786','Patina Dr @ Vlg Hts SW',51.056797,-114.169523
-6787,'6787','Front St @ Main Ent. South Health Campus SE',50.881088,-113.950931
+6787,'6787','Front St @ Main Ent. South Health Campus SE',50.881202,-113.950835
 6788,'6788','Seton Way @ Front St SE',50.881033,-113.956424
 6789,'6789','Strathcona Blvd @ Strathcona Dr SW',51.047447,-114.185347
 6790,'6790','17 Ave SW @ Costello Blvd',51.037449,-114.170974
@@ -4866,16 +4866,16 @@
 8573,'8573','Scurfield Dr @ Scotia Lndg NW',51.122436,-114.212747
 8574,'8574','Scurfield Dr @ Scenic Gdns NW',51.12222,-114.21276
 8575,'8575','Saddlebrook Dr @ Saddlelake Dr NE',51.125774,-113.929657
-8576,'8576','Saddletowne LRT Sta SB',51.125995,-113.947796
+8576,'8576','Saddletowne LRT Sta SB',51.126051,-113.947656
 8577,'8577','Country Hls Blvd @ Harvest Hls Blvd N',51.152747,-114.067647
 8578,'8578','Tuscany Spgs Blvd @ Tuscarora Mews NW',51.130732,-114.236763
-8579,'8579','Saddletowne LRT Sta SB',51.125829,-113.947901
-8580,'8580','Saddletowne LRT Sta SB',51.125498,-113.94813
+8579,'8579','Saddletowne LRT Sta SB',51.125896,-113.947787
+8580,'8580','Saddletowne LRT Sta SB',51.125519,-113.948054
 8581,'8581','Citadel Way @ Citadel Acres Close NW',51.145279,-114.19534
 8582,'8582','@ Citadel Terminal NW',51.144212,-114.196206
 8583,'8583','Sherwood Blvd @ Sherwood Common NW',51.157421,-114.15032
 8584,'8584','Arbour Lk Rd @ Crowfoot Rise NW',51.126808,-114.210168
-8585,'8585','Saddletown LRT Sta SB',51.125334,-113.948235
+8585,'8585','Saddletown LRT Sta SB',51.125304,-113.948217
 8586,'8586','Arbour Lk Rd @ Arbour Crest Dr NW',51.134128,-114.208954
 8587,'8587','Saddlebrook Dr @ Saddlestone Dr NE',51.129287,-113.929285
 8588,'8588','Arbour Lk Dr @ Arbour Lk Grn NW',51.135449,-114.192762
@@ -4887,7 +4887,7 @@
 8594,'8594','Arbour Crest Dr @ Arbour Crest Rise NW',51.137008,-114.208266
 8595,'8595','Arbour Crest Dr @ Arbour Crest Ter NW',51.138528,-114.205615
 8596,'8596','Coventry Hls Way @ Coville Cr NE',51.171232,-114.041158
-8597,'8597','Saddletowne LRT Sta NB',51.124939,-113.94824
+8597,'8597','Saddletowne LRT Sta NB',51.124718,-113.948439
 8598,'8598','Arbour Lk Dr @ Arbour Vista Gt NW',51.135726,-114.193804
 8599,'8599','Arbour Lk Rd @ Arbour Stone Rise NW',51.134,-114.213751
 8600,'8600','Arbour Lk Rd @ Arbour Stone Cr NW',51.13338,-114.216819
@@ -4914,7 +4914,7 @@
 8623,'8623','16 Ave NW @ 43 St NW',51.068318,-114.158369
 8625,'8625','17 Ave SE @ 60 St SE',51.037924,-113.947686
 8626,'8626','Old Banff Coach Rd @ Patterson Hl SW',51.063181,-114.185077
-8627,'8627','Saddletown LRT Sta NB',51.124727,-113.948407
+8627,'8627','Saddletown LRT Sta NB',51.124579,-113.948581
 8628,'8628','Springbank Blvd @ 69 St SW',51.017931,-114.192269
 8629,'8629','50 St SW @ 40 Ave SW',51.01661,-114.15958
 8630,'8630','Southland LRT Sta WB',50.964276,-114.078237
@@ -4923,7 +4923,7 @@
 8633,'8633','Sarcee Rd @ 44 Ave SW',51.015348,-114.136999
 8634,'8634','Beddington Blvd @ Ctr St N',51.125295,-114.072184
 8635,'8635','Ctr St N @ N. Of Beddington Blvd N',51.126421,-114.071632
-8636,'8636','Saddletown LRT Sta NB',51.124578,-113.94855
+8636,'8636','Saddletown LRT Sta NB',51.124467,-113.948746
 8637,'8637','Symons Vly PY @ Evanston Way NW',51.173913,-114.107783
 8638,'8638','Taradale Dr @ Taravista Mews NE',51.114314,-113.928974
 8639,'8639','Seton Blvd @ Auburn Bay Link SE',50.883429,-113.95379
@@ -5137,7 +5137,7 @@
 8865,'8865','Pensacola Way @ 8 Ave SE',51.044776,-113.951044
 8866,'8866','Pensacola Way @ Pensacola Close SE',51.041022,-113.954729
 8867,'8867','9 Ave SE @ 15 St SE',51.037608,-114.024675
-8868,'8868','Martindale LRT Sta NB (Martindale Blvd)',51.118053,-113.968094
+8868,'8868','Martindale LRT Sta NB (Martindale Blvd)',51.117805,-113.96773
 8869,'8869','Martindale Blvd @ Martha''s Haven Pl NE',51.12018,-113.968632
 8870,'8870','Martindale Blvd @ Martha''s Haven Grn NE',51.121648,-113.965234
 8871,'8871','Martindale Blvd @ Martha''s Mdw Dr NE',51.122091,-113.964261
@@ -5937,7 +5937,7 @@
 9744,'9744','Auburn Bay Blvd @ Auburn Bay Hts SE',50.88532,-113.964545
 9745,'9745','Auburn Bay Blvd @ Auburn Bay Gt SE',50.884734,-113.958994
 9746,'9746','Cranston Dr @ Cranberry Ln SE',50.883753,-113.974543
-9747,'9747','Cranston Ave @ Cranston Rd SE',50.879638,-113.978877
+9747,'9747','Cranston Ave @ Cranston Rd SE',50.879589,-113.978883
 9751,'9751','18 St SE @ Quarry Pk Blvd',50.962643,-114.011964
 9753,'9753','Panamount Blvd @ Panamount St NW',51.156827,-114.086822
 9754,'9754','Panamount Blvd @ E. Leg Panamount Rd NW',51.156707,-114.089232
@@ -5958,7 +5958,7 @@
 9769,'9769','3 Ave NW @ 34 St NW',51.058269,-114.137291
 9770,'9770','6 Ave NW @ 18 St NW',51.057644,-114.101974
 9771,'9771','Cranston Dr @ Cranston Way SE',50.887033,-113.974757
-9772,'9772','Cranston Ave @ Cranarch Rd SE',50.878911,-113.975311
+9772,'9772','Cranston Ave @ Cranarch Rd SE',50.878842,-113.975123
 9773,'9773','Cranston Ave @ Cranberry Rd SE',50.879548,-113.977053
 9774,'9774','Cranston Dr @ Cranston Rd SE',50.882105,-113.978618
 9775,'9775','Cranston Dr @ Cranberry Ln SE',50.883331,-113.974571
