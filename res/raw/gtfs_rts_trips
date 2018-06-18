@@ -165,6 +165,8 @@
 10901,0,'City Ctr',109
 10900,0,'Harvest Hls',109
 11000,0,'City Ctr',110
+11101,0,'West Spgs',111
+11100,0,'Westbrook',111
 11201,0,'City Ctr',112
 11202,0,'Westhills',112
 11301,0,'Crowfoot / Scenic Acres',113
@@ -210,9 +212,13 @@
 15200,0,'New Brighton',152
 15300,0,'Copperfield',153
 15400,0,'Hamptons',154
+15600,0,'69 St Sta',156
+15601,0,'Aspen Woods',156
 15803,0,'Royal Oak',158
 15804,0,'Tuscany',158
 15901,0,'Saddlebrook',159
+16401,0,'69 St Sta',164
+16400,0,'Aspen Summit',164
 16704,0,'Legacy',167
 16703,0,'Walden',167
 16804,0,'Legacy',168
@@ -224,8 +230,6 @@
 17604,0,'South',176
 17801,0,'Chaparral',178
 17800,0,'Sundance',178
-18100,0,'MRU North',181
-18200,0,'MRU South',182
 29900,0,'Arbour Lk',299
 30003,0,'Airport',300
 30004,0,'City Ctr',300
@@ -249,7 +253,6 @@
 41004,0,'Heritage Sta',410
 41101,0,'City Ctr',411
 41100,0,'East Calgary',411
-41201,0,'Bow Trl',412
 41404,0,'City Ctr',414
 41403,0,'North Haven',414
 42100,0,'Panatella',421
@@ -265,232 +268,18 @@
 44400,0,'Somerset Bridlewood Sta',444
 44900,0,'Eau Claire',449
 44901,0,'Parkhill',449
-45201,0,'69 St Sta',452
-45200,0,'Wentworth',452
 45301,0,'69 St Sta',453
 45300,0,'West Spgs',453
 45400,0,'69 St Sta',454
 45401,0,'Springbank Hl',454
-45600,0,'69 St Sta',456
-45601,0,'Aspen Woods',456
 46801,0,'Cranston',468
 46800,0,'Mahogany',468
 50202,0,'Pk Gt Heritage',502
 50201,0,'Sta Heritage',502
+50400,0,'Ctr St North',504
+50401,0,'Stampede Pk',504
+50801,0,'City Ctr',508
+50800,0,'Forest Lawn',508
 55500,0,'Dashmesh Ctr',555
 62700,0,'Columbia College',627
-69501,0,'St Francis',695
-69600,0,'Assumption Bowness',696
-69601,0,'Vly Rdg',696
-69802,0,'69 St Sta',698
-69801,0,'WCHS / St Mary''''s',698
-69901,0,'Schools',699
-69902,0,'West Spgs',699
-70204,0,'Churchill',702
-70203,0,'Nolan Hl',702
-70304,0,'Churchill',703
-70303,0,'Sherwood',703
-70404,0,'Churchill',704
-70403,0,'Edgepark Blvd',704
-70504,0,'Churchill',705
-70503,0,'Edgepark Rise',705
-70604,0,'Churchill',706
-70603,0,'Hamptons',706
-71003,0,'Beaverbrook',710
-71004,0,'Cranston',710
-71102,0,'Beaverbrook',711
-71101,0,'Douglas Glen',711
-71203,0,'Beaverbrook',712
-71204,0,'Parkland',712
-71303,0,'Beaverbrook',713
-71304,0,'Deer Run',713
-71403,0,'Beaverbrook',714
-71404,0,'Prestwick',714
-71503,0,'Beaverbrook',715
-71504,0,'Queensland',715
-71602,0,'Beaverbrook',716
-71601,0,'New Brighton',716
-71702,0,'Beaverbrook',717
-71701,0,'Copperfield',717
-71802,0,'Beaverbrook',718
-71801,0,'Douglasdale',718
-71902,0,'Beaverbrook',719
-71901,0,'McKenzie',719
-72003,0,'Beaverbrook',720
-72004,0,'Mt McKenzie',720
-72102,0,'Beaverbrook',721
-72101,0,'McKenzie Towne',721
-72201,0,'Bowness',722
-72202,0,'Tuscany',722
-72301,0,'Bowness',723
-72302,0,'Tuscany',723
-72404,0,'Bowness',724
-72403,0,'Tuscany',724
-72504,0,'Bowness',725
-72503,0,'Silver Spgs',725
-73102,0,'Central Memorial',731
-73101,0,'Riverbend',731
-73201,0,'Central Memorial',732
-73202,0,'Glamorgan',732
-73300,0,'Central Lakeview',733
-73301,0,'Central Lakeview ',733
-73400,0,'Central Ogden',734
-73401,0,'Central Ogden ',734
-73500,0,'Central North Ogden',735
-73501,0,'Central North Ogden ',735
-73700,0,'Diefenbaker Harvest Hls',737
-73701,0,'Diefenbaker Harvest Hls ',737
-73804,0,'Diefenbaker',738
-73803,0,'N Panorama Hls',738
-73900,0,'Diefenbaker Panorama Hls',739
-73901,0,'Diefenbaker Panorama Hls ',739
-74300,0,'Cr Hts Whitehorn Sta',743
-74301,0,'Cr Hts Whitehorn Sta ',743
-74400,0,'Cr Coventry South',744
-74401,0,'Cr Coventry South ',744
-74500,0,'Cr Hts Vista Hts',745
-74501,0,'Cr Hts Vista Hts ',745
-74600,0,'Cr Hts Coventry Hls',746
-74601,0,'Cr Hts Coventry Hls ',746
-74700,0,'Cr Hts Hidden Vly',747
-74701,0,'Cr Hts Hidden Vly ',747
-74804,0,'Crescent Hts',748
-74803,0,'Hidden Ranch',748
-75004,0,'Coral Spgs',750
-75003,0,'Nelson Mandela',750
-75300,0,'Fowler Evanston',753
-75301,0,'Fowler Evanston ',753
-76000,0,'Ep Scarlett West Bonavista',760
-76001,0,'Ep Scarlett West Bonavista ',760
-76100,0,'Ep Scarlett Auburn Bay',761
-76101,0,'Ep Scarlett Auburn Bay ',761
-76200,0,'Ep Scarlett Bonavista',762
-76201,0,'Ep Scarlett Bonavista ',762
-76300,0,'Ep Scarlett Woodbine',763
-76301,0,'Ep Scarlett Woodbine ',763
-76400,0,'Ep Scarlett James Mckevitt',764
-76401,0,'Ep Scarlett James Mckevitt ',764
-76501,0,'Ep Scarlett Somerset-Bridlewood Sta ',765
-76500,0,'Ep Scarlett Woodbine',765
-76600,0,'Ep Scarlett Evergreen',766
-76601,0,'Ep Scarlett Evergreen ',766
-76703,1,'N',767
-76704,1,'S',767
-76803,0,'Scarlett',768
-76804,0,'Walden',768
-77000,0,'Western Canada Lynnview',770
-77001,0,'Western Canada Lynnview ',770
-77101,0,'Western Canada Chinook Sta ',771
-77300,0,'R Thirsk Rocky Rdg',773
-77301,0,'R Thirsk Rocky Rdg ',773
-77400,0,'R Thirsk Royal Oak',774
-77401,0,'R Thirsk Royal Oak ',774
-77500,0,'R Thirsk Citadel',775
-77501,0,'R Thirsk Citadel ',775
-77600,0,'Wise Wood Palliser Oakridge',776
-77601,0,'Wise Wood Palliser Oakridge ',776
-77700,0,'Wise Wood Evergreen',777
-77701,0,'Wise Wood Evergreen ',777
-77800,0,'Wise Wood Woodlands',778
-77801,0,'Wise Wood Woodlands ',778
-78000,0,'Wise Wood Oakridge',780
-78001,0,'Wise Wood Oakridge ',780
-78204,0,'HD Cartwrightl',782
-78203,0,'Nolan Hl',782
-79100,0,'Queen Elizabeth Macewan',791
-79101,0,'Queen Elizabeth Macewan ',791
-79200,0,'Queen Elizabeth Sandstone',792
-79201,0,'Queen Elizabeth Sandstone ',792
-79300,0,'Queen Elizabeth / Sunnyside',793
-79400,0,'Fe Osborne / Silver Spgs',794
-79401,0,'Fe Osborne / Silver Spgs ',794
-79500,0,'Vincent Massey Christie Pk',795
-79501,0,'Vincent Massey Christie Pk ',795
-79600,0,'Tom Baines Edgemont',796
-79601,0,'Tom Baines Edgemont ',796
-79701,0,'Hamptons',797
-79700,0,'Tom Baines',797
-79804,0,'Annie Gale',798
-79803,0,'Taradale',798
-79900,0,'Annie Gale Coral Spgs',799
-79901,0,'Annie Gale Coral Spgs ',799
-80101,0,'Brebeuf',801
-80102,0,'Royal Oak',801
-80200,0,'Brebeuf Hawkwood',802
-80201,0,'Brebeuf Hawkwood ',802
-80300,0,'Brebeuf Nolan Hl',803
-80400,0,'Brebeuf Hamptons Sherwood',804
-80401,0,'Brebeuf Hamptons Sherwood ',804
-80500,0,'Brebeuf Hamptons Edgemont',805
-80501,0,'Brebeuf Hamptons Edgemont ',805
-80700,0,'Brebeuf Rocky Rdg',807
-80701,0,'Brebeuf Rocky Rdg ',807
-81000,0,'St Margaret North Pte',810
-81001,0,'St Margaret St Francis / North Pte ',810
-81100,0,'St Francis Tuscany',811
-81101,0,'St Francis Tuscany ',811
-81200,0,'St Francis Arbour Lk Citadel',812
-81201,0,'St Francis Arbour Lk Citadel ',812
-81300,0,'St Francis / Sil Sprgs Sc Acres Arbour Lk',813
-81301,0,'St Francis / Sil Sprgs Sc Acres Arbour Lk ',813
-81400,0,'St Francis Royal Oak',814
-81401,0,'St Francis Royal Oak ',814
-81500,0,'St Francis Arbour Lk',815
-81501,0,'St Francis Arbour Lk ',815
-81600,0,'St Francis Citadel',816
-81601,0,'St Francis Citadel ',816
-81700,0,'St Francis Rocky Rdg',817
-81701,0,'St Francis Rocky Rdg ',817
-81800,0,'St Francis Hamptons',818
-81801,0,'St Francis Hamptons ',818
-81900,0,'St Francis East Hamptons',819
-81901,0,'St Francis East Hamptons ',819
-82002,0,'N Scenic Acres',820
-82001,0,'St Francis',820
-82100,0,'Bishop O''byrne Mckenzie',821
-82101,0,'Bishop O''byrne Mckenzie ',821
-82202,0,'B O''Byrne',822
-82201,0,'Walden',822
-82500,0,'Bishop Carroll / Mckenzie Towne',825
-82501,0,'Bishop Carroll / Mckenzie Towne ',825
-83000,0,'M D''HOUET SANDSTONE',830
-83001,0,'M D''HOUET SANDSTONE ',830
-83200,0,'M D''houet / North Pte',832
-83201,0,'M D''houet / North Pte ',832
-83300,0,'Madeleine D''houet Dalhousie',833
-83301,0,'Madeleine D''houet Dalhousie ',833
-83400,0,'Madeleine D''houet Brentwood',834
-83401,0,'Madeleine D''houet Brentwood ',834
-83500,0,'St Bonaventure Anderson',835
-83601,0,'Scenic Acres',836
-83602,0,'St V De Paul',836
-83900,0,'Lady Of Grace / Evanston',839
-83901,0,'Lady Of Grace / Evanston ',839
-84304,0,'MacEwan',843
-84303,0,'Notre Dame',843
-84402,0,'Evanston',844
-85100,0,'St Augustine Lynnwood Ogden',851
-85101,0,'St Augustine Lynnwood Ogden ',851
-85300,0,'St Augustine Riverbend',853
-85301,0,'St Augustine Riverbend ',853
-85700,0,'St Stephen',857
-85701,0,'St Stephen ',857
-86000,0,'B Grandin Cranston Douglasdale',860
-86001,0,'B Grandin Cranston Douglasdale ',860
-86100,0,'Auburn Bay / B Grandin',861
-86101,0,'Auburn Bay / B Grandin ',861
-86202,0,'52 St',862
-86201,0,'Bishop Grandin',862
-87101,0,'St Martha Marlborough ',871
-87200,0,'St Alphonsus Rundle',872
-87801,0,'F Whelihan Chaparral ',878
-88000,0,'St Matthew Heritage',880
-88001,0,'St Matthew Heritage ',880
-88400,0,'St Helena / Kincora / Sage Hl',884
-88401,0,'St Helena / Kincora / Sage Hl ',884
-88700,0,'Roure 887',887
-88701,0,'Roure 887 ',887
-89200,0,'St Isabella Mckenzie Towne',892
-89201,0,'St Isabella Mckenzie Towne ',892
-89401,0,'69 St SW',894
-89402,0,'Strathcona',894
+1000100,0,'Stampede Parade',10001
