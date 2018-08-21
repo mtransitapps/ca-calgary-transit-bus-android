@@ -5,13 +5,13 @@ Calgary Transit buses for MonTransit.
 Schedule. News.
 ----------
 What's new in this version?:
-Schedule from June 25, 2018 to September 2, 2018.
-Tweets from @calgarytransit.
+Schedule from August 14, 2018 to November 18, 2018.
+Tweets from @CalgaryTransit.
 ----------
 Full description:
 This app adds Calgary Transit buses information to MonTransit.
 
-This app provides the schedule as well as news from @calgarytransit on Twitter and YouTube.
+This app provides the schedule as well as news from @CalgaryTransit on Twitter and YouTube.
 
 Calgary Transit buses serve Calgary in Alberta, Canada.
 
