@@ -36,7 +36,7 @@
 2001,0,'Heritage',20
 2000,0,'Northmount Dr',20
 2101,0,'Castleridge',21
-2301,0,'Foothills Ind',23
+2301,0,'Chinook Sta',23
 2300,0,'Saddletowne',23
 2400,0,'City Ctr',24
 2401,0,'Ogden',24
@@ -311,8 +311,6 @@
 71601,0,'New Brighton',716
 71702,0,'Beaverbrook',717
 71701,0,'Copperfield',717
-71802,0,'Beaverbrook',718
-71801,0,'Douglasdale',718
 71902,0,'Beaverbrook',719
 71901,0,'McKenzie',719
 72102,0,'Vly Rdg',721
