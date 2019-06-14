@@ -136,23 +136,23 @@
 9101,0,'Foothills Medical Ctr',91
 9100,0,'Lions Pk Sta',91
 9200,0,'Anderson Sta',92
-9201,0,'Mckenzie Towne',92
+9201,0,'McKenzie Towne',92
 9301,0,'Coach Hl',93
 9300,0,'Westbrook',93
 9401,0,'Strathcona',94
 9402,0,'Westbrook Sta',94
 9600,0,'Anderson Sta',96
-9601,0,'Mckenzie',96
+9601,0,'McKenzie',96
 9701,0,'Crowfoot / Scenic Acres',97
 9700,0,'South Ranchlands',97
-9804,0,'69 St Sta',98
-9803,0,'Cougar Rdg',98
+9801,0,'69 St Sta',98
+9800,0,'Cougar Rdg',98
 10001,0,'Mcknight Westwinds',100
 10000,0,'North Pte',100
 10200,0,'City Ctr',102
 10201,0,'Douglasdale',102
 10300,0,'City Ctr',103
-10301,0,'Mckenzie',103
+10301,0,'McKenzie',103
 10400,0,'Sunnyside',104
 10401,0,'University Of Calgary',104
 10500,0,'Dalhousie',105
@@ -174,7 +174,7 @@
 11601,0,'City Ctr',116
 11600,0,'Coventry Hls',116
 11700,0,'City Ctr',117
-11701,0,'Mckenzie Towne',117
+11701,0,'McKenzie Towne',117
 11800,0,'Hidden Vly',118
 11901,0,'Freeport',119
 11900,0,'Saddletowne Sta',119
@@ -186,6 +186,8 @@
 12400,0,'North Pte',124
 12701,0,'Franklin Industrial',127
 12700,0,'Maryvale',127
+12800,0,'Cornerstone / Redstone',128
+12801,0,'Saddletowne Sta',128
 12901,0,'Dalhousie',129
 12900,0,'Sage Hl',129
 13300,0,'City Ctr',133
@@ -254,7 +256,7 @@
 40200,0,'Silverado',402
 40401,1,'E',404
 40402,1,'W',404
-40600,0,'Mckenzie Towne',406
+40600,0,'McKenzie Towne',406
 40601,0,'Somerset-Bridlewood Sta',406
 40801,0,'Brentwood',408
 40802,0,'Vly Rdg',408
@@ -285,6 +287,11 @@
 46800,0,'Mahogany',468
 50202,0,'Pk Gt Heritage',502
 50201,0,'Sta Heritage',502
+50400,0,'Ctr St North',504
+50401,0,'Stampede Pk',504
+50801,0,'City Ctr',508
+50800,0,'Forest Lawn',508
+52600,0,'Manchester Yards',526
 55500,0,'Dashmesh Ctr',555
 62700,0,'Columbia College',627
 69501,0,'St Francis',695
@@ -369,12 +376,12 @@
 75501,0,'Jc Schubert / Douglas Gln ',755
 75600,0,'Jc Schubert / New Brighton',756
 75601,0,'Jc Schubert / New Brighton ',756
-75700,0,'JC SCHUBERT / McKENZIE Lk',757
-75701,0,'JC SCHUBERT / McKENZIE Lk ',757
+75700,0,'JC SCHUBERT / McKenzie Lk',757
+75701,0,'JC SCHUBERT / McKenzie Lk ',757
 75800,0,'Jc Schubert / Douglasdale',758
 75801,0,'Jc Schubert / Douglasdale ',758
-75900,0,'JC SCHUBERT / McKENZIE TOWNE',759
-75901,0,'JC SCHUBERT / McKENZIE TOWNE ',759
+75900,0,'JC SCHUBERT / McKenzie TOWNE',759
+75901,0,'JC SCHUBERT / McKenzie TOWNE ',759
 76000,0,'Ep Scarlett West Bonavista',760
 76001,0,'Ep Scarlett West Bonavista ',760
 76100,0,'Ep Scarlett Auburn Bay',761
@@ -459,11 +466,11 @@
 81901,0,'St Francis East Hamptons ',819
 82002,0,'N Scenic Acres',820
 82001,0,'St Francis',820
-82100,0,'Bishop O''byrne Mckenzie',821
-82101,0,'Bishop O''byrne Mckenzie ',821
+82100,0,'Bishop O''byrne McKenzie',821
+82101,0,'Bishop O''byrne McKenzie ',821
 82201,0,'Walden',822
-82500,0,'Bishop Carroll / Mckenzie Towne',825
-82501,0,'Bishop Carroll / Mckenzie Towne ',825
+82500,0,'Bishop Carroll / McKenzie Towne',825
+82501,0,'Bishop Carroll / McKenzie Towne ',825
 82600,0,'Bishop Carroll / Brentwood / Dalhousie',826
 82601,0,'Bishop Carroll / Brentwood / Dalhousie ',826
 82700,0,'Bishop Carroll / Heritage / Anderson',827
@@ -519,8 +526,8 @@
 88001,0,'St Matthew Heritage ',880
 88700,0,'St Elizabeth Seton / Panorama',887
 88701,0,'St Elizabeth Seton / Panorama ',887
-89200,0,'St Isabella Mckenzie Towne',892
-89201,0,'St Isabella Mckenzie Towne ',892
+89200,0,'St Isabella McKenzie Towne',892
+89201,0,'St Isabella McKenzie Towne ',892
 89401,0,'69 St SW',894
 89402,0,'Strathcona',894
 89500,0,'St Gregory / Cougar Rdg',895
