@@ -144,7 +144,7 @@
 2245,'2245','13 Ave @ Aspen Summit Grn SW',51.047077,-114.200569
 2246,'2246','Legacy Vlg Li @ 210 Av SE',50.86381,-114.026257
 2247,'2247','Chaparral Blvd @ 194 Ave SE',50.878232,-114.024404
-2248,'2248','Shawville Way @ W. Of Shawville Link SE',50.900436,-114.069218
+2248,'2248','Shawville Way @ W. Of Shawville Link SE',50.899905,-114.06879
 2249,'2249','Shawville Link @ Shawville Way SE',50.89931,-114.066536
 2250,'2250','Shawville Blvd @ Shawville Gt SE',50.899854,-114.063378
 2251,'2251','162 Ave SE @ Shawville Blvd SE',50.904223,-114.064832
@@ -1056,7 +1056,7 @@
 4207,'4207','Macleod Trl @ 94 Ave SE',50.969131,-114.071322
 4208,'4208','Bonaventure Dr @ 90 Ave SE',50.972705,-114.068562
 4209,'4209','Bonaventure Dr @ 86 Ave SE',50.976291,-114.06845
-4210,'4210','90 Ave SE @ Fairmount Dr',50.972325,-114.059764
+4210,'4210','90 Ave SE @ Fairmount Dr SE',50.972325,-114.059764
 4211,'4211','Acadia Dr @ Ancourt Rd SE',50.9723,-114.053941
 4212,'4212','Acadia Dr @ Maplecroft Rd SE',50.95833,-114.042179
 4213,'4213','Acadia Dr @ Mapleburn Dr SE',50.955279,-114.040678
@@ -2943,7 +2943,7 @@
 6411,'6411','Strathcona Blvd @ Strathcona Dr SW',51.04832,-114.185009
 6412,'6412','Heritage LRT Sta NB',50.979277,-114.074203
 6413,'6413','Bonaventure Dr @ Heritage Dr SE',50.978858,-114.068268
-6414,'6414','90 Ave SE @ Bonaventure Dr',50.972188,-114.065203
+6414,'6414','90 Ave SE @ Bonaventure Dr SE',50.972188,-114.065203
 6415,'6415','Acadia Dr @ 6 St SE',50.96958,-114.048786
 6416,'6416','Acadia Dr @ Southland Dr SE',50.963583,-114.048539
 6417,'6417','Acadia Dr @ Willowfern Dr SE',50.954784,-114.041022
@@ -2976,7 +2976,7 @@
 6444,'6444','Acadia Dr @ Mapleglade Dr SE',50.95207,-114.04111
 6445,'6445','Acadia Dr @ Mapleton Dr SE',50.961399,-114.047211
 6446,'6446','Acadia Dr @ 6 St SE',50.970088,-114.049309
-6447,'6447','90 Ave SE @ Bonaventure Dr',50.972327,-114.066078
+6447,'6447','90 Ave SE @ Bonaventure Dr SE',50.972327,-114.066078
 6448,'6448','Macleod Trl @ Southland Dr SE',50.965668,-114.071312
 6449,'6449','Macleod Trl @ 90 Ave SE',50.972476,-114.071269
 6450,'6450','Macleod Trl @ 73 Ave SE',50.987094,-114.071346
@@ -4268,7 +4268,7 @@
 7969,'7969','Citadel Gt @ Citadel Dr NW',51.142187,-114.180843
 7971,'7971','7 St SE @ 42 Ave SE',51.016402,-114.045741
 7972,'7972','7 St SE @ N. Of 42 Ave SE',51.019333,-114.045668
-7973,'7973','24 St SE @ Douglas Gln Gt',50.953238,-114.001313
+7973,'7973','24 St SE @ Douglas Gln Gt',50.953232,-114.001301
 7974,'7974','75 Ave SW @ Eagle Rdg Dr SW SB',50.988046,-114.095741
 7978,'7978','69 St SW @ Christie Ests Blvd',51.040245,-114.18731
 7979,'7979','Kincora Gln Grn @ Kincora Gln Bay NW',51.163946,-114.134822
@@ -5207,6 +5207,7 @@
 9103,'9103','Lk Fraser Dr @ N. Of Canyon Mdws Dr SE',50.933806,-114.066269
 9104,'9104','Canyon Mdws Dr @ Bonaventure Dr SE',50.930135,-114.062046
 9105,'9105','Canyon Mdws Dr @ Lk Placid Rise SE',50.930242,-114.051534
+9106,'9106','Bonaventure Dr @ S. Of Fairmount Dr SE',50.952819,-114.060203
 9107,'9107','Woodfield Rd @ Woodhaven Cr SW',50.934763,-114.132245
 9108,'9108','Woodfield Rd @ Woodhaven Cr SW',50.933696,-114.126518
 9109,'9109','Woodpark Blvd @ Woodfield Rd SW',50.935979,-114.123776
