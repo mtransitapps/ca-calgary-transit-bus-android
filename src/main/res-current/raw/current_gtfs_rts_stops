@@ -574,7 +574,7 @@
 3497,'3497','Country Vlg Way @ Harvest Hls Blvd N',51.156824,-114.068671
 3498,'3498','Country Vlg Way @ Harvest Hls Blvd N',51.156853,-114.068435
 3499,'3499','Country Vlg Link NE @ Country Vlg Wy NW',51.158539,-114.067911
-3501,'3501','Seton Blvd @ Auburn Bay Link SE',50.882798,-113.954296
+3501,'3501','Seton Blvd @ Auburn Bay Link SE',50.882858,-113.95434
 3502,'3502','52 St SE @ Auburn Bay Dr',50.898883,-113.944472
 3504,'3504','52 St SE @ Auburn Mdws Dr',50.893087,-113.942789
 3505,'3505','52 St SE @ Mahogany Rd',50.894727,-113.942488
@@ -654,8 +654,8 @@
 3598,'3598','Cranford Dr @ Cranford St SE',50.877415,-113.970788
 3599,'3599','52 St SE @ Mahogany Dr',50.891353,-113.942253
 3600,'3600','52 St SE @ Mahogany Dr',50.892765,-113.942251
-3601,'3601','52 St SE @ Mahogany St',50.898902,-113.943866
-3602,'3602','52 St SE @ Mahogany Gt',50.899247,-113.944118
+3601,'3601','52 St SE @ Mahogany St',50.897148,-113.942968
+3602,'3602','52 St SE @ Mahogany Gt',50.898559,-113.943583
 3603,'3603','Mahogany Gt @ Mahogany Plz SE',50.899382,-113.941363
 3604,'3604','Mahogany Blvd @ Mahogany Gt SE',50.899723,-113.936959
 3605,'3605','Mahogany Blvd @ Mahogany Hts SE',50.90243,-113.932733
@@ -757,14 +757,14 @@
 3746,'3746','Richmond Rd Sta (SB)',51.022864,-114.141292
 3747,'3747','Sarcee Rd Sta (EB)',51.012341,-114.140485
 3748,'3748','MRU Terminal',51.014409,-114.133724
-3751,'3751','Crowchild Trl @ 54th Ave SW',51.005437,-114.118236
+3751,'3751','54 Ave SW Sta (SB)',51.005437,-114.118236
 3753,'3753','14th St SW @ 75th Ave SW',50.987418,-114.095142
 3754,'3754','Heritage Dr @ Haysboro Cr SW',50.97949,-114.091241
 3755,'3755','Heritage Dr @ Elbow Dr SW',50.979439,-114.082524
 3756,'3756','Heritage LRT Sta',50.978835,-114.07516
 3758,'3758','Heritage Dr @ Churchill Dr SW',50.979677,-114.092574
 3759,'3759','14th St SW @ 75th Ave SW',50.987157,-114.094548
-3761,'3761','Crowchild Trl @ 54th Ave SW',51.005343,-114.117693
+3761,'3761','54 Ave SW Sta (NB)',51.005343,-114.117693
 3764,'3764','MRU Terminal',51.014084,-114.133599
 3765,'3765','Sarcee Rd Sta (WB)',51.012577,-114.139418
 3766,'3766','Richmond Rd Sta (NB)',51.022202,-114.140973
@@ -1210,7 +1210,7 @@
 4313,'4313','Panorama Hls Dr @ Panorama Hls Gt NW',51.150272,-114.084017
 4314,'4314','Panorama Hls Dr @ Panorama Hls Grn NW',51.149209,-114.080034
 4315,'4315','Panorama Hls Dr @ Panorama Hls Blvd SW',51.15074,-114.076465
-4316,'4316','Panorama Hls Dr @ Panorama Hls Mnr NW',51.152857,-114.077289
+4316,'4316','Panorama Hls Blvd @ Panorama Hls Mnr NW',51.152857,-114.077289
 4317,'4317','Country Hls Blvd @ Panorama Hls Way NW',51.151081,-114.069621
 4318,'4318','Country Hls Blvd @ Country Hls Dr NW',51.151698,-114.068381
 4319,'4319','Country Hls Blvd @ Country Hls Dr NW',51.147498,-114.078114
@@ -1845,7 +1845,7 @@
 5033,'5033','4 St NW @ 40 Ave NW',51.087832,-114.071495
 5034,'5034','Bowness Rd @ 47 St NW',51.073513,-114.161877
 5035,'5035','Bowness Rd @ 43 St NW',51.068789,-114.155557
-5036,'5036','Bowness Rd @ Pt Dr NW',51.061907,-114.145916
+5036,'5036','Bowness Rd @ Pt Dr NW NLeg',51.061907,-114.145916
 5037,'5037','Parkdale Blvd @ 29 St NW',51.055076,-114.128853
 5038,'5038','78 Ave N @ Ctr St N',51.122682,-114.072006
 5039,'5039','Parkdale Blvd @ 27 St NW',51.053914,-114.125129
@@ -2401,7 +2401,7 @@
 5681,'5681','Richardson Way SW @ 37 St SW',51.012353,-114.14032
 5682,'5682','Richardson Way @ Lincoln Way SW',51.012474,-114.137561
 5683,'5683','86 Ave SE @ 52 St SE',50.97535,-113.957192
-5684,'5684','Crowchild Trl @ 54 Ave SW',51.005562,-114.117657
+5684,'5684','54 Ave SW Sta (NB)',51.005562,-114.117657
 5685,'5685','Castleridge Dr @ Falconridge Blvd NE',51.107091,-113.950242
 5686,'5686','Richardson Way @ Richardson Rd SW',51.013144,-114.137006
 5687,'5687','Richardson Way SW @ Sarcee Rd',51.012621,-114.139519
@@ -2484,7 +2484,7 @@
 5766,'5766','Crowchild Trl @ 33 Ave SW',51.023755,-114.117127
 5767,'5767','Crowchild Trl @ 26 Ave SW',51.029781,-114.11768
 5768,'5768','Richard Rd @ Richardson Way SW',51.012913,-114.121378
-5769,'5769','Crowchild Trl @ 17 Ave',51.037507,-114.113091
+5769,'5769','17 Ave SW Sta (NB)',51.037507,-114.113091
 5770,'5770','Crowchild Trl @ Flanders Ave SW',51.016821,-114.117454
 5771,'5771','Foothills Hosp (Women''s Health Ctr)',51.065251,-114.132606
 5772,'5772','Uxbridge Dr @ 16 Ave NW',51.069238,-114.129033
@@ -2531,7 +2531,7 @@
 5813,'5813','Silver Spgs Rd @ Silver Spgs Cr NW',51.110559,-114.185556
 5814,'5814','Silvergrove Dr @ 100 Silvergrove Pl NW',51.115873,-114.195236
 5815,'5815','Scenic Acres Gt @ Scenic Way NW',51.114504,-114.210552
-5816,'5816','Bow Trl @ Spruce Dr SW',51.041655,-114.136175
+5816,'5816','Bow Trl @ Spruce Dr SW',51.041911,-114.136362
 5818,'5818','Silvergrove Dr @ Silvergrove Rd NW',51.115618,-114.202982
 5819,'5819','Silvergrove Dr @ Silverstone Rd NW',51.115145,-114.194137
 5820,'5820','Silver Spgs Rd @ Silver Brk Dr NW',51.110428,-114.190593
@@ -2793,7 +2793,7 @@
 6107,'6107','Chaparral Dr @ Chaparral Cir SE',50.887691,-114.043572
 6109,'6109','24 St SW @ Woodpark Ave',50.946953,-114.117726
 6110,'6110','Braeside Sta (NB)',50.954589,-114.117709
-6111,'6111','Southland Dr @ 24 St SW',50.961199,-114.116915
+6111,'6111','Oakridge Sta (EB)',50.961199,-114.116915
 6112,'6112','Southland LRT Sta WB',50.964228,-114.077386
 6113,'6113','Southland Dr @ Macleod Trl SE',50.964901,-114.07015
 6114,'6114','Southland Dr @ Bonaventure Dr SE',50.964879,-114.067502
@@ -2998,7 +2998,7 @@
 6345,'6345','37 St SW @ 23 Ave SW',51.033473,-114.141059
 6346,'6346','37 St SW @ 17 Ave SW',51.038185,-114.141026
 6347,'6347','Bow Trl @ Westbrook Mall Overpass',51.043224,-114.138518
-6348,'6348','Westbrook LRT Sta (EB Bow Trl @ 33 St SW)',51.041501,-114.136277
+6348,'6348','Westbrook LRT Sta (EB Bow Trl @ 33 St SW)',51.041462,-114.136258
 6349,'6349','Crowchild Trl @ Kensington Rd NW',51.052875,-114.117672
 6350,'6350','40 Ave NW @ Northmount Dr',51.088706,-114.084866
 6351,'6351','40 Ave NW @ 4 St NW',51.087732,-114.070359
@@ -3307,7 +3307,7 @@
 6697,'6697','53 St NW @ Varsity Ests Dr',51.09686,-114.164347
 6698,'6698','11 St SE @ Heritage Dr',50.987651,-114.039573
 6699,'6699','Richard Rd @ Richardson Way SW',51.011849,-114.123455
-6700,'6700','MRU (WB)',51.010988,-114.127572
+6700,'6700','MRU Sta (SB)',51.010988,-114.127572
 6701,'6701','4 St NW @ 64 Ave NW',51.111117,-114.071264
 6702,'6702','Rundlehorn Dr @ 26 Ave NE',51.076514,-113.94086
 6703,'6703','50 Ave SW @ Richard Rd',51.008645,-114.128501
@@ -5429,7 +5429,7 @@
 9138,'9138','24 St SE @ Douglas Gln Gt',50.953184,-114.001342
 9139,'9139','Crestmont Blvd @ Crestmont Dr SW',51.086448,-114.262939
 9140,'9140','Saddletowne Cir @ Taravista Dr NE',51.121983,-113.944244
-9141,'9141','Bowness Rd @ Pt Dr NW',51.060636,-114.142854
+9141,'9141','Bowness Rd @ Pt Dr NW SLeg',51.060636,-114.142854
 9143,'9143','Lk Bonavista Dr @ Lk Willow Rd SE',50.943447,-114.065093
 9144,'9144','Lk Bonavista Dr @ Bonaventure Dr SE',50.941084,-114.061298
 9145,'9145','Lk Bonavista Dr @ Lk Mead Dr SE',50.938106,-114.055208
@@ -5465,7 +5465,7 @@
 9175,'9175','Southland Dr @ Brookpark Blvd SW',50.961482,-114.110161
 9176,'9176','24 St SW @ 106 Ave SW',50.958054,-114.117765
 9177,'9177','Southland Dr @ Brookpark Blvd SW',50.961196,-114.108783
-9178,'9178','Southland Dr @ 19 St SW',50.961276,-114.105103
+9178,'9178','Southland Leisure Ctr (EB)',50.961276,-114.105103
 9179,'9179','Southland Dr @ Bradbury Dr SW',50.961238,-114.098155
 9180,'9180','24 St SW @ 106 Ave SW',50.957011,-114.118143
 9181,'9181','James McKevitt Rd @ Shawnee Link SW',50.921473,-114.089915
@@ -6086,7 +6086,6 @@
 9895,'9895','Tusslewood Dr @ Tusslewood Hts NW',51.136447,-114.251004
 9898,'9898','Tusslewood Dr @ Tusslewood Hts NW',51.13585,-114.250854
 9899,'9899','Tuscany Spgs Hl @ Tuscany Spgs Ter NW',51.133929,-114.250893
-9900,'9900','64 Ave NW @ Tregillus St',51.110744,-114.06784
 9901,'9901','Hamptons Dr @ Hampstead Rd NW',51.141369,-114.132516
 9903,'9903','Hosp Dr @ Health Science Ctr NW',51.06644,-114.131957
 9904,'9904','Canterbury Dr @ Canterbury Pl SW',50.947926,-114.08758
