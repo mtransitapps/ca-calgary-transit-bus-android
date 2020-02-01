@@ -70,7 +70,7 @@
 2115,'2115','Auburn Bay Dr @ 56 St SE',50.899168,-113.947542
 2116,'2116','Mahogany Blvd @ Mahogany Gt SE',50.899358,-113.93762
 2118,'2118','Mahogany Gt @ Mahogany Blvd SE',50.899631,-113.937671
-2119,'2119','Auburn Bay Dr @ Auburn Mdws Blvd',50.899267,-113.948747
+2119,'2119','Auburn Bay Dr @ Auburn Mdws Pl',50.899267,-113.948747
 2120,'2120','Auburn Bay Dr @ Auburn Gln Dr SE',50.898746,-113.951509
 2121,'2121','Auburn Bay Dr @ Auburn Gln Grn SE',50.898018,-113.953038
 2122,'2122','Auburn Bay Dr @ Auburn Gln Way SE',50.896211,-113.954912
@@ -172,13 +172,13 @@
 2254,'2254','8 Ave NE @ 13A St NE',51.059082,-114.028984
 2255,'2255','Richardson Way @ Bishop Way SW',51.015129,-114.12954
 2256,'2256','Redstone St @ 128 Ave NE',51.166404,-113.96182
-2257,'2257','Redstone Dr @ Redstone St NE',51.168534,-113.96257
+2257,'2257','Redstone Dr @ Redstone St NE',51.168534,-113.962568
 2258,'2258','Redstone Grv @ Redstone Dr NE',51.168767,-113.965782
-2259,'2259','Redstone Grv @ Redstone Villas NE',51.170189,-113.965715
-2260,'2260','Redstone Grv @ Redstone Plz NE',51.171965,-113.965034
-2261,'2261','Redstone Grv @ Redstone Ave NE',51.172882,-113.963534
+2259,'2259','Redstone Grv @ Redstone Villas NE',51.170193,-113.965713
+2260,'2260','Redstone Grv @ Redstone Plz NE',51.17196,-113.965037
+2261,'2261','Redstone Grv @ Redstone Ave NE',51.172882,-113.963533
 2262,'2262','Redstone St @ Redstone Ave NE',51.172891,-113.9614
-2263,'2263','Redstone St @ Redstone Pk NE',51.169735,-113.962193
+2263,'2263','Redstone St @ Redstone Pk NE',51.169737,-113.96219
 2265,'2265','Skyview Rnch Dr @ 52 St NE',51.15788,-113.957853
 2267,'2267','9 Ave SW @ 81 St SW',51.059553,-114.20549
 2268,'2268','9 Ave SW @ 77 St SW',51.059753,-114.199942
@@ -200,8 +200,8 @@
 2286,'2286','162 Ave SW @ 24 St SW',50.906538,-114.116708
 2287,'2287','52 St NE Adjacent To Saddlecreek Cr',51.127999,-113.958162
 2288,'2288','Saddlemont Blvd @ Saddleland Dr NE',51.129525,-113.939543
-2289,'2289','Redstone St @ Redstone Dr NE',51.167724,-113.962165
-2290,'2290','Redstone St @ Redstone Way NE',51.166368,-113.962216
+2289,'2289','Redstone St @ Redstone Dr NE',51.167723,-113.962158
+2290,'2290','Redstone St @ Redstone Way NE',51.166368,-113.962184
 2291,'2291','Country Hls Blvd @ E Of Barlow Trl NE',51.154505,-113.994621
 2292,'2292','Country Hls Blvd @ Barlow Trl NE',51.154126,-113.999932
 2293,'2293','Country Hls Blvd @ Barlow Trl NE',51.154519,-114.002976
@@ -503,8 +503,8 @@
 2864,'2864','Heritage Dr @ Heritage Gt SE',50.987284,-114.044359
 2865,'2865','Heritage Dr @ 77 Ave SE',50.984249,-114.048629
 2866,'2866','Southland Dr @ Maplecreek Dr SE',50.964549,-114.042907
-2867,'2867','Palliser Dr @ Oakfield Dr SW',50.971665,-114.13215
-2868,'2868','Palliser Dr @ Oakwood Dr SW',50.971445,-114.132574
+2867,'2867','Palliser Dr @ Oakfield Dr SW',50.971174,-114.131442
+2868,'2868','Palliser Dr @ Oakwood Dr SW',50.972275,-114.133407
 2869,'2869','4A St @ 67 Ave SW',50.993037,-114.074274
 2870,'2870','4A St @ 69 Ave SW',50.991268,-114.074191
 2871,'2871','4A St @ Kingsmere Cr SW',50.989446,-114.074246
@@ -2202,7 +2202,7 @@
 5405,'5405','23 St NW@ 2 Ave NW',51.054053,-114.115473
 5406,'5406','52 St SE @ S. Leg Erin Woods Dr',51.018591,-113.95861
 5407,'5407','University Dr @ 24 Ave NW',51.074708,-114.128366
-5408,'5408','University Way @ Craigie Hall NW',51.076506,-114.127041
+5408,'5408','University Way @ Craigie Hall NW',51.076495,-114.127065
 5409,'5409','24 Ave NW @ Upper Pl',51.074477,-114.132983
 5410,'5410','24 Ave NW @ Ulrich Rd',51.074483,-114.139529
 5412,'5412','Elbow Dr @ Malibou Rd SW',50.995642,-114.083293
@@ -2215,7 +2215,7 @@
 5425,'5425','40 Ave NW@ 37 St NW',51.087393,-114.140533
 5428,'5428','58 Ave @ W. Of Chinook Ctr',51.001294,-114.078049
 5429,'5429','24 Ave NW @ Upton Pl',51.074153,-114.135068
-5430,'5430','University Way @ Craigie Hall',51.076514,-114.127244
+5430,'5430','University Way @ Craigie Hall',51.076478,-114.127049
 5431,'5431','4 St SW@ 11 Ave SW',51.042817,-114.0714
 5432,'5432','9 Ave SW@ 11 St SW',51.045221,-114.087598
 5433,'5433','University Dr @ 16 Ave NW',51.067514,-114.122587
@@ -2444,7 +2444,7 @@
 5694,'5694','66 Ave SW @ 34 St SW',50.994631,-114.136179
 5695,'5695','37 St SW @ 58 Ave SW',51.001169,-114.140909
 5696,'5696','32 St NE @ S. Of 32 Ave NE',51.079783,-113.988768
-5697,'5697','University Way @ Craigie Hall',51.076131,-114.127088
+5697,'5697','University Way @ Craigie Hall',51.076071,-114.127018
 5698,'5698','16 Ave NW @ University Dr',51.067618,-114.123715
 5699,'5699','12 Ave NW @ 21 St NW',51.063446,-114.10975
 5700,'5700','Ctr St S @ 4 Ave S',51.049217,-114.062546
@@ -3928,7 +3928,7 @@
 7406,'7406','32 Ave NE @ 15A St NE',51.081595,-114.021566
 7407,'7407','Edmonton Trl @ 23 Ave NE',51.073694,-114.056183
 7408,'7408','32 Ave NE @ S. Gt Of Spg Gdns',51.081366,-114.040873
-7410,'7410','University Way @ Craigie Hall',51.07611,-114.127124
+7410,'7410','University Way @ Craigie Hall',51.076057,-114.127034
 7412,'7412','14 St NW @ Bowness Rd',51.050807,-114.094825
 7413,'7413','37 St SW @ 19 Ave SW',51.03654,-114.141056
 7414,'7414','Crowchild Trl @ 23 Ave SW',51.033122,-114.117986
