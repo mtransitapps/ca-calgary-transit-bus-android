@@ -812,7 +812,7 @@
 3743,'3743','84 St SE @ 17 Ave SE',51.041004,-113.908306
 3744,'3744','Westbrook LRT Sta',51.040166,-114.13604
 3745,'3745','26th Ave SW Sta (SB)',51.029738,-114.141304
-3746,'3746','Richmond Rd Sta (SB)',51.022864,-114.141292
+3746,'3746','Richmond Rd Sta (SB)',51.023078,-114.141391
 3747,'3747','Sarcee Rd Sta (EB)',51.012341,-114.140485
 3748,'3748','MRU Terminal',51.014409,-114.133724
 3751,'3751','54 Ave SW Sta (SB)',51.005437,-114.118236
@@ -982,7 +982,7 @@
 3979,'3979','Sunpark Plz @ Sunpark Dr SE',50.901119,-114.055936
 3980,'3980','Sunpark Plz @ Sundance Pl Pk SE',50.902794,-114.057808
 3981,'3981','Dalhousie Dr @ Dalham Cr NW',51.106229,-114.158333
-3982,'3982','MRU Sta (NB)',51.107382,-114.161331
+3982,'3982','Dalhousie Dr @ 53 St NW',51.107382,-114.161331
 3983,'3983','Varsity Dr @ 48 St NW',51.093981,-114.158024
 3984,'3984','Varsity Dr @ Shaganappi Trl NW',51.093611,-114.155761
 3985,'3985','Varsity Dr @ Viscount Dr NW',51.093029,-114.152569
@@ -5938,7 +5938,7 @@
 9727,'9727','Panorama Hls Way NW @ Panorama Hls Cr NW',51.152622,-114.070082
 9728,'9728','Silverado Blvd @ Silverado Ponds Way SW',50.886724,-114.07418
 9729,'9729','Silverado Blvd @ Silverado Skies Link SW',50.886722,-114.078985
-9730,'9730','Silverado Way @ Silverado Dr SW',50.881308,-114.073638
+9730,'9730','Silverado Way @ Silverado Dr SW',50.881415,-114.07634
 9732,'9732','Auburn Bay Blvd @ Auburn Sound Vw SE',50.885057,-113.963372
 9733,'9733','Auburn Bay Blvd @ Auburn Sound Grn SE',50.887594,-113.965681
 9734,'9734','Auburn Bay Blvd @ Auburn Sound Vw SE',50.889882,-113.966353
