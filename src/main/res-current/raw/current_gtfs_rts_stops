@@ -122,7 +122,6 @@
 2197,'2197','Symons Vly PY @ Shaganappi Trl',51.167864,-114.15046
 2198,'2198','Sage Hl Dr @ Sage Hl Gdns NW',51.171051,-114.13744
 2199,'2199','Sage Hl Dr @ Sage Hl Gdns NW',51.171814,-114.137923
-2200,'2200','Front St @ Main Ent. South Health Campus SE',50.881412,-113.949462
 2201,'2201','Walden Dr SE @ Acr. Walden Ter SE',50.87408,-114.036571
 2202,'2202','Walden Dr SE @ Walden Cr SE (N.Leg)',50.872983,-114.03818
 2203,'2203','Walden Dr SE @ Walden Pk SE',50.869042,-114.036827
@@ -259,8 +258,11 @@
 2368,'2368','Aero Dr @ 19 St NE',51.137628,-114.014243
 2369,'2369','Aero Dr @ Aero Way E Leg',51.133946,-114.0363
 2370,'2370','Aero Dr @ Aero Cr W Leg',51.136386,-114.034274
+2371,'2371','Ctr St S @ 4 Ave SW',51.049496,-114.062855
 2372,'2372','Douglasdale Blvd @ Douglasview Blvd SE',50.94087,-113.991583
 2373,'2373','Country Vlg Rd @ Harvest Hls Blvd NE',51.160255,-114.068717
+2374,'2374','52 St NE @ Country Hls Bv',51.155071,-113.958594
+2375,'2375','52 St NE @ Country Hls Bv',51.155075,-113.958181
 2376,'2376','Saddletowne LRT Sta SB',51.12457,-113.948814
 2377,'2377','6 Ave SW @ 9 St SW',51.048079,-114.083085
 2378,'2378','52 St NE @ Saddletree Dr',51.130383,-113.958164
@@ -532,6 +534,7 @@
 2893,'2893','80 Ave NE @ E. Of Metis Tr',51.12542,-113.967639
 2902,'2902','6 Ave @ 3 St SE',51.047092,-114.055189
 2903,'2903','6 Ave @ 5 St SE',51.046922,-114.050309
+2904,'2904','Front St @ Main Ent. South Health Campus SE',50.881417,-113.949477
 3368,'3368','Rockyview Hosp (SB)',50.987727,-114.096101
 3370,'3370','Rockyview Hosp (NB)',50.987773,-114.095972
 3371,'3371','Heritage Pk (SB)',50.980165,-114.095826
@@ -580,6 +583,7 @@
 3419,'3419','Mahogany Blvd @ Masters Sq SE',50.895464,-113.91205
 3420,'3420','Mahogany Blvd @ Masters Cr SE (S. Leg)',50.896125,-113.911758
 3421,'3421','Mahogany Blvd @ Masters Cr SE (N. Leg)',50.898817,-113.91038
+3423,'3423','Mahogany Blvd @ Masters RO SE',50.892895,-113.911639
 3434,'3434','Cranston Ave @ Cranston Rd SE',50.879951,-113.979481
 3435,'3435','Cranston Ave @ Cranbrook Hts SE',50.870198,-113.983258
 3436,'3436','Cranston Ave @ Cranbrook Ln SE',50.867861,-113.982463
@@ -2495,7 +2499,6 @@
 5744,'5744','Northmount Dr @ Chisholm Cr NW',51.08823,-114.11206
 5745,'5745','Charleswood Dr @ Brooklyn Cr NW',51.086096,-114.121433
 5746,'5746','Campus Dr NW @ Earth Sciences',51.080865,-114.130726
-5747,'5747','6 Ave SW @ 9 St SW',51.0481,-114.083279
 5749,'5749','Unwin Rd @ Usher Rd NW',51.072099,-114.126857
 5750,'5750','Crowchild Trl @ 24 St SW',51.035475,-114.117497
 5751,'5751','Coventry Hls Blvd @ Country Vlg Lndg NE',51.157017,-114.052753
@@ -2831,7 +2834,6 @@
 6120,'6120','Heritage Dr @ Flint Rd SE',50.979666,-114.068878
 6121,'6121','Heritage LRT Sta',50.979346,-114.074598
 6122,'6122','Heritage Dr @ Bonaventure Dr SE',50.97948,-114.067223
-6125,'6125','Acadia Dr @ 94 Ave SE',50.968179,-114.048519
 6126,'6126','Southland Dr @ Acadia Dr SE',50.964152,-114.049002
 6127,'6127','Lk Bonavista Dr @ Lk Twintree Dr SE',50.936896,-114.035126
 6128,'6128','Southland Dr @ Macleod Trl S',50.965182,-114.072397
@@ -3387,6 +3389,7 @@
 6785,'6785','Patina Dr @ Patina Pl SW',51.060681,-114.168358
 6786,'6786','Patina Dr @ Vlg Hts SW',51.056797,-114.169523
 6787,'6787','Front St @ Main Ent. South Health Campus SE',50.881146,-113.950805
+6788,'6788','Seton Way @ Front St SE',50.881033,-113.956424
 6789,'6789','Strathcona Blvd @ Strathcona Dr SW',51.047447,-114.185347
 6790,'6790','17 Ave SW @ Costello Blvd',51.037449,-114.170974
 6791,'6791','Arbour Lk Dr @ Aarbour Lk Way NW',51.136126,-114.200342
@@ -4788,6 +4791,7 @@
 8422,'8422','Signal Hl Ctr @ Sierra Morena Blvd SW',51.017955,-114.175369
 8424,'8424','Stewart Grn @ Signal Hl Ctr SW',51.017946,-114.171648
 8425,'8425','Royal Oak Way @ Royal Birch Blvd NW',51.150127,-114.217314
+8426,'8426','6 Ave SW @ 9 St SW Farside',51.048114,-114.084563
 8427,'8427','Tuscany Way @ Tuscany Hls Way NW',51.119197,-114.24191
 8428,'8428','McKenzie Lk Blvd @ Mt Sparrowhawk Lndg SE',50.90564,-113.989555
 8429,'8429','Tuscany Spgs Blvd @ Tuscarora Close NW',51.127142,-114.238206
@@ -5962,7 +5966,6 @@
 9757,'9757','Hidden Vly Dr @ Hidden Spg Cir NW',51.151728,-114.111735
 9758,'9758','Hidden Vly Dr @ Hidden Rdg Vw NW',51.151045,-114.116051
 9759,'9759','Hidden Vly Dr @ E. Leg Hidden Rnch Cr NW',51.150938,-114.121604
-9760,'9760','Hidden Vly Dr @ W. Leg Hidden Rnch Cr NW',51.150922,-114.121475
 9761,'9761','Hidden Vly Dr @ Hidden Hls Ter NW',51.149604,-114.130423
 9762,'9762','Northland Dr NW @ N. Of 52 Ave NW',51.101579,-114.141357
 9763,'9763','Panamount Blvd @ Hidden Crk Way NW',51.159073,-114.09286

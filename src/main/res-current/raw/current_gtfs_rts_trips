@@ -2,8 +2,8 @@
 100,0,'Forest Lawn',1
 201,0,'Killarney 17 Ave',2
 200,0,'Mt Pleasant',2
-301,0,'Heritage Sta',3
-300,0,'Sandstone',3
+300,0,'Ctr St',3
+301,0,'Elbow Dr',3
 404,0,'City Ctr',4
 403,0,'Huntington',4
 504,0,'City Ctr',5
@@ -210,6 +210,7 @@
 15101,0,'New Brighton',151
 15200,0,'New Brighton',152
 15300,0,'Copperfield',153
+15301,0,'Somerset-Bridlewood Sta',153
 15400,0,'Hamptons',154
 15500,0,'Forest Lawn',155
 15501,0,'West Dover',155
