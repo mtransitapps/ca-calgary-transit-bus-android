@@ -60,7 +60,7 @@
 3800,0,'Temple',38
 4001,0,'Crowfoot',40
 4000,0,'North Hl',40
-4100,0,'Chinook',41
+4100,0,'Lynnwood',41
 4200,0,'Marlborough',42
 4301,0,'Chinook',43
 4300,0,'Mcknight',43
@@ -275,5 +275,4 @@
 45401,0,'Springbank Hl',454
 46801,0,'Cranston',468
 46800,0,'Mahogany',468
-50200,0,'Heritage Pk',502
 55500,0,'Dashmesh Ctr',555
