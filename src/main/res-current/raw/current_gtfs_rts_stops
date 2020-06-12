@@ -29,7 +29,7 @@
 2069,'2069','Nolan Hl Bv @ Nolancrest Ga NW',51.174153,-114.171418
 2070,'2070','Nolan Hl Bv @ Nolan Hl Ave NW',51.176296,-114.17147
 2073,'2073','Shaganappi Tr @ Symons Vly PY NW',51.168325,-114.151514
-2076,'2076','Symons Vly Py @ Kincora Ga NW',51.167872,-114.145687
+2076,'2076','Symons Vly Py (128 Av NW) @ Kincora Ga NW',51.167872,-114.145687
 2078,'2078','Shaganappi Trl @ 128 Ave NW',51.167271,-114.151729
 2079,'2079','Sherwood Bv @ Sherwood Ga NW',51.162996,-114.150612
 2080,'2080','Sherwood Ga @ Sherwood Sq NW',51.16297,-114.14598
@@ -100,8 +100,8 @@
 2193,'2193','Shaganappi Trl @ Sage Vly Blvd NW',51.175259,-114.15722
 2194,'2194','Sage Hl Blvd @ Shaganappi Trl NW',51.17017,-114.150749
 2195,'2195','Sage Hl Blvd @ Sage Hl PS NW',51.170497,-114.14589
-2196,'2196','Symons Vly Py @ Kincora Ga NW',51.16819,-114.147955
-2197,'2197','Symons Vly PY @ Shaganappi Trl',51.167864,-114.15046
+2196,'2196','Symons Vly Py (128 Av NW) @ Kincora Ga NW',51.16819,-114.147955
+2197,'2197','Symons Vly PY (128 Av NW) @ Shaganappi Trl',51.167864,-114.15046
 2198,'2198','Sage Hl Dr @ Sage Hl Gdns NW',51.171051,-114.13744
 2201,'2201','Walden Dr SE @ Acr. Walden Ter SE',50.87408,-114.036571
 2202,'2202','Walden Dr SE @ Walden Cr SE (N.Leg)',50.872983,-114.03818
@@ -540,8 +540,8 @@
 3440,'3440','Cranston Ave @ Cranarch Cr SE',50.86674,-113.97059
 3441,'3441','@ Rocky Rdg Recreation Ctr',51.157697,-114.23221
 3442,'3442','112 Ave NW @ Rocky Rdg Recreation Ctr',51.154042,-114.228193
-3443,'3443','Symons Vly PY@ Sherwood Dr NW',51.167876,-114.159637
-3444,'3444','Symons Vly PY@ Nolan Hl Rise NW',51.167872,-114.155213
+3443,'3443','Symons Vly PY (128 Av NW) @ Sherwood Dr NW',51.167876,-114.159637
+3444,'3444','Symons Vly PY (128 Av NW) @ Nolan Hl Rise NW',51.167872,-114.155213
 3445,'3445','Symons Vly PY @ Evanston Vw (West Leg) NW',51.16798,-114.120127
 3446,'3446','Evanston Way @ Symons Vly PY (South Leg) NW',51.173249,-114.107511
 3447,'3447','Evanston Way @ Evansdale Way NW',51.173727,-114.10512
@@ -554,8 +554,8 @@
 3454,'3454','Symons Vly PY @ Evanston Vw (East Leg) NW',51.168357,-114.114604
 3455,'3455','Symons Vly PY @ Evanston Vw (West Leg) NW',51.168238,-114.12218
 3456,'3456','Symons Vly Rd @ Symons Vly PY NW',51.168501,-114.132064
-3457,'3457','Symons Vly PY @ Shaganappi Trl NW',51.168137,-114.152325
-3458,'3458','Symons Vly PY @ Nolan Hl Rise NW',51.168226,-114.157051
+3457,'3457','Symons Vly PY (128 Av NW) @ Shaganappi Trl NW',51.168137,-114.152325
+3458,'3458','Symons Vly PY (128 Av NW) @ Nolan Hl Rise NW',51.168226,-114.157051
 3459,'3459','112 Ave NW @ Sherwood Dr NW',51.160285,-114.160466
 3460,'3460','14 St NW @ Symons Vly PY NW',51.181766,-114.094398
 3461,'3461','Harvest Hls Blvd @ Panatella Gt NW',51.166578,-114.068951
