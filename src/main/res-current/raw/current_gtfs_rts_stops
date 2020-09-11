@@ -58,10 +58,10 @@
 2091,'2091','YYC Airport International Terminal',51.130857,-114.006519
 2092,'2092','Shaganappi Tr @ Nolan Hl Bv NW',51.173174,-114.154754
 2093,'2093','Shaganappi Tr @ Sage Vly Bv NW',51.175599,-114.156727
-2094,'2094','Sherwood Dr @ Symons Vly PY NW',51.167274,-114.160809
-2095,'2095','Sherwood Dr @ Sherwood Blvd (North Leg) NW',51.164761,-114.160328
-2096,'2096','Sherwood Dr @ Sherwood Bv (South Leg) NW',51.163272,-114.159425
-2097,'2097','Sherwood Dr @ Sherwood Bv (North Leg) NW',51.165861,-114.160298
+2094,'2094','Sherview Dr @ Symons Vly PY NW',51.167274,-114.160809
+2095,'2095','Sherview Dr @ Sherwood Blvd (North Leg) NW',51.164761,-114.160328
+2096,'2096','Sherview Dr @ Sherwood Bv (South Leg) NW',51.163272,-114.159425
+2097,'2097','Sherview Dr @ Sherwood Bv (North Leg) NW',51.165861,-114.160298
 2098,'2098','Sherwood Dr @ Symons Vly Py NW',51.168894,-114.160413
 2099,'2099','Shaganappi Trl @ Nolan Hl Gt NW',51.179286,-114.15997
 2112,'2112','Auburn Bay Dr @ S.Leg Auburn Gln Hts SE',50.894138,-113.95618
@@ -3793,7 +3793,7 @@
 7249,'7249','Arbour Rdg Way @ Arbour Rdg Pk NW',51.140916,-114.186711
 7250,'7250','Manning Rd @ Ctr Ave NE',51.052647,-114.017245
 7251,'7251','6 St SE @ 8 Ave SE',51.045511,-114.048254
-7252,'7252','Sherwood Dr @ Sherwood Blvd (South Leg) NW',51.162121,-114.159897
+7252,'7252','Sherview Dr @ Sherwood Blvd (South Leg) NW',51.162121,-114.159897
 7253,'7253','Bannister Rd @ 149 Ave SE',50.918679,-114.068517
 7254,'7254','Bannister Rd @ 151 Ave SE',50.916886,-114.067647
 7255,'7255','Bannister Rd @ 153 Ave SE',50.914882,-114.066308
