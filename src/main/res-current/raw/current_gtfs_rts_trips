@@ -130,8 +130,6 @@
 9201,0,'McKenzie Towne',92
 9301,0,'Coach Hl',93
 9300,0,'Westbrook Sta',93
-9400,0,'Strathcona',94
-9401,0,'Westhills',94
 9501,0,'Palliser',95
 9600,0,'Anderson Sta',96
 9601,0,'McKenzie',96
@@ -222,7 +220,6 @@
 15901,0,'Saddlebrook',159
 16101,0,'North Pte Terminal',161
 16100,0,'Stoney Industrial',161
-16401,0,'Aspen Woods',164
 16701,0,'Walden / Legacy',167
 16800,0,'Walden / Legacy',168
 16900,0,'Rocky Rdg',169
@@ -261,8 +258,6 @@
 42201,0,'Montgomery',422
 43000,0,'North Pte Terminal',430
 43001,0,'Sandstone Terminal',430
-43900,0,'69 St Sta',439
-43901,0,'Discovery Rdg',439
 44000,0,'East Hls / Chateau Ests',440
 44001,0,'Franklin Sta',440
 44401,0,'Chaparral Vly / Walden',444
@@ -271,8 +266,6 @@
 44901,0,'Parkhill',449
 45301,0,'69 St Sta',453
 45300,0,'West Spgs',453
-45400,0,'69 St Sta',454
-45401,0,'Springbank Hl',454
 46801,0,'Cranston',468
 46800,0,'Mahogany',468
 50200,0,'Heritage Pk',502
@@ -399,7 +392,6 @@
 78201,0,'H D Cartwright Nolan Hl ',782
 78300,0,'Dr Gordon Higgins / Temple',783
 78301,0,'Dr Gordon Higgins / Temple ',783
-78400,0,'Capt Nichola Goddard / Panorama',784
 78600,0,'John Ware / Woodbine',786
 78601,0,'John Ware / Woodbine ',786
 79100,0,'Queen Elizabeth Macewan',791
