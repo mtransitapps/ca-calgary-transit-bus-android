@@ -5,13 +5,13 @@
 300,0,'Ctr St N',3
 301,0,'Elbow Dr',3
 400,0,'Huntington',4
-501,0,'North Haven',5
+501,0,'N Haven',5
 600,0,'City Ctr',6
 601,0,'Westhills',6
 700,0,'City Ctr',7
 701,0,'Marda Loop',7
 801,0,'Foothills Medical Ctr',8
-800,0,'North Pte Term',8
+800,0,'N Pte Term',8
 901,0,'Chinook Sta',9
 900,0,'Dalhousie Sta',9
 1000,0,'City Hall',10
@@ -57,7 +57,7 @@
 3801,0,'Brentwood Sta',38
 3800,0,'Temple',38
 4001,0,'Crowfoot Sta',40
-4000,0,'North Hl',40
+4000,0,'N Hl',40
 4100,0,'Lynnwood',41
 4200,0,'Marlborough',42
 4301,0,'Chinook Sta',43
@@ -85,8 +85,8 @@
 6201,0,'City Ctr',62
 6200,0,'Hidden Vly',62
 6401,0,'City Ctr',64
-6400,0,'Macewan',64
-6501,0,'Downtown West',65
+6400,0,'MacEwan',64
+6501,0,'Downtown W',65
 6500,0,'Mkt Mall',65
 6600,0,'City Ctr',66
 6601,0,'Lakeview',66
@@ -106,8 +106,8 @@
 7700,0,'Edgemont',77
 7801,0,'Chaparral',78
 7800,0,'Sundance',78
-8100,0,'Macleod Tr SE - North',81
-8101,0,'Macleod Tr SE - South',81
+8100,0,'MacLeod Tr SE - N',81
+8101,0,'MacLeod Tr SE - S',81
 8201,0,'Brentwood Sta',82
 8200,0,'Nolan Hl',82
 8300,0,'Parkland',83
@@ -121,7 +121,7 @@
 8900,0,'Beddington',89
 8901,0,'Lions Pk Sta',89
 9000,0,'Bridgeland',90
-9001,0,'University Of Calgary',90
+9001,0,'U Of Calgary',90
 9101,0,'Foothills Medical Ctr',91
 9100,0,'Lions Pk Sta',91
 9200,0,'Anderson Sta',92
@@ -132,13 +132,13 @@
 9600,0,'Anderson Sta',96
 9601,0,'McKenzie',96
 9701,0,'Crowfoot Sta / Scenic Acres',97
-9700,0,'South Ranchlands',97
+9700,0,'S Ranchlands',97
 9801,0,'69 St Sta',98
 9800,0,'Cougar Rdg',98
 9900,0,'Acadia',99
 9901,0,'Oakridge',99
 10000,0,'Airport / McKnight-Westwinds Sta',100
-10001,0,'Airport / North Pte Term',100
+10001,0,'Airport / N Pte Term',100
 10101,0,'City Ctr',101
 10100,0,'Inglewood',101
 10200,0,'City Ctr',102
@@ -146,17 +146,17 @@
 10300,0,'City Ctr',103
 10301,0,'McKenzie',103
 10400,0,'Sunnyside',104
-10401,0,'University Of Calgary',104
+10401,0,'U Of Calgary',104
 10500,0,'Dalhousie Sta',105
 10501,0,'Lions Pk Sta',105
 10600,0,'Deerfoot Mdws',106
 10901,0,'City Ctr',109
 10900,0,'Harvest Hls',109
 11000,0,'City Ctr',110
-11101,0,'West Spgs',111
+11101,0,'W Spgs',111
 11100,0,'Westbrook Sta',111
 11301,0,'Crowfoot Sta / Scenic Acres',113
-11300,0,'North Ranchlands',113
+11300,0,'N Ranchlands',113
 11400,0,'Panorama / Country Hls',114
 11500,0,'Evanston',115
 11501,0,'Tuscany',115
@@ -169,10 +169,10 @@
 11900,0,'Saddletowne Sta',119
 12001,0,'Crowfoot LRT Sta',120
 12000,0,'Dalhousie LRT Sta',120
-12300,0,'North Pte Term',123
+12300,0,'N Pte Term',123
 12301,0,'Sage Hl',123
 12401,0,'Evanston',124
-12400,0,'North Pte Term',124
+12400,0,'N Pte Term',124
 12501,0,'Cedarbrae',125
 12600,0,'Braeside',126
 12701,0,'Franklin Ind',127
@@ -209,14 +209,14 @@
 15301,0,'Somerset-Bridlewood Sta',153
 15400,0,'Hamptons',154
 15500,0,'Forest Lawn',155
-15501,0,'West Dover',155
+15501,0,'W Dover',155
 15600,0,'69 St Sta',156
 15601,0,'Aspen Woods',156
 15700,0,'Saddletowne Sta',157
 15701,0,'Stoney Ind',157
 15800,0,'Royal Oak',158
 15901,0,'Saddlebrook',159
-16101,0,'North Pte Term',161
+16101,0,'N Pte Term',161
 16100,0,'Stoney Ind',161
 16701,0,'Walden / Legacy',167
 16800,0,'Walden / Legacy',168
@@ -227,10 +227,10 @@
 29900,0,'Arbour Lk',299
 30000,0,'Airport',300
 30001,0,'City Ctr',300
-30100,0,'301 North',301
+30100,0,'301 N',301
 30101,0,'City Ctr',301
 30200,0,'City Ctr',302
-30201,0,'South Health Campus',302
+30201,0,'S Health Campus',302
 30301,0,'Brentwood',303
 30300,0,'Saddletowne',303
 30400,0,'City Ctr',304
@@ -240,10 +240,10 @@
 30601,0,'Douglas Gln',306
 30600,0,'Westbrook',306
 30701,0,'City Ctr',307
-30700,0,'East Hls',307
+30700,0,'E Hls',307
 40200,0,'Silverado',402
 40400,0,'Mt Pleasant',404
-40401,0,'West Hillhurst',404
+40401,0,'W Hillhurst',404
 40600,0,'McKenzie Towne',406
 40601,0,'Somerset-Bridlewood Sta',406
 40800,0,'Brentwood Sta',408
@@ -253,16 +253,16 @@
 42100,0,'Panatella',421
 42200,0,'Dalhousie',422
 42201,0,'Montgomery',422
-43000,0,'North Pte Term',430
+43000,0,'N Pte Term',430
 43001,0,'Sandstone Term',430
-44000,0,'East Hls / Chateau Ests',440
+44000,0,'E Hls / Chateau Ests',440
 44001,0,'Franklin Sta',440
 44401,0,'Chaparral Vly / Walden',444
 44400,0,'Somerset Bridlewood Sta',444
 44900,0,'Eau Claire',449
 44901,0,'Parkhill',449
 45301,0,'69 St Sta',453
-45300,0,'West Spgs',453
+45300,0,'W Spgs',453
 46801,0,'Cranston',468
 46800,0,'Mahogany',468
 55500,0,'Dashmesh Ctr',555
@@ -488,7 +488,7 @@
 87801,0,'F Whelihan Chaparral',878
 88000,0,'AM',880
 88001,0,'PM',880
-88200,0,'PM',882
+88200,0,'Nolan Hl Blvd @ Nolan Hl Dr Farside',882
 88701,0,'AM',887
 88700,0,'PM',887
 89200,0,'AM',892
