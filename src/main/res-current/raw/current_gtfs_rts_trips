@@ -82,10 +82,6 @@
 5900,0,'Savanna',59
 6000,0,'Taradale',60
 6101,0,'Martindale',61
-6201,0,'City Ctr',62
-6200,0,'Hidden Vly',62
-6401,0,'City Ctr',64
-6400,0,'MacEwan',64
 6501,0,'Downtown W',65
 6500,0,'Mkt Mall',65
 6600,0,'City Ctr',66
@@ -96,8 +92,6 @@
 6800,0,'Saddletowne LRT Sta',68
 6900,0,'AM',69
 6901,0,'PM',69
-7000,0,'City Ctr',70
-7001,0,'Vly Rdg',70
 7101,0,'McKnight-Westwinds LRT Sta',71
 7100,0,'Saddletowne LRT Sta',71
 7401,0,'Tuscany',74
@@ -141,18 +135,11 @@
 10001,0,'Airport / N Pte Term',100
 10101,0,'City Ctr',101
 10100,0,'Inglewood',101
-10200,0,'City Ctr',102
-10201,0,'Douglasdale',102
-10300,0,'City Ctr',103
-10301,0,'McKenzie',103
 10400,0,'Sunnyside',104
 10401,0,'U Of Calgary',104
 10500,0,'Dalhousie Sta',105
 10501,0,'Lions Pk Sta',105
 10600,0,'Deerfoot Mdws',106
-10901,0,'City Ctr',109
-10900,0,'Harvest Hls',109
-11000,0,'City Ctr',110
 11101,0,'W Spgs',111
 11100,0,'Westbrook Sta',111
 11301,0,'Crowfoot Sta / Scenic Acres',113
@@ -160,10 +147,6 @@
 11400,0,'Panorama / Country Hls',114
 11500,0,'Evanston',115
 11501,0,'Tuscany',115
-11601,0,'City Ctr',116
-11600,0,'Coventry Hls',116
-11700,0,'City Ctr',117
-11701,0,'McKenzie Towne',117
 11800,0,'Hidden Vly',118
 11901,0,'Freeport',119
 11900,0,'Saddletowne Sta',119
@@ -181,16 +164,12 @@
 12801,0,'Saddletowne Sta',128
 12901,0,'Dalhousie Sta',129
 12900,0,'Sage Hl',129
-13300,0,'City Ctr',133
-13301,0,'Cranston',133
 13401,0,'Crowfoot LRT Sta',134
 13400,0,'Dalhousie LRT Sta',134
 13501,0,'36 St SE / Erin Woods',135
 13500,0,'Marlborough Sta',135
 13801,0,'Crowfoot Sta',138
 13800,0,'Tuscany Sta',138
-14201,0,'City Ctr',142
-14200,0,'Panorama',142
 14501,0,'Saddletowne Sta',145
 14500,0,'Skyview Rnch / Redstone',145
 14601,0,'Beddington',146
@@ -202,8 +181,6 @@
 14900,0,'Pt Trotter Ind',149
 15000,0,'114 Ave',150
 15001,0,'Anderson Sta',150
-15100,0,'City Ctr',151
-15101,0,'New Brighton',151
 15200,0,'New Brighton',152
 15300,0,'Copperfield',153
 15301,0,'Somerset-Bridlewood Sta',153
@@ -235,8 +212,6 @@
 30300,0,'Saddletowne',303
 30400,0,'City Ctr',304
 30401,0,'Woodpark',304
-30501,0,'Bowness',305
-30500,0,'City Ctr',305
 30601,0,'Douglas Gln',306
 30600,0,'Westbrook',306
 30701,0,'City Ctr',307
@@ -488,7 +463,7 @@
 87801,0,'F Whelihan Chaparral',878
 88000,0,'AM',880
 88001,0,'PM',880
-88200,0,'Nolan Hl Blvd @ Nolan Hl Dr Farside',882
+88200,0,'B Marie-Rose / Nolan Hl',882
 88701,0,'AM',887
 88700,0,'PM',887
 89200,0,'AM',892
