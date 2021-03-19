@@ -317,6 +317,7 @@
 2443,'2443','WB 13 Ave SW @ Aspen Summit Cir',51.04706,-114.204363
 2448,'2448','EB Hidden Vly Dr @ Hidden Spgs Gr',51.151564,-114.111053
 2449,'2449','Aspen Stone Blvd @ Aspenmont Ht SW Nearside',51.0405,-114.214812
+2451,'2451','Whitehorn Stn Pkng',51.087019,-113.983003
 2455,'2455','EB Seton Dr @ Main St SE',50.876724,-113.950622
 2456,'2456','WB Seton Dr @ Main St SE',50.877006,-113.950714
 2457,'2457','WB Seton Dr @ 45 St SE',50.87723,-113.946207
@@ -2891,6 +2892,7 @@
 6250,'6250','NB Edgemont Blvd @ Edgemont Dr NW',51.117374,-114.153515
 6251,'6251','WB Edgedale Dr @ Edgemont Blvd NW',51.118681,-114.156965
 6252,'6252','NB Edgedale Dr @ Edgeland Rd NW',51.126385,-114.155305
+6253,'6253','Whitehorn LRT Sta',51.086994,-113.982669
 6254,'6254','WB Castleridge Blvd @ Westwinds Dr NE',51.10135,-113.963847
 6255,'6255','SB Castleridge Dr @ Castleridge Blvd NE',51.108043,-113.966083
 6256,'6256','EB Castleridge Dr @ Castlepark Rd NE',51.108072,-113.952678
@@ -2926,6 +2928,7 @@
 6287,'6287','EB Woodview Dr @ Woodfield Dr SW',50.94112,-114.121191
 6288,'6288','NB Woodpark Blvd @ Woodview Dr SW',50.941946,-114.108753
 6289,'6289','EB Anderson Rd @ Elbow Dr SW',50.95024,-114.084202
+6290,'6290','Whitehorn LRT Sta',51.086933,-113.982393
 6291,'6291','WB 37 Ave NE @ 32 St NE',51.086719,-113.989502
 6292,'6292','NB 23 St NE @ 37 Ave NE',51.087135,-114.005
 6293,'6293','NB McCall Way @ Pegasus Rd NE',51.094496,-114.011409
@@ -3180,7 +3183,6 @@
 6588,'6588','NB Evergreen St @ 200 Shawnee Gdns SW',50.9285,-114.0947
 6589,'6589','EB Shawnee Dr @ Shawnee Cr SW',50.92659,-114.083404
 6590,'6590','EB Shawnessy Dr @ Shannon Dr SW',50.911272,-114.081261
-6592,'6592','Whitehorn LRT Sta (SB 36 St NE @ 37 Ave NE)',51.086573,-113.982099
 6593,'6593','WB Shawnessy Blvd @ Millrise Blvd SW',50.91308,-114.074788
 6594,'6594','SB 4 St NW @ S Of Highland Pl',51.094105,-114.071642
 6596,'6596','Douglasbank Way Term SE',50.948543,-114.013675
