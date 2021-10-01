@@ -3696,7 +3696,7 @@
 7152,'7152','NB Scenic Acres Dr @ Scandia Bay NW',51.114249,-114.22097
 7153,'7153','WB Scenic Acres Blvd @ Scurfield Dr NW',51.119627,-114.211887
 7154,'7154','WB Scenic Acres Blvd @ Scurfield Way NW',51.119313,-114.215336
-7155,'7155','SB Scenic Acres Blvd @ Scenic Hl Close NW',51.117278,-114.218988
+7155,'7155','WB Scenic Acres Blvd @ Scenic Hl Close NW',51.117278,-114.218988
 7156,'7156','WB Scurfield Dr @ Scanlon Pl NW',51.124109,-114.219192
 7157,'7157','WB Scurfield Dr @ Scotia Pt NW',51.12255,-114.216013
 7158,'7158','WB Scurfield Dr @ Scanlon Grn NW',51.124624,-114.223435
@@ -4331,7 +4331,7 @@
 7872,'7872','WB 162 Ave SW @ E Of Shawbrooke Rd',50.905196,-114.094046
 7873,'7873','EB 162 Ave SW @ Somerside Pk',50.904833,-114.094268
 7874,'7874','WB Hawkwood Rd @ Hawkwood Way NW',51.12998,-114.191036
-7876,'7876','NB Bowness Rd @ 45 St NW',51.071756,-114.159201
+7876,'7876','NB Bowness Rd @ 45 St NW',51.071306,-114.158639
 7877,'7877','NB Bowness Rd @ 46 St NW',51.072983,-114.160825
 7879,'7879','NB 28 St NE @ 10 Ave NE',51.060773,-113.993185
 7881,'7881','Martindale Blvd Sta (NB)',51.114533,-113.946587
@@ -4854,7 +4854,7 @@
 8513,'8513','SB 6 St SW @ Somerset Gt',50.899494,-114.075
 8515,'8515','NB 6 St SW @ Shawville Gt',50.898347,-114.072682
 8516,'8516','WB 162 Ave SW @ James McKevitt Rd',50.905461,-114.100005
-8517,'8517','WB Dalton Dr (W) @ S Of Dalhousie Dr NW',51.103787,-114.155508
+8517,'8517','WB Dalton Dr (W) @ S Of Dalhousie Dr NW',51.102222,-114.155675
 8518,'8518','EB Bridlewood Rd @ Bridlewood St SW',50.902086,-114.103899
 8519,'8519','SB Bridlewood Rd @ Bridlewood Dr SW',50.901961,-114.099952
 8520,'8520','SB Bridlewood Dr @ Bridlewood Pl SW',50.899132,-114.099431
@@ -5097,7 +5097,7 @@
 8797,'8797','WB 106 Ave SE @ 46 St SE',50.958058,-113.969162
 8799,'8799','WB Bowness Rd @ Home Rd NW',51.075387,-114.164633
 8800,'8800','EB Bowness Rd @ 70 St NW',51.08891,-114.190099
-8802,'8802','NB Bowness Rd @ 51 St NW',51.076527,-114.169332
+8802,'8802','NB Bowness Rd @ 51 St NW',51.077586,-114.170943
 8803,'8803','EB Northmount Dr @ Clarendon Rd NW',51.085216,-114.101123
 8804,'8804','NB Bowness Rd @ Bowwater Cr NW',51.081135,-114.173177
 8805,'8805','EB 48 Ave NW @ 88 St NW',51.095819,-114.21532
