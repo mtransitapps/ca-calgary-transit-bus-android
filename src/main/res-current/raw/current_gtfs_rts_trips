@@ -175,8 +175,8 @@
 12801,0,'Saddletowne Sta',128
 12901,0,'Dalhousie Sta',129
 12900,0,'Sage Hl',129
-13101,0,'Auburn Bay',131
-13100,0,'City Ctr',131
+13100,0,'AM',131
+13101,0,'PM',131
 13401,0,'Crowfoot LRT Sta',134
 13400,0,'Dalhousie LRT Sta',134
 13501,0,'36 St SE / Erin Woods',135
@@ -256,7 +256,6 @@
 45300,0,'W Spgs',453
 46801,0,'Cranston',468
 46800,0,'Mahogany',468
-50200,0,'Heritage Pk',502
 55500,0,'Dashmesh Ctr',555
 69701,0,'AM',697
 69700,0,'PM',697
