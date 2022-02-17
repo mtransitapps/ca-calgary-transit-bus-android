@@ -446,7 +446,6 @@
 2619,'2619','SB Chelsea Dr @ S Of Merganser Dr W',51.035537,-113.858921
 2620,'2620','EB W Lakeview Dr @ E Of Chelsea Dr',51.03235,-113.855377
 2621,'2621','EB W Lakeview Dr @ W Of Rainbow Rd',51.03208,-113.844957
-2622,'2622','EB Rainbow Falls Dr @ W Crk Dr',51.028212,-113.84059
 2623,'2623','EB W Crk Blvd @ E Of Lavender Way',51.028634,-113.835232
 2624,'2624','NB W Crk Blvd @ W Crk Close',51.035152,-113.83405
 2625,'2625','EB Merganser Dr W @ W Crk Blvd',51.037715,-113.834129
@@ -1133,9 +1132,7 @@
 4086,'4086','NB Saddlebrook Dr @ Saddlelake Way NE',51.131626,-113.929338
 4088,'4088','WB Martindale Blvd @ Martha''s Way NE',51.122678,-113.961593
 4089,'4089','SB Martindale Dr @ Martindale Blvd NE',51.120944,-113.954275
-4090,'4090','NB Crestmont Blvd @ W Vly Rd SW',51.087582,-114.248805
 4091,'4091','EB Martindale Blvd @ Martha''s Close NE',51.122182,-113.962926
-4092,'4092','SB Vly Rdg Blvd @ Trans Canada Hwy NW',51.087864,-114.24896
 4093,'4093','EB Panamount Blvd @ Panamount Dr NW',51.159794,-114.07306
 4094,'4094','WB Panamount Blvd @ Panamount Hl NW',51.159333,-114.076222
 4095,'4095','EB Panamount Blvd @ Panorama Hls Blvd NW',51.15797,-114.079612
@@ -3219,8 +3216,6 @@
 6537,'6537','EB 5 Ave SW @ 1 St SW',51.048333,-114.064585
 6538,'6538','NB MacEwan Dr @ S Of MacEwan Pk Close NW',51.137482,-114.116306
 6539,'6539','WB 46 Ave SW @ 37 St SW',51.012534,-114.14182
-6540,'6540','SB 43 St SW @ N Leg Gordon Dr',51.011282,-114.149112
-6541,'6541','WB 49 Ave SW @ 45 St SW',51.009474,-114.152445
 6542,'6542','WB 46 Ave SW @ 45 St SW',51.01253,-114.153442
 6543,'6543','SB Sarcee Rd @ 32 Ave SW',51.024794,-114.129742
 6544,'6544','SB Sarcee Rd @ 44 Ave SW',51.0154,-114.137295
@@ -4434,7 +4429,6 @@
 7949,'7949','SB Douglas Gln Blvd @ Douglas Gln Grv SE',50.95347,-114.010274
 7950,'7950','SB 37 St SW @ 41 Ave SW',51.01745,-114.141318
 7951,'7951','SB Douglas Gln Blvd @ Douglas Gln Close SE',50.954499,-114.010408
-7952,'7952','WB Galbraith Dr @ 43 St SW',51.009089,-114.14956
 7953,'7953','SB Douglas Gln Blvd @ Douglas Gln Hts SE',50.955747,-114.011025
 7954,'7954','EB @ Holy Cross Care Ctr SW',50.991594,-114.097016
 7955,'7955','EB Richmond Rd @ Kerrydale Rd SW',51.023447,-114.137541

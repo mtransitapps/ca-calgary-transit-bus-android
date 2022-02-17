@@ -8,8 +8,8 @@
 501,0,'N Haven',5
 600,0,'City Ctr',6
 601,0,'Westhills',6
-700,0,'City Ctr',7
-701,0,'Marda Loop',7
+700,0,'5 Ave @ 1 St',7
+701,0,'54 Ave @ Crowchild Trl',7
 801,0,'Foothills Medical Ctr',8
 800,0,'N Pte Term',8
 901,0,'Chinook Sta',9
@@ -28,8 +28,8 @@
 1700,0,'Renfrew',17
 1901,0,'Lions Pk LRT Sta',19
 1900,0,'Rundle LRT Sta',19
+2000,0,'78 Ave N Term',20
 2001,0,'Heritage Sta',20
-2000,0,'Northmount Dr N',20
 2101,0,'Castleridge',21
 2200,0,'City Ctr',22
 2201,0,'Richmond Rd',22
@@ -377,8 +377,8 @@
 78200,0,'PM',782
 78301,0,'AM',783
 78300,0,'PM',783
-78601,0,'Aberhart Scenic Acres S',786
-78600,0,'Aberhart Scenic Acres S / John Ware / Woodbine',786
+78600,0,'AM',786
+78601,0,'PM',786
 78900,0,'AM',789
 78901,0,'PM',789
 79101,0,'AM',791
