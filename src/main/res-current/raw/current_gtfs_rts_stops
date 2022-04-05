@@ -273,7 +273,7 @@
 2378,'2378','NB 52 St NE @ Saddletree Dr',51.130383,-113.958164
 2379,'2379','NB 52 St NE @ 88 Ave NE',51.133109,-113.958209
 2380,'2380','EB Savanna Blvd @ Savanna Common NE',51.134915,-113.955108
-2381,'2381','EB Savanna Blvd @ 5avanna St NE',51.135002,-113.952804
+2381,'2381','EB Savanna Blvd @ Savanna St NE',51.135002,-113.952804
 2382,'2382','SB Savanna St @ Savanna Blvd NE',51.134091,-113.952531
 2383,'2383','SB Saddlridge Dr @ 88 Ave NE',51.131978,-113.952523
 2384,'2384','NB 14 St NE @ 115 Ave NE',51.158123,-114.026351
@@ -715,9 +715,9 @@
 3493,'3493','WB Sage Hl Ga @ 37 St NW',51.170974,-114.142365
 3494,'3494','EB Sage Hl Gt @ W Of 37 St NW',51.170712,-114.142503
 3495,'3495','Alberta Children''s Hosp Sta (SB)',51.074386,-114.144969
-3496,'3496','WB Country Vlg Way @ Harvest Hls Blvd N',51.156761,-114.069188
-3497,'3497','WB Country Vlg Way @ Harvest Hls Blvd N',51.156824,-114.068671
-3498,'3498','WB Country Vlg Way @ Harvest Hls Blvd N',51.156853,-114.068435
+3496,'3496','N Pte Term E',51.156761,-114.069188
+3497,'3497','N Pte Term C',51.156824,-114.068671
+3498,'3498','N Pte Term B',51.156853,-114.068435
 3499,'3499','SB Country Vlg Link NE @ Country Vlg Wy NW',51.158539,-114.067911
 3501,'3501','EB Seton Blvd @ Auburn Bay Link SE',50.882858,-113.95434
 3502,'3502','SB 52 St SE @ Auburn Bay Dr',50.898899,-113.944393
@@ -1554,7 +1554,7 @@
 4590,'4590','SB Ctr St N @ N Of Beddington Blvd N',51.126378,-114.071629
 4591,'4591','SB Harvest Hls Blvd @ Country Hls Rd NW',51.143302,-114.06833
 4592,'4592','SB Harvest Hls Blvd @ Panamount Gt NW',51.155699,-114.069758
-4593,'4593','SB Country Vlg Link @ Country Vlg Way NE',51.157378,-114.067849
+4593,'4593','N Pte Term A',51.157378,-114.067849
 4594,'4594','NB 37 St SW @ 54 Ave SW',51.004559,-114.140885
 4595,'4595','NB 37 St SW @ 61 Ave SW',50.999046,-114.140897
 4596,'4596','NB 37 St SW @ Law Dr',50.996617,-114.140903
@@ -1677,7 +1677,7 @@
 4735,'4735','WB Sun Vly Blvd @ Midpark Blvd SW',50.906636,-114.056057
 4736,'4736','WB Country Vlg Way @ Country Vlg Cv NE',51.15591,-114.06132
 4737,'4737','NB Shawville Blvd @ Shawville Gt SE',50.89994,-114.063393
-4738,'4738','WB Country Vlg Way @ Harvest Hls Blvd NE',51.156785,-114.068931
+4738,'4738','N Pte Term D',51.156785,-114.068931
 4739,'4739','SB Somercrest St @ Somerside Grv SW',50.901562,-114.090446
 4740,'4740','SB Somercrest St @ 162 Ave SW',50.903458,-114.090001
 4741,'4741','NB Somercrest St @ Somerside Grv SW',50.902023,-114.09017
@@ -1892,7 +1892,7 @@
 4985,'4985','WB Martindale Blvd @ Martinview Rd NE',51.113174,-113.962074
 4986,'4986','WB Martindale Blvd @ Martinbrook Rd NE',51.114307,-113.959656
 4988,'4988','WB Saddlecrest Blvd @ Saddlecrest Way NE',51.137493,-113.940245
-4989,'4989','SB Everridge Dr @ 146 Ave SW',50.920741,-114.123502
+4989,'4989','SB Everridge Dr @ Fish Crk Blvd SW',50.920741,-114.123502
 4991,'4991','EB Old Banff Coach Rd @ 85 St SW',51.066946,-114.210269
 4992,'4992','SB 77 St SW @ Old Banff Coach Rd',51.066806,-114.199661
 4993,'4993','EB New Brighton Dr @ New Brighton Gdns SE',50.915812,-113.951048
