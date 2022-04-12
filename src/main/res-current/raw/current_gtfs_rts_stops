@@ -728,17 +728,11 @@
 3508,'3508','SB Ogden Rd @ 50 Ave SE',51.008223,-114.011446
 3509,'3509','NB Ogden Rd @ 50 Ave SE',51.006788,-114.011473
 3511,'3511','EB Copperpond Blvd @ McIvor Blvd SE',50.923031,-113.932345
-3512,'3512','WB Copperpond Blvd @ Copperpond Common SE',50.924105,-113.929988
 3513,'3513','EB Copperpond Blvd @ Copperpond Rd SE',50.924,-113.929833
-3514,'3514','WB Copperpond Blvd @ Copperpond Gt SE',50.924741,-113.924729
 3515,'3515','EB Copperpond Blvd @ Copperpond Gt SE',50.924599,-113.924015
-3516,'3516','NB Copperpond Blvd @ Copperpond Pk SE',50.921276,-113.920055
 3517,'3517','SB Copperpond Blvd @ Copperpond Pk SE',50.921174,-113.920175
-3518,'3518','NB Copperpond Blvd @ Copperpond St SE',50.917951,-113.918358
 3519,'3519','SB Copperpond Blvd @ Copperpond Ln SE',50.917969,-113.91857
-3520,'3520','NB Copperpond Blvd @ Copperstone St SE',50.916024,-113.917566
 3521,'3521','WB Copperstone Dr @ Copperpond Blvd SE',50.915766,-113.918148
-3522,'3522','NB Copperpond Blvd @ Copperpond Cv SE',50.922876,-113.920461
 3523,'3523','SB Copperpond Blvd @ Copperpond Cv SE',50.922607,-113.92067
 3524,'3524','NB McIvor Blvd @ Copperfield Blvd SE',50.919577,-113.931959
 3525,'3525','WB Quarry Pk Blvd @ Quarry Dr SE',50.959573,-114.010136
@@ -2873,7 +2867,6 @@
 6128,'6128','WB Southland Dr @ Macleod Trl S',50.965182,-114.072397
 6129,'6129','SB 19 St NW @ Canmore Rd',51.076649,-114.106399
 6130,'6130','WB 6 Ave NW @ 15 St NW',51.057686,-114.095659
-6131,'6131','WB 69 Ave SE @ 20A St SE',50.991012,-114.010854
 6132,'6132','SB 18 St SE @ 76 Ave SE',50.98465,-114.016023
 6133,'6133','WB 4 Ave SW @ 7 St SW',51.049879,-114.079243
 6134,'6134','SB 19 St NW @ Northmount Dr',51.087149,-114.109428
@@ -6021,9 +6014,6 @@
 9851,'9851','SB New Brighton Dr @ New Brighton Cir SE',50.919709,-113.954891
 9852,'9852','EB McIvor Blvd @ Copperstone Gt SE',50.914404,-113.936972
 9853,'9853','EB McIvor Blvd @ Copperstone St SE',50.91592,-113.934236
-9854,'9854','EB Copperfield Blvd @ Copperstone Link SE',50.919143,-113.929673
-9855,'9855','SB Copperfield Blvd @ Copperstone Blvd SE',50.917974,-113.926541
-9856,'9856','SB Copperfield Blvd @ Coppefrield Gdns SE',50.916228,-113.924041
 9857,'9857','SB Copperfield Blvd @ Copperfield Close SE',50.914957,-113.92433
 9858,'9858','NB Copperfield Blvd @ Copperstone Gdns SE',50.917627,-113.924902
 9859,'9859','NB Copperfield Blvd @ Copperpond Rd SE',50.918516,-113.927259
