@@ -8,8 +8,8 @@
 501,0,'N Haven',5
 600,0,'City Ctr',6
 601,0,'Westhills',6
-700,0,'5 Ave @ 1 St',7
-701,0,'54 Ave @ Crowchild Trl',7
+700,0,'City Ctr',7
+701,0,'Marda Loop',7
 801,0,'Foothills Medical Ctr',8
 800,0,'N Pte Term',8
 901,0,'Chinook Sta',9
@@ -112,8 +112,8 @@
 8300,0,'Parkland',83
 8501,0,'McKnight-Westwinds Sta',85
 8500,0,'Saddleridge Sta',85
-8600,0,'Country Vlg Link @ Country Vlg Way',86
 8601,0,'Harvest Hls Blvd @ Country Vlg Way',86
+8600,0,'N Pte Term A',86
 8700,0,'17 Ave',87
 8701,0,'Marlborough Sta',87
 8800,0,'Harvest Hls',88
