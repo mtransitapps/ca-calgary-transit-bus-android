@@ -437,12 +437,12 @@
 2603,'2603','WB Symons Valy Pkwy (128 Ave) @ Symons Valy Rd NW',51.168194,-114.133472
 2604,'2604','SB 68 St NE @ 100m Nof 37 Ave NE',51.087387,-113.935321
 2605,'2605','NB 52 St SE @ 126 Ave SE',50.934388,-113.957723
-2606,'2606','EB Na''a Dr @ N Of Sarcee Trl SW',51.079389,-114.193833
-2608,'2608','WB Na''a Dr @ N Of Sarcee Tr',51.07967,-114.193652
+2606,'2606','EB Na''a Dr @ Na''a Plz SW',51.079389,-114.193833
+2608,'2608','WB Na''a Dr @ Na''a Plz SW',51.07967,-114.193652
 2610,'2610','WB Na''a Dr @ E Of Piita Ri SW',51.080611,-114.204306
 2612,'2612','WB Canada Olympic Dr @ W Of Na''a Dr',51.08275,-114.213001
 2613,'2613','EB Canada Olympic Dr @ W Of Na''a Dr NW',51.082139,-114.213139
-2616,'2616','EB Na''a Dr @ E Of Piita Rise SW',51.080356,-114.203626
+2616,'2616','EB Na''a Dr @ Na''a Hts SW',51.080356,-114.203626
 2618,'2618','EB Na''a Dr @ Sarcee Trl SW',51.078316,-114.191635
 2619,'2619','SB Chelsea Dr @ S Of Merganser Dr W',51.035537,-113.858921
 2620,'2620','EB W Lakeview Dr @ E Of Chelsea Dr',51.03235,-113.855377
@@ -4913,7 +4913,7 @@
 8555,'8555','WB Bonaventure Dr @ Fairmount Dr SE',50.95385,-114.061097
 8573,'8573','WB Scurfield Dr @ Scotia Lndg NW',51.122436,-114.212747
 8574,'8574','EB Scurfield Dr @ Scenic Gdns NW',51.12222,-114.21276
-8575,'8575','NB Saddlebrook Dr @ Saddlelake Dr NE',51.125774,-113.929657
+8575,'8575','NB Saddlebrook Dr @ Saddlestone Way NE',51.126427,-113.929613
 8576,'8576','Saddletowne LRT Sta SB',51.126051,-113.947656
 8577,'8577','SB Country Hls Blvd @ Harvest Hls Blvd N',51.152747,-114.067647
 8578,'8578','NB Tuscany Spgs Blvd @ Tuscarora Mews NW',51.130732,-114.236763
@@ -5000,7 +5000,7 @@
 8676,'8676','WB 107 Ave SE @ 27 St SE',50.956856,-113.998165
 8677,'8677','NB Symons Vly Pkwy @ N Of Evanston Way NW',51.176041,-114.106748
 8678,'8678','EB 86 Ave SE @ W Of 60 St SE',50.975889,-113.950261
-8679,'8679','NB Saddlebrook Dr @ Saddlelake Pl NE',51.127658,-113.929344
+8679,'8679','NB Saddlebrook Dr @ Saddlelstone Grn NE',51.127658,-113.929344
 8680,'8680','WB Shawville Gt @ Shawville Blvd SE',50.899385,-114.063929
 8681,'8681','EB 90 Ave SE @ 40 St SE',50.972206,-113.975226
 8682,'8682','WB Douglas Gln Blvd @ 18 St SE',50.956869,-114.008148
