@@ -400,7 +400,7 @@
 2592,'2592','EB Masters Ave SE @ Marine Dr SE',50.892125,-113.924035
 2593,'2593','EB Masters Ave @ Master Hts SE',50.892341,-113.921755
 2594,'2594','EB Mahogany Gdns @ Mahogany Cv',50.895881,-113.931392
-2595,'2595','SB Mahogany Rd @ Mahogany Gdns',50.895663,-113.936924
+2595,'2595','SB Mahogany Blvd @ Mahogany Gdns',50.895663,-113.936924
 2596,'2596','EB Mahogany Rd @ 52 St SE (Farside)',50.893719,-113.941879
 2597,'2597','EB Auburn Mdws Dr SE @ 52 St SE',50.89371,-113.943209
 2598,'2598','WB 50 Ave SE @ 30 St SE',51.008959,-113.989383
@@ -458,7 +458,7 @@
 2706,'2706','SB Auburn Spgs Blvd @ Auburn Ave SE',50.89096,-113.947463
 2707,'2707','SB Auburn Spgs Blvd SE @ Auburn Crest Way',50.88908,-113.948213
 2708,'2708','EB Mahogany Rd @ Mahogany Blvd',50.894497,-113.937123
-2716,'2716','WB Mahogany Gdns @ Mahogany Blvd SE',50.895919,-113.935983
+2716,'2716','EB Mahogany Gdns @ Mahogany Blvd SE',50.895919,-113.935983
 2717,'2717','SB Seton Way SE @ Superstore (S Of Seton Cr)',50.873522,-113.957419
 2718,'2718','SB Seton Way SE @ Seton Ave SE',50.870328,-113.955467
 2719,'2719','SB Seton Way @ Seton Cir SE',50.867193,-113.952931
@@ -660,7 +660,7 @@
 3422,'3422','NB 36 St @ Whitehorn Dr NE',51.085377,-113.98149
 3423,'3423','NB Mahogany Blvd @ Masters Row SE',50.892895,-113.911639
 3428,'3428','WB Masters Rd @ Magnolia Link',50.892384,-113.916803
-3429,'3429','WB Mahogany Gdns @ Marine Dr SE',50.896122,-113.931771
+3429,'3429','WB Mahogany Gdns @ Mahogany Cv',50.896122,-113.931771
 3430,'3430','WB Auburn Mdws Dr @ Auburn Mdws St SE',50.894061,-113.943757
 3431,'3431','WB Masters Ave @ Masters Villas',50.892626,-113.921265
 3433,'3433','EB Auburn Bay Ave SE @ Auburn Mdws Blvd SE',50.892149,-113.948938
@@ -1894,7 +1894,7 @@
 5073,'5073','WB 17 Ave SE @ 52 St SE',51.037959,-113.959514
 5074,'5074','WB 17 Ave SE @ 38 St SE',51.037897,-113.979173
 5077,'5077','WB 9 Ave SE @ 19 St SE',51.035977,-114.02105
-5079,'5079','WB 9 Ave SE @ 7 St SE',51.043965,-114.045485
+5079,'5079','Fw - WB 9 Ave SE @ Fort Calgary',51.043965,-114.045485
 5082,'5082','SB Sandstone Dr @ Sanderling Hl NW',51.139247,-114.093505
 5084,'5084','EB 5 Ave SW @ 2 St SW',51.048431,-114.066705
 5085,'5085','SB Sarcee Rd @ Tommy Prince Rd SW',51.020696,-114.132091
