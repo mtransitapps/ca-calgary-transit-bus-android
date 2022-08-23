@@ -1,0 +1,482 @@
+101,0,'Bowness',1
+100,0,'Forest Lawn',1
+201,0,'Killarney / 17 Ave',2
+200,0,'Mt Pleasant',2
+300,0,'Ctr St N',3
+301,0,'Elbow Dr',3
+400,0,'Huntington',4
+501,0,'N Haven',5
+600,0,'City Ctr',6
+601,0,'Westhills',6
+700,0,'City Ctr',7
+701,0,'Marda Loop',7
+801,0,'Foothills Medical Ctr',8
+800,0,'N Pte Term',8
+901,0,'Chinook Sta',9
+900,0,'Dalhousie Sta',9
+1000,0,'City Hall',10
+1001,0,'Southcentre',10
+1100,0,'Southwest Loop',11
+1201,0,'Southwest Loop',12
+1300,0,'City Ctr',13
+1301,0,'Westhills',13
+1401,0,'Bridlewood',14
+1400,0,'Cranston',14
+1500,0,'Millrise',15
+1501,0,'Somerset Sta',15
+1701,0,'Ramsay',17
+1700,0,'Renfrew',17
+1901,0,'Lions Pk LRT Sta',19
+1900,0,'Rundle LRT Sta',19
+2001,0,'Heritage Sta',20
+2000,0,'Northmount Dr N',20
+2101,0,'Castleridge',21
+2200,0,'City Ctr',22
+2201,0,'Richmond Rd',22
+2301,0,'Front St @ Main Ent S Health Campus',23
+2300,0,'Saddletowne LRT Sta',23
+2400,0,'City Ctr',24
+2401,0,'Ogden',24
+2700,0,'Willowglen',27
+2800,0,'Deer Run',28
+2901,0,'Queensland',29
+30019,0,'Highfield Ind',30
+3100,0,'Dalhousie Sta',31
+3101,0,'Lions Pk Sta',31
+3201,0,'Huntington',32
+3200,0,'Sunridge',32
+3301,0,'Barlow / Max Bell Sta',33
+3300,0,'Rundle Sta',33
+3400,0,'Pineridge',34
+3500,0,'Bonavista',35
+3501,0,'Canyon Mdws',35
+3600,0,'Riverbend',36
+3701,0,'Canyon Mdws',37
+3700,0,'Heritage Sta',37
+3801,0,'Brentwood Sta',38
+3800,0,'Temple',38
+4001,0,'Crowfoot Sta',40
+4000,0,'N Hl',40
+4100,0,'Lynnwood',41
+4200,0,'Marlborough',42
+4301,0,'Chinook Sta',43
+4300,0,'McKnight - Westwinds Sta',43
+4401,0,'Avenida',44
+4400,0,'Deer Rdg',44
+4600,0,'Beddington',46
+4801,0,'Rundle',48
+4901,0,'Forest Hts',49
+5200,0,'Evergreen',52
+5201,0,'Somerset-Bridlewood Sta',52
+5300,0,'Brentwood Sta',53
+5301,0,'Greenwood',53
+5400,0,'Edgevalley',54
+5500,0,'Falconridge',55
+5601,0,'Anderson LRT Sta',56
+5600,0,'Heritage LRT Sta',56
+5701,0,'McCall Wy',57
+5700,0,'Monterey Pk',57
+5801,0,'44 St SE / Erin Woods',58
+5800,0,'Marlborough',58
+5900,0,'Savanna',59
+6000,0,'Taradale',60
+6101,0,'Martindale',61
+6201,0,'City Ctr',62
+6200,0,'Hidden Vly',62
+6401,0,'City Ctr',64
+6400,0,'MacEwan',64
+6501,0,'Downtown W',65
+6500,0,'Mkt Mall',65
+6600,0,'City Ctr',66
+6601,0,'Lakeview',66
+6701,0,'Marlborough Sta',67
+6700,0,'Memorial Dr E',67
+6801,0,'17th Ave @ 84th St',68
+6800,0,'Saddletowne LRT Sta',68
+6900,0,'AM',69
+6901,0,'PM',69
+7000,0,'City Ctr',70
+7001,0,'Vly Rdg',70
+7101,0,'McKnight-Westwinds LRT Sta',71
+7100,0,'Saddletowne LRT Sta',71
+7401,0,'Tuscany',74
+7500,0,'Mahogany',75
+7501,0,'Somerset',75
+7601,0,'Crowfoot Sta',76
+7600,0,'Dalhousie Sta',76
+7700,0,'Edgemont',77
+7801,0,'Chaparral',78
+7800,0,'Sundance',78
+7901,0,'Cranston',79
+7900,0,'Mahogany',79
+8100,0,'MacLeod Tr SE - N',81
+8101,0,'MacLeod Tr SE - S',81
+8201,0,'Brentwood Sta',82
+8200,0,'Nolan Hl',82
+8300,0,'Parkland',83
+8501,0,'McKnight-Westwinds Sta',85
+8500,0,'Saddleridge Sta',85
+8600,0,'Coventry Hls',86
+8601,0,'Coventry Hls',86
+8700,0,'17 Ave',87
+8701,0,'Marlborough Sta',87
+8800,0,'Harvest Hls',88
+8901,0,'Lions Pk Sta',89
+8900,0,'N Pte Term',89
+9000,0,'Bridgeland',90
+9001,0,'U Of Calgary',90
+9101,0,'Foothills Medical Ctr',91
+9100,0,'Lions Pk Sta',91
+9200,0,'Anderson Sta',92
+9201,0,'McKenzie Towne',92
+9301,0,'Coach Hl',93
+9300,0,'Westbrook Sta',93
+9501,0,'Palliser',95
+9600,0,'Anderson Sta',96
+9601,0,'McKenzie',96
+9701,0,'Crowfoot Sta / Scenic Acres',97
+9700,0,'S Ranchlands',97
+9801,0,'69 St Sta',98
+9800,0,'Cougar Rdg',98
+9900,0,'Acadia',99
+9901,0,'Oakridge',99
+10000,0,'Airport / McKnight-Westwinds Sta',100
+10001,0,'Airport / N Pte Term',100
+10101,0,'City Ctr',101
+10100,0,'Inglewood',101
+10400,0,'Sunnyside',104
+10401,0,'U Of Calgary',104
+10500,0,'Dalhousie Sta',105
+10501,0,'Lions Pk Sta',105
+10600,0,'Deerfoot Mdws',106
+10901,0,'City Ctr',109
+10900,0,'Harvest Hls',109
+11101,0,'W Spgs',111
+11100,0,'Westbrook Sta',111
+11301,0,'Crowfoot Sta / Scenic Acres',113
+11300,0,'N Ranchlands',113
+11400,0,'Panorama / Country Hls',114
+11500,0,'Evanston',115
+11501,0,'Tuscany',115
+11601,0,'City Ctr',116
+11600,0,'Coventry Hls',116
+11700,0,'City Ctr',117
+11701,0,'McKenzie Towne',117
+11800,0,'Hidden Vly',118
+11901,0,'Freeport',119
+11900,0,'Saddletowne Sta',119
+12001,0,'Crowfoot LRT Sta',120
+12000,0,'Dalhousie LRT Sta',120
+12300,0,'N Pte Term',123
+12301,0,'Sage Hl',123
+12401,0,'Evanston',124
+12400,0,'N Pte Term',124
+12501,0,'Cedarbrae',125
+12600,0,'Braeside',126
+12701,0,'Franklin Ind',127
+12700,0,'Maryvale',127
+12800,0,'Cornerstone / Redstone',128
+12801,0,'Saddletowne Sta',128
+12901,0,'Dalhousie Sta',129
+12900,0,'Sage Hl',129
+13101,0,'Auburn Bay',131
+13100,0,'City Ctr',131
+13401,0,'Crowfoot LRT Sta',134
+13400,0,'Dalhousie LRT Sta',134
+13501,0,'36 St SE / Erin Woods',135
+13500,0,'Marlborough Sta',135
+13801,0,'Crowfoot Sta',138
+13800,0,'Tuscany Sta',138
+14201,0,'City Ctr',142
+14200,0,'Panorama',142
+14501,0,'Saddletowne Sta',145
+14500,0,'Skyview Rnch / Redstone',145
+14701,0,'39 Ave Sta',147
+14700,0,'Starfield Insustrial',147
+14801,0,'Chinook Sta',148
+14800,0,'Great Plains Insustrial',148
+14901,0,'Heritage Sta',149
+14900,0,'Pt Trotter Ind',149
+15000,0,'114 Ave',150
+15001,0,'Anderson Sta',150
+15100,0,'City Ctr',151
+15101,0,'New Brighton',151
+15200,0,'New Brighton',152
+15300,0,'Copperfield',153
+15301,0,'Somerset-Bridlewood Sta',153
+15400,0,'Hamptons',154
+15500,0,'Forest Lawn',155
+15501,0,'W Dover',155
+15600,0,'69 St Sta',156
+15601,0,'Aspen Woods',156
+15700,0,'Saddletowne Sta',157
+15701,0,'Stoney Ind',157
+15800,0,'Royal Oak',158
+15901,0,'Saddlebrook',159
+16101,0,'N Pte Term',161
+16100,0,'Stoney Ind',161
+16701,0,'Walden / Legacy',167
+16800,0,'Walden / Legacy',168
+16900,0,'Rocky Rdg',169
+17400,0,'Tuscany',174
+17801,0,'Chaparral',178
+17800,0,'Sundance',178
+29900,0,'Arbour Lk',299
+30000,0,'Airport',300
+30001,0,'City Ctr',300
+30100,0,'301 N',301
+30101,0,'City Ctr',301
+30200,0,'City Ctr',302
+30201,0,'S Health Campus',302
+30301,0,'Brentwood',303
+30300,0,'Saddletowne',303
+30400,0,'City Ctr',304
+30401,0,'Woodpark',304
+30501,0,'Bowness',305
+30500,0,'City Ctr',305
+30601,0,'Douglas Gln',306
+30600,0,'Westbrook',306
+30700,0,'Chestermere',307
+30701,0,'City Ctr',307
+40200,0,'Silverado',402
+40400,0,'Mt Pleasant',404
+40401,0,'W Hillhurst',404
+40800,0,'Brentwood Sta',408
+40801,0,'Valleyridge',408
+41401,0,'14 St @ 17 Ave',414
+41400,0,'Niven Rd @ Norquay Dr',414
+42100,0,'Panatella',421
+42200,0,'Dalhousie',422
+42201,0,'Montgomery',422
+44000,0,'E Hls / Chateau Ests',440
+44001,0,'Franklin Sta',440
+44401,0,'Chaparral Vly / Walden',444
+44400,0,'Somerset Bridlewood Sta',444
+44900,0,'Eau Claire',449
+44901,0,'Parkhill',449
+45301,0,'69 St Sta',453
+45300,0,'W Spgs',453
+50200,0,'Heritage Pk',502
+55500,0,'Dashmesh Ctr',555
+69701,0,'AM',697
+69700,0,'PM',697
+69800,0,'AM',698
+69801,0,'PM',698
+69901,0,'AM',699
+69900,0,'PM',699
+70201,0,'AM',702
+70200,0,'PM',702
+70301,0,'AM',703
+70300,0,'PM',703
+70401,0,'AM',704
+70400,0,'PM',704
+70501,0,'AM',705
+70500,0,'PM',705
+70601,0,'AM',706
+70600,0,'PM',706
+71100,0,'AM',711
+71101,0,'PM',711
+71200,0,'AM',712
+71201,0,'PM',712
+71300,0,'AM',713
+71301,0,'PM',713
+71400,0,'AM',714
+71401,0,'PM',714
+71500,0,'AM',715
+71501,0,'PM',715
+71800,0,'AM',718
+71801,0,'PM',718
+71900,0,'AM',719
+71901,0,'PM',719
+72100,0,'AM',721
+72101,0,'PM',721
+72200,0,'AM',722
+72201,0,'PM',722
+72300,0,'AM',723
+72301,0,'PM',723
+72401,0,'AM',724
+72400,0,'PM',724
+72501,0,'AM',725
+72500,0,'PM',725
+73101,0,'AM',731
+73100,0,'PM',731
+73200,0,'AM',732
+73201,0,'PM',732
+73300,0,'AM',733
+73301,0,'PM',733
+73401,0,'AM',734
+73400,0,'PM',734
+73601,0,'AM',736
+73600,0,'PM',736
+73701,0,'AM',737
+73700,0,'PM',737
+73801,0,'AM',738
+73800,0,'PM',738
+73901,0,'AM',739
+73900,0,'PM',739
+74401,0,'AM',744
+74400,0,'PM',744
+74501,0,'AM',745
+74500,0,'PM',745
+74601,0,'AM',746
+74600,0,'PM',746
+74701,0,'AM',747
+74700,0,'PM',747
+74801,0,'AM',748
+74800,0,'PM',748
+75101,0,'AM',751
+75100,0,'PM',751
+75201,0,'AM',752
+75200,0,'PM',752
+75301,0,'AM',753
+75300,0,'PM',753
+75401,0,'AM',754
+75400,0,'PM',754
+75601,0,'AM',756
+75600,0,'PM',756
+76001,0,'AM',760
+76000,0,'PM',760
+76201,0,'AM',762
+76200,0,'PM',762
+76300,0,'AM',763
+76301,0,'PM',763
+76400,0,'AM',764
+76401,0,'PM',764
+76500,0,'AM',765
+76501,0,'PM',765
+76600,0,'AM',766
+76601,0,'PM',766
+76701,0,'AM',767
+76700,0,'PM',767
+76800,0,'AM',768
+76801,0,'PM',768
+77300,0,'R Thirsk Rocky Rdg',773
+77301,0,'R Thirsk Rocky Rdg / R Thirsk Royal Oak',773
+77501,0,'AM',775
+77500,0,'PM',775
+77600,0,'AM',776
+77601,0,'PM',776
+77700,0,'AM',777
+77701,0,'PM',777
+77800,0,'AM',778
+77801,0,'PM',778
+78000,0,'AM',780
+78001,0,'PM',780
+78201,0,'AM',782
+78200,0,'PM',782
+78301,0,'AM',783
+78300,0,'PM',783
+78600,0,'AM',786
+78601,0,'PM',786
+78900,0,'AM',789
+78901,0,'PM',789
+79101,0,'AM',791
+79100,0,'PM',791
+79201,0,'AM',792
+79200,0,'PM',792
+79300,0,'Queen Elizabeth / Sunnyside',793
+79400,0,'AM',794
+79401,0,'PM',794
+79501,0,'AM',795
+79500,0,'PM',795
+79601,0,'AM',796
+79600,0,'PM',796
+79700,0,'Tom Baines Hamptons',797
+79801,0,'AM',798
+79800,0,'PM',798
+79901,0,'AM',799
+79900,0,'PM',799
+80100,0,'AM',801
+80101,0,'PM',801
+80200,0,'AM',802
+80201,0,'PM',802
+80501,0,'AM',805
+80500,0,'PM',805
+80700,0,'AM',807
+80701,0,'PM',807
+81001,0,'AM',810
+81000,0,'PM',810
+81100,0,'AM',811
+81101,0,'PM',811
+81200,0,'AM',812
+81201,0,'PM',812
+81300,0,'AM',813
+81301,0,'PM',813
+81400,0,'AM',814
+81401,0,'PM',814
+81500,0,'AM',815
+81501,0,'PM',815
+81600,0,'AM',816
+81601,0,'PM',816
+81700,0,'AM',817
+81701,0,'PM',817
+81801,0,'AM',818
+81800,0,'PM',818
+81901,0,'AM',819
+81900,0,'PM',819
+82000,0,'AM',820
+82001,0,'PM',820
+82101,0,'AM',821
+82100,0,'PM',821
+82301,0,'AM',823
+82300,0,'PM',823
+82500,0,'AM',825
+82501,0,'PM',825
+82601,0,'AM',826
+82600,0,'PM',826
+83201,0,'AM',832
+83200,0,'PM',832
+83301,0,'AM',833
+83300,0,'PM',833
+83500,0,'St Bonaventure Anderson',835
+83600,0,'AM',836
+83601,0,'PM',836
+83901,0,'Lady Of Grace / Evanston',839
+84300,0,'AM',843
+84301,0,'PM',843
+84400,0,'Notre Dame / Evanston',844
+84500,0,'AM',845
+84501,0,'PM',845
+84800,0,'AM',848
+84801,0,'PM',848
+84900,0,'AM',849
+84901,0,'PM',849
+85101,0,'AM',851
+85100,0,'PM',851
+85301,0,'AM',853
+85300,0,'PM',853
+85800,0,'AM',858
+85801,0,'PM',858
+86200,0,'AM',862
+86201,0,'PM',862
+86301,0,'AM',863
+86300,0,'PM',863
+86401,0,'AM',864
+86400,0,'PM',864
+86500,0,'AM',865
+86501,0,'PM',865
+86601,0,'AM',866
+86600,0,'PM',866
+86701,0,'AM',867
+86700,0,'PM',867
+86801,0,'AM',868
+86800,0,'PM',868
+86900,0,'All Saints Hs / Somersetbridlewood Sta',869
+87101,0,'St Martha Marlborough',871
+87200,0,'St Alphonsus Rundle',872
+87700,0,'AM',877
+87701,0,'PM',877
+87801,0,'F Whelihan Chaparral',878
+88000,0,'AM',880
+88001,0,'PM',880
+88200,0,'B Marie-Rose / Nolan Hl',882
+88701,0,'AM',887
+88700,0,'PM',887
+89200,0,'AM',892
+89201,0,'PM',892
+89400,0,'AM',894
+89401,0,'PM',894
+89501,0,'AM',895
+89500,0,'PM',895
+89600,0,'AM',896
+89601,0,'PM',896
