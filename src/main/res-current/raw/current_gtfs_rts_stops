@@ -395,13 +395,13 @@
 2521,'2521','NB 36 St NE @ 108 Ave NE',51.151495,-113.981536
 2522,'2522','SB 36 St NE @ 108 Ave NE',51.150777,-113.981839
 2529,'2529','EB Country Hls Blvd @ 52 St NE (Farside)',51.154126,-113.957
-2532,'2532','NB Cornerstone Blvd @ Cornerstone Ave NE',51.161201,-113.937739
+2532,'2532','NB Cornerstone Blvd @ Cornerstone Ave NE',51.161201,-113.937898
 2533,'2533','WB 128 Ave NE @ Cornerstone St',51.165548,-113.943135
 2534,'2534','NB Redstone Blvd @ 128 Ave NE',51.165814,-113.950816
 2535,'2535','WB Redstone Dr @ Redstone Blvd NE',51.168555,-113.951788
 2537,'2537','SB Redstone Blvd @ Redstone Dr NE',51.168053,-113.951306
 2538,'2538','EB 128 Ave NE @ Redstone Blvd',51.165197,-113.950702
-2539,'2539','SB Cornerstone Blvd @ 128 Ave NE',51.165056,-113.938483
+2539,'2539','SB Cornerstone Blvd @ 128 Ave NE',51.16496,-113.938364
 2543,'2543','WB Country Hls Blvd @ 52 St NE (Farside)',51.154431,-113.959781
 2544,'2544','WB 88 Ave NE @ Savanna St',51.132709,-113.952837
 2545,'2545','WB 88 Ave NE @ 46 St NE',51.132639,-113.966291
@@ -410,7 +410,7 @@
 2548,'2548','WB 120 Ave NE @ 18 St NE',51.161841,-114.017182
 2549,'2549','WB 88 Ave NE @ 52 St NE',51.132709,-113.958798
 2550,'2550','NB Skyview Cir @ Country Hls Blvd',51.154635,-113.95235
-2551,'2551','NB Cornerstone Blvd @ Cornerstone Mnr',51.163898,-113.937677
+2551,'2551','NB Cornerstone Blvd @ Cornerstone Mnr',51.164498,-113.937892
 2552,'2552','WB 128 Ave NE @ 60 St NE',51.165602,-113.947805
 2553,'2553','NB Redstone Blvd @ Red Embers Way',51.167067,-113.95079
 2554,'2554','WB Redstone Dr @ Red Embers Sq',51.168557,-113.953994
@@ -473,8 +473,8 @@
 2633,'2633','EB Redstone Ave @ Redstone Parade NE',51.172872,-113.959088
 2635,'2635','EB Redstone Ave @ Red Sky Passage NE',51.172848,-113.95335
 2637,'2637','SB Redstone Blvd NE @ Red Embers Mnr NE',51.169813,-113.95123
-2638,'2638','SB Cornerstone Blvd @ Cornerstone Cir NE',51.162315,-113.9384
-2639,'2639','NB Cornerstone Blvd @ Cornerstone Cir NE',51.163017,-113.937878
+2638,'2638','SB Cornerstone Blvd @ Cornerstone Cir NE',51.162315,-113.93834
+2639,'2639','NB Cornerstone Blvd @ Cornerstone Cir NE',51.163016,-113.937899
 2640,'2640','SB Cornerstone Blvd @ Cornerstone Ave NE',51.160522,-113.938356
 2641,'2641','NB Cornerstone Blvd @ Cornerstone Hts NE',51.158484,-113.937905
 2642,'2642','WB Cornerstone Hts NE @ Cornerstone Blvd NE',51.158109,-113.938721
@@ -1485,7 +1485,6 @@
 4453,'4453','EB Vly Spgs Rd @ Vly Brk Cir NW',51.092791,-114.23881
 4454,'4454','EB Country Hls Blvd @ Harvest Hls Gt NE',51.154099,-114.04729
 4455,'4455','EB Country Hls Blvd @ Coventry Blvd NE',51.154095,-114.04144
-4456,'4456','NB Harvest Hls Blvd @ Country Vlg Way NE',51.157698,-114.069831
 4457,'4457','NB Harvest Hls Blvd @ 96 Ave NE',51.143221,-114.067713
 4458,'4458','NB Ctr St N @ N Of Beddington Blvd',51.126162,-114.071243
 4459,'4459','NB Ctr St N @ 78 Ave N',51.123326,-114.071242
@@ -5935,7 +5934,7 @@
 9684,'9684','SB Aspen Stone Blvd @ 17 Ave SW',51.038148,-114.2169
 9685,'9685','EB Val Gardena Blvd @ St Moritz Dr SW',51.033206,-114.212786
 9686,'9686','WB 17 Ave SW @ 73 St SW',51.037951,-114.193669
-9687,'9687','EB 17 Ave SW @ 73 St SW',51.037592,-114.193334
+9687,'9687','EB 17 Ave SW @ 73 St SW',51.037626,-114.194117
 9688,'9688','WB 17 Ave SW @ 77 St SW',51.038119,-114.199551
 9689,'9689','EB 17 Ave SW @ Aspen Summit Dr',51.037844,-114.203133
 9692,'9692','NB Martha''s Way @ Martha''s Mdw Gt NE',51.123833,-113.959943
