@@ -437,7 +437,7 @@
 2594,'2594','EB Mahogany Gdns @ Mahogany Cv',50.895881,-113.931392
 2595,'2595','SB Mahogany Blvd @ Mahogany Gdns',50.895663,-113.936924
 2596,'2596','EB Mahogany Rd @ 52 St SE (Farside)',50.893665,-113.941921
-2597,'2597','EB Auburn Mdws Dr SE @ 52 St SE',50.89371,-113.943209
+2597,'2597','EB Auburn Mdws Dr @ 52 St SE',50.89371,-113.943209
 2598,'2598','WB 50 Ave SE @ 30 St SE',51.008959,-113.989383
 2599,'2599','WB Auburn Bay Ave @ Auburn Spgs Blvd',50.891616,-113.9474
 2600,'2600','EB Symons Vly Pkwy @ 37 St NW',51.167777,-114.139583
@@ -493,8 +493,8 @@
 2702,'2702','WB Mahogany Gdns @ Mahogany Blvd SE',50.896146,-113.933801
 2703,'2703','WB Mahogany Rd @ Mahogany Blvd',50.894705,-113.937126
 2704,'2704','WB Mahogany Rd @ 52 St SE (Nearside)',50.89412,-113.94176
-2705,'2705','WB Auburn Bmeadows Dr @ Auburn Mdws Vw SE',50.894086,-113.947403
-2706,'2706','SB Auburn Spgs Blvd @ Auburn Ave SE',50.89096,-113.947463
+2705,'2705','WB Auburn Mdws Dr @ Auburn Mdws Vw SE',50.894086,-113.947403
+2706,'2706','SB Auburn Spgs Blvd @ Auburn Bay Ave SE',50.89096,-113.947463
 2707,'2707','SB Auburn Spgs Blvd SE @ Auburn Crest Way',50.88908,-113.948213
 2708,'2708','EB Mahogany Rd @ Mahogany Blvd',50.894497,-113.937123
 2716,'2716','EB Mahogany Gdns @ Mahogany Blvd SE',50.895919,-113.935983
@@ -502,12 +502,12 @@
 2718,'2718','SB Seton Way SE @ Seton Ave SE',50.870328,-113.955467
 2719,'2719','SB Seton Way @ Seton Cir SE',50.867193,-113.952931
 2720,'2720','SB Seton Way @ Seton Grv SE',50.865803,-113.952026
-2725,'2725','EB Auburn Mdws Dr Nearside Of Auburn Mdws Blvd',50.893699,-113.948025
+2725,'2725','EB Auburn Mdws Dr @ Auburn Mdws Blvd Nearside',50.893699,-113.948025
 2727,'2727','SB Haddon Rd @ Hogarth Rd',50.974044,-114.078068
 2728,'2728','Saddletowne LRT Sta SB',51.125532,-113.948039
 2729,'2729','NB Seton Way @ 202 Ave SE',50.866736,-113.951909
 2730,'2730','NB Seton Way @ Union Ave SE',50.869316,-113.953995
-2731,'2731','EB Auburn Spgs Blvd SE @ Auburn Bay St',50.886756,-113.950374
+2731,'2731','EB Auburn Spgs Blvd @ Auburn Bay St',50.886756,-113.950374
 2732,'2732','NB Auburn Spgs Blvd @ Auburn Crest Way SE',50.88953,-113.947458
 2733,'2733','SB Marine Dr @ Mahogany Rd (Nearside)',50.895192,-113.929269
 2734,'2734','NB Marine Dr @ Mahogany Rd',50.895185,-113.929096
@@ -653,7 +653,7 @@
 2934,'2934','WB 34 Ave NW @ 69 St NW',51.083943,-114.188458
 2935,'2935','SB 69 St NW @ 34 Ave NW',51.083373,-114.188212
 2936,'2936','WB Bowfort Rd @ 83 St NW',51.086055,-114.213663
-2937,'2937','Greenbriar Way @ Greenbriar Pl NW',51.088203,-114.217763
+2937,'2937','NB Greenbriar Way @ Greenbriar Pl NW',51.088203,-114.217763
 2938,'2938','SB Greenbriar Way @ Grenbriar Pl NW',51.087577,-114.218022
 2939,'2939','EB Bowfort Rd @ 83 St NW',51.085864,-114.213559
 3366,'3366','SB 85 St @ Bow Trl SW',51.051549,-114.21115
@@ -2461,7 +2461,7 @@
 5608,'5608','NB 8 St SW @ Durham Ave',51.034212,-114.082568
 5610,'5610','WB 6 Ave SE @ 5 St SE',51.04719,-114.051001
 5611,'5611','EB 9 Ave SE @ 19 St SE',51.035139,-114.01954
-5612,'5612','Harvest Hls Blvd @ 300 Harvest Grv Pl NE',51.148055,-114.045993
+5612,'5612','Harvest Hls Dr @ 300 Harvest Grv Pl NE',51.148055,-114.045993
 5613,'5613','SB 69 St SW @ Springborough Blvd',51.035282,-114.187768
 5614,'5614','NB 69 St SW @ Westside Rec Ctr Entrance',51.035029,-114.187355
 5615,'5615','EB McKenzie Lk Blvd @ Mt McKenzie Dr SE',50.916307,-113.980784
@@ -3831,7 +3831,7 @@
 7213,'7213','WB Hawksbrow Dr @ Hawkwood Blvd NW',51.125128,-114.167961
 7214,'7214','NB Hawksbrow Dr @ Hawkridge Ct NW',51.127483,-114.175335
 7215,'7215','SB Hawkwood Hl @ Hawkley Vly Rd NW',51.125556,-114.179369
-7216,'7216','NB Hawlwood Rd @ Hawkfield Way NW',51.128952,-114.188883
+7216,'7216','NB Hawkwood Rd @ Hawkfield Way NW',51.128952,-114.188883
 7217,'7217','NB Hawkwood Dr @ Hawkside Rd NW',51.129021,-114.183518
 7218,'7218','NB Hawkwood Dr @ Hawkwood Blvd NW',51.130855,-114.183492
 7219,'7219','NB Hawkwood Dr @ Hawkbury Close NW',51.134335,-114.182708
