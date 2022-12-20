@@ -94,7 +94,6 @@
 2151,'2151','Tuscany Sta - Rocky Rdg Term',51.134928,-114.234981
 2152,'2152','Tuscany Sta - Tuscany Term',51.133697,-114.235998
 2153,'2153','Tuscany Sta - Tuscany Term',51.133564,-114.235609
-2154,'2154','SB Legacy Vw SE @ Legacy Bay SE',50.85607,-114.011023
 2155,'2155','SB 23 St NE @ 37 Ave NE',51.086447,-114.00518
 2156,'2156','SB 23 St NE @ 35 Ave NE',51.083712,-114.005231
 2157,'2157','NB 23 St NE @ 35 Ave NE',51.083995,-114.00499
@@ -103,7 +102,13 @@
 2165,'2165','SB 5 St SW @ 5 Ave SW',51.048411,-114.073787
 2166,'2166','EB 17 Ave SE @ 65 St SE',51.037756,-113.93853
 2168,'2168','WB 8 Ave NE @ 13A St NE',51.059211,-114.029067
-2169,'2169','EB 210 Ave SE @ Aldersyde Gt SE',50.865324,-114.028561
+2170,'2170','SB Sheriff King St @ N Of 194 Ave SW',50.878274,-114.071086
+2171,'2171','EB Mahogany Gt @ 52 St SE',50.899287,-113.943253
+2172,'2172','SB Sheriff King St @ 194 Ave SW',50.876435,-114.071147
+2173,'2173','SB Sheriff King St @ Yorkville Ave SW',50.874604,-114.071153
+2174,'2174','EB Belmont Blvd @ Sheriff King St',50.870365,-114.069917
+2175,'2175','EB Belmont Blvd @ Belmont Dr',50.870334,-114.063528
+2176,'2176','SB Sheriff King St @ Silverado Way SW',50.881776,-114.071102
 2177,'2177','EB 17 Ave SE @ 68 St SE',51.037709,-113.934062
 2178,'2178','EB 17th Ave SE @ 70th St SE',51.037693,-113.929646
 2179,'2179','WB 17 Ave SE @ 68 St SE',51.037919,-113.936097
@@ -157,7 +162,6 @@
 2231,'2231','SB Legacy Vw SE @ Legacy Mnr SE',50.857646,-114.009723
 2233,'2233','EB Richardson Way @ Richardson Link SW',51.014984,-114.133913
 2234,'2234','WB 6 Ave @ 1 St SE',51.04753,-114.061468
-2235,'2235','WB Legacy Cir SE @ Legacy Vw SE',50.854661,-114.012894
 2236,'2236','WB Legacy Cir SE @ Legacy Hts SE',50.85586,-114.015773
 2237,'2237','WB Legacy Vlg Way @ Legacy Cir SE',50.857695,-114.017899
 2238,'2238','WB Legacy Vlg Rd SE @ Legacy Vlg Way SE',50.859912,-114.026012
@@ -168,7 +172,6 @@
 2243,'2243','NB Walden Dr @ Acr Nleg Of Walden Cr SE',50.873308,-114.03752
 2245,'2245','WB 13 Ave @ Aspen Summit Grn SW',51.047077,-114.200569
 2246,'2246','SB Legacy Vlg Li @ 210 Av SE',50.86381,-114.026257
-2247,'2247','NB Chaparral Blvd @ 194 Ave SE',50.878232,-114.024404
 2248,'2248','EB Shawville Way @ W Of Shawville Link SE',50.899905,-114.06879
 2249,'2249','SB Shawville Link @ Shawville Way SE',50.89931,-114.066536
 2250,'2250','NB Shawville Blvd @ Shawville Gt SE',50.899854,-114.063378
@@ -258,6 +261,7 @@
 2347,'2347','EB 106 Ave SE @ Distribution Ctr',50.96451,-113.942604
 2348,'2348','NB Hidden Vly Dr @ Hidden Vly Ga NW',51.14753,-114.100441
 2350,'2350','31st St NW Sta (EB)',51.081731,-114.129957
+2363,'2363','NB Belmont St SW @ Belmont Blvd SW',50.871079,-114.06086
 2366,'2366','NB 16 St NE @ 100 Ave NE',51.143949,-114.019999
 2367,'2367','EB 100 Ave NE @ 16 St NE',51.143289,-114.019446
 2368,'2368','WB Aero Dr @ 19 St NE',51.137628,-114.014243
@@ -489,6 +493,14 @@
 2653,'2653','NB 3 St @ 7 Ave SE',51.045449,-114.055494
 2654,'2654','EB 16 Ave NW @ Crowchild Trl NW',51.066882,-114.117471
 2655,'2655','WB 16 Ave NW @ Crowchild Trl NW',51.067093,-114.117571
+2692,'2692','NB 68 St SE @ 106 Ave SE',50.963126,-113.934618
+2693,'2693','EB 100 Ave SE @ 68 St SE',50.966966,-113.934455
+2694,'2694','SB 74 St SE @ 104 Ave SE',50.96461,-113.928372
+2696,'2696','WB Belmont Blvd @ Belmont St SE',50.870603,-114.061873
+2697,'2697','WB Belmont Blvd @ Belmont Dr',50.87068,-114.064928
+2698,'2698','NB Sheriff King St @ Belmont Blvd',50.870941,-114.070495
+2699,'2699','NB Sheriff King St @ Yorkville Ave SW',50.874841,-114.070619
+2700,'2700','NB Sheriff King St @ N Of 194 Ave SW',50.878501,-114.070472
 2701,'2701','NB Shawville Blvd @ Shawville Rd SE',50.90257,-114.064984
 2702,'2702','WB Mahogany Gdns @ Mahogany Blvd SE',50.896146,-113.933801
 2703,'2703','WB Mahogany Rd @ Mahogany Blvd',50.894705,-113.937126
@@ -497,11 +509,19 @@
 2706,'2706','SB Auburn Spgs Blvd @ Auburn Bay Ave SE',50.89096,-113.947463
 2707,'2707','SB Auburn Spgs Blvd SE @ Auburn Crest Way',50.88908,-113.948213
 2708,'2708','EB Mahogany Rd @ Mahogany Blvd',50.894497,-113.937123
+2709,'2709','NB Millrise Blvd @ Shawnessy Blvd',50.913651,-114.073446
+2710,'2710','NB Millrise Blvd @ Millrise Dr',50.915951,-114.073747
+2711,'2711','NB Legacy Gt SE @ Legacy Main St SE',50.861318,-114.017116
+2712,'2712','WB 210 Ave SE @ Legacy Gt SE',50.863315,-114.017976
+2713,'2713','SB Wolf Willow Blvd SE @ 194 Ave SE',50.877127,-114.004149
+2714,'2714','WB 210 Ave SE @ Walgrove Dr SE',50.863414,-114.022626
+2715,'2715','WB 194 Ave SE @ Wolf Crk Dr SE',50.877901,-114.009622
 2716,'2716','EB Mahogany Gdns @ Mahogany Blvd SE',50.895919,-113.935983
 2717,'2717','SB Seton Way SE @ Superstore (S Of Seton Cr)',50.873522,-113.957419
 2718,'2718','SB Seton Way SE @ Seton Ave SE',50.870328,-113.955467
 2719,'2719','SB Seton Way @ Seton Cir SE',50.867193,-113.952931
 2720,'2720','SB Seton Way @ Seton Grv SE',50.865803,-113.952026
+2721,'2721','WB Wolf Crk Ave SE @ Wolf Crk Gdns SE',50.875176,-114.006766
 2725,'2725','EB Auburn Mdws Dr @ Auburn Mdws Blvd Nearside',50.893699,-113.948025
 2727,'2727','SB Haddon Rd @ Hogarth Rd',50.974044,-114.078068
 2728,'2728','Saddletowne LRT Sta SB',51.125532,-113.948039
@@ -512,8 +532,8 @@
 2733,'2733','SB Marine Dr @ Mahogany Rd (Nearside)',50.895192,-113.929269
 2734,'2734','NB Marine Dr @ Mahogany Rd',50.895185,-113.929096
 2738,'2738','WB Auburn Bay Dr SE @ 52 St SE',50.899692,-113.946034
+2739,'2739','EB Nosehill Dr @ Tuscany Hl NW',51.107025,-114.243148
 2746,'2746','37 St @ Richmond Rd SB Nearside',51.023799,-114.142294
-2777,'2777','SB Chapparal Blvd @ S Of Chapala Way SE',50.880314,-114.025035
 2788,'2788','SB E Hls Sq @ E Hls Blvd SE',51.040816,-113.911119
 2793,'2793','Foothills Medical Ctr (EB)',51.068357,-114.128111
 2794,'2794','Foothills Medical Ctr (WB)',51.068615,-114.130151
@@ -616,7 +636,6 @@
 2893,'2893','WB 80 Ave NE @ E Of Metis Tr',51.12542,-113.967639
 2894,'2894','EB 72 Ave SE @ 57 St SE',50.989378,-113.946119
 2895,'2895','SB 56 St SE @ 114 Ave SE (Nearside)',50.951011,-113.951989
-2897,'2897','N Pte Term I',51.157895,-114.069351
 2898,'2898','N Pte Term H',51.157927,-114.068767
 2899,'2899','N Pte Term G',51.15777,-114.068289
 2902,'2902','EB 6 Ave SE @ 3 St SE',51.047041,-114.054029
@@ -764,6 +783,7 @@
 3493,'3493','WB Sage Hl Ga @ 37 St NW',51.170974,-114.142365
 3494,'3494','EB Sage Hl Gt @ W Of 37 St NW',51.170712,-114.142503
 3495,'3495','Alberta Children''s Hosp Sta (SB)',51.075327,-114.145894
+3496,'3496','N Pte Term E',51.156761,-114.069188
 3497,'3497','N Pte Term C',51.156824,-114.068671
 3498,'3498','N Pte Term B',51.156853,-114.068435
 3501,'3501','EB Seton Blvd @ Auburn Bay Link SE',50.882858,-113.95434
@@ -829,6 +849,7 @@
 3574,'3574','NB Walden Blvd @ Nleg Walden Dr SE Midblk',50.875136,-114.026076
 3575,'3575','NB Chaparral Vly Dr @ Chaparral Vly Gdns SE',50.880302,-114.013546
 3576,'3576','NB Chaparral Vly Dr @ Chaparral Vly Grv SE',50.884181,-114.015147
+3577,'3577','SB 6 St SE @ Shawville Gt',50.897261,-114.072163
 3585,'3585','SB 52 St SE @ Auburn Bay Ave',50.890581,-113.942727
 3586,'3586','SB 52 St SE @ Auburn Mdws Dr',50.893084,-113.942785
 3587,'3587','SB 52 St SE @ Auburn Mdws Ave SE',50.89766,-113.943874
@@ -882,7 +903,6 @@
 3657,'3657','EB Cranston Gt @ Cranston Ave SE',50.867507,-113.968378
 3658,'3658','NB Seton Way @ 212 Ave SE',50.863974,-113.951411
 3659,'3659','WB Cranston Gt @ Cranford Way SE',50.867725,-113.967602
-3670,'3670','EB 194 Ave SE @ Walden Gt SE',50.877104,-114.035886
 3671,'3671','SB Seton Way @ 212 Ave SE',50.864121,-113.951909
 3679,'3679','SB Hamptons Dr @ Hampstead Grv NW',51.142929,-114.131267
 3680,'3680','EB Hamptons Dr @ Hampstead Ter NW',51.144698,-114.133635
@@ -1589,7 +1609,7 @@
 4567,'4567','NB 6 St SW @ 7 Ave SW',51.046734,-114.07613
 4568,'4568','EB 9 Ave SW @ 9 St SW',51.04512,-114.084265
 4571,'4571','EB 17 Ave @ Georgia St SW',51.037718,-114.153552
-4576,'4576','SB 37 St SW @ 13 Ave SW',51.041115,-114.141314
+4575,'4575','WB 17 Ave SW @ 45 St SW',51.037895,-114.153427
 4577,'4577','WB Heritage Dr @ 10 St SW',50.97964,-114.088714
 4578,'4578','WB Heritage Dr @ Churchill Dr SW',50.97968,-114.092537
 4579,'4579','EB Heritage Dr @ 10 St SW',50.979491,-114.087769
@@ -1747,7 +1767,6 @@
 4755,'4755','WB Millrise Dr @ Millcrest Rd SW',50.917943,-114.087602
 4756,'4756','WB Millrise Dr @ Millrise Way SW',50.917603,-114.082273
 4757,'4757','WB Millrise Dr @ Millside Dr SW',50.916941,-114.07884
-4758,'4758','SB Millrise Blvd @ Millrise Dr SW',50.916947,-114.074744
 4759,'4759','WB 1 Ave NE @ 7 St NE',51.053323,-114.046302
 4760,'4760','WB 1 Ave NE @ 8 St NE',51.053318,-114.043605
 4761,'4761','WB 1 Ave NE @ 9 St NE',51.053313,-114.04095
@@ -1784,7 +1803,6 @@
 4792,'4792','EB Ctr Ave @ 16 St E',51.052364,-114.015308
 4793,'4793','WB Cranston Blvd @ Cranfield Link SE',50.893946,-113.987437
 4794,'4794','SB Cranston Blvd @ Cranleigh Dr SE',50.893133,-113.986593
-4795,'4795','Shawnessy LRT Sta',50.910552,-114.070095
 4796,'4796','Shawnessy LRT Sta',50.910877,-114.07016
 4797,'4797','Shawnessy LRT Sta',50.91091,-114.069688
 4798,'4798','Shawnessy LRT Sta',50.910687,-114.069745
@@ -1916,7 +1934,6 @@
 4935,'4935','NB Acadia Dr @ Willow Pk Dr SE',50.960318,-114.044303
 4937,'4937','WB Douglas Gln Gt @ 24 St SE',50.954004,-114.001653
 4938,'4938','NB Heritage Dr @ 79th Ave SE',50.983312,-114.048314
-4939,'4939','NB Shawinigan Dr @ Shannon Mnr SW',50.911363,-114.089593
 4940,'4940','NB Shawinigan Dr @ Shannon Dr SW',50.908817,-114.089197
 4941,'4941','EB Shawville Way @ W Of Shawville Link SE',50.899746,-114.068554
 4942,'4942','EB Vly Rdg Dr @ Vly Crest Close NW',51.092264,-114.265852
@@ -2351,7 +2368,6 @@
 5479,'5479','NB Shawinigan Dr @ Shawbrooke Dr SW',50.906807,-114.087601
 5480,'5480','WB John Laurie Blvd @ Nose Hl Dr NW',51.128236,-114.195401
 5481,'5481','NB 14 St NW @ N Haven Dr',51.092447,-114.094557
-5482,'5482','NB Midpark Dr @ Midbend Cr SE',50.9117,-114.058171
 5483,'5483','NB 14 St NW @ 5 Ave NW',51.05787,-114.09454
 5484,'5484','EB Dalhousie Dr @ 53 St NW',51.107406,-114.161215
 5485,'5485','WB 6 Ave SE @ 4 St SE',51.047266,-114.054022
@@ -3000,10 +3016,7 @@
 6235,'6235','SB 4 Ave NE @ N Leg Maidstone Dr',51.056696,-113.953514
 6236,'6236','WB Maryvale Dr @ 52 St NE',51.05685,-113.958057
 6237,'6237','WB Maryvale Dr @ E Of 42 St NE',51.056226,-113.970373
-6238,'6238','SB Shawnessy Dr @ Shawnessy Blvd SW',50.912183,-114.074189
 6239,'6239','EB Canyon Mdws Dr @ Parkland Blvd SE',50.930194,-114.037944
-6240,'6240','NB Millrise Dr @ Shawnessy Blvd SW',50.914806,-114.09238
-6241,'6241','EB Millrise Dr @ W Of Millrise Way SW',50.917444,-114.082383
 6242,'6242','NB Edmonton Trl @ 8 Ave NE',51.060122,-114.054447
 6243,'6243','WB Chaparral Dr @ Chaparral Mnr SE',50.887328,-114.039898
 6244,'6244','SB Edgepark Blvd @ Edgeburn Cr NW',51.136021,-114.157258
@@ -3041,7 +3054,6 @@
 6276,'6276','WB Canyon Mdws Dr @ Acadia Dr SE',50.930049,-114.049241
 6277,'6277','WB Citadel Dr @ Citadel Pk NW',51.140253,-114.173741
 6279,'6279','WB Anderson Rd @ Elbow Dr SW',50.950679,-114.084843
-6280,'6280','SB Shannon Dr @ Shawnessy Dr SW',50.911307,-114.082283
 6281,'6281','SB Woodpark Blvd @ Anderson Rd SW',50.949846,-114.109203
 6282,'6282','WB Woodview Dr @ 24 St SW',50.941358,-114.118812
 6283,'6283','NB Woodbine Blvd @ Woodmark Cr SW',50.946082,-114.125782
@@ -3078,14 +3090,12 @@
 6318,'6318','EB Rivervalley Dr @ 18 St SE',50.972729,-114.016289
 6319,'6319','SB 77 St NW @ Bowness Rd',51.088379,-114.199428
 6320,'6320','EB 32 Ave NW @ 69 St NW',51.081515,-114.187063
-6322,'6322','SB Millrise Blvd @ Millrose Pl SE',50.919343,-114.07521
 6323,'6323','WB 6 Ave SW @ E Of 1 St SW',51.047596,-114.063904
 6324,'6324','WB Chaparral Dr @ Chaparral Blvd SE',50.885849,-114.025601
 6328,'6328','EB MacEwan Gln Dr @ MacEwan Pk Vw NW',51.13111,-114.113244
 6329,'6329','EB Berkshire Blvd @ 14 St NW',51.131636,-114.10502
 6330,'6330','NB 18 St SE @ 21 St SE',50.966939,-114.013213
 6331,'6331','EB Beddington Blvd @ Berkley Dr NW',51.127053,-114.076675
-6332,'6332','SB Millrise Blvd @ James McKevitt Rd SW',50.920746,-114.075232
 6333,'6333','SB Riverbend Dr @ Riverside Cir SE',50.978429,-114.026025
 6334,'6334','WB 6 Ave SW @ E Of 1 St SW',51.047582,-114.064213
 6335,'6335','NB @ Hawkstone Dr NW Hawkstone Term',51.133064,-114.16586
@@ -3116,7 +3126,6 @@
 6366,'6366','SB Crowchild Trl @ 5 Ave NW',51.056479,-114.118276
 6367,'6367','SB Crowchild Trl @ Kensington Rd NW',51.052898,-114.118213
 6369,'6369','SB 37 St SW @ Bow Trl',51.04465,-114.141284
-6370,'6370','SB 37 St SW @ 26 Ave SW',51.029719,-114.141319
 6371,'6371','SB 37 St SW @ 30 Ave SW',51.02658,-114.141298
 6372,'6372','SB 37 St SW @ Richmond Rd',51.021743,-114.141396
 6373,'6373','NB Macleod Trl @ S Of 61 Ave SW',50.996637,-114.0713
@@ -3148,11 +3157,7 @@
 6402,'6402','NB Hawkwood Hl @ Hawkley Vly Rd NW',51.12613,-114.178548
 6403,'6403','NB Hawkwood Blvd @ Hawksbrow Rd NW',51.125318,-114.166891
 6404,'6404','NB Citadel Way @ Citadel Acres Close NW',51.145613,-114.194262
-6405,'6405','SB Midpark Dr @ Midpark Cr SE',50.909049,-114.056147
-6406,'6406','EB Sunbank Way @ Sunpark Dr SE',50.904279,-114.054613
-6407,'6407','EB Suncrest Way @ Sunhurst Rd SE',50.903449,-114.044921
 6408,'6408','SB Bannister Rd @ 145 Ave SE',50.922267,-114.069885
-6409,'6409','NB Midpark Dr @ Midpark Cr SE',50.909713,-114.056076
 6411,'6411','SB Strathcona Blvd @ Strathcona Dr SW',51.04832,-114.185009
 6412,'6412','Heritage LRT Sta NB',50.979277,-114.074203
 6413,'6413','SB Bonaventure Dr @ Heritage Dr SE',50.978858,-114.068268
@@ -3225,7 +3230,6 @@
 6489,'6489','WB 90 Ave SE @ 44 St SE',50.972387,-113.970878
 6491,'6491','EB 50 Ave SE @ 51 St SE',51.008688,-113.96037
 6492,'6492','SB 16 Ave NW @ 43 St NW',51.067638,-114.157769
-6493,'6493','WB Bow Trl @ 42 St SW',51.047941,-114.149729
 6494,'6494','WB Bow Trl @ E Of Sarcee Trl SW',51.051252,-114.160086
 6495,'6495','SB Citadel Way @ Citadel Bluff Close NW',51.146278,-114.193092
 6496,'6496','NB Coach Hl Rd @ Coach Bluff Cr SW',51.057538,-114.187546
@@ -3284,7 +3288,6 @@
 6563,'6563','WB Dalhousie Dr @ Dalgleish Rd NW',51.105115,-114.155026
 6564,'6564','NB Edmonton Trl @ 14 Ave NE',51.065516,-114.056103
 6565,'6565','SB Dalton Dr (E) @ Dalhousie Dr NW',51.102948,-114.147659
-6566,'6566','SB Dalton Dr (W) @ Dalhousie Dr NW',51.104377,-114.155372
 6567,'6567','SB 14 St NW @ MacEwan Gln Dr',51.131366,-114.106481
 6568,'6568','SB 14 St NW @ MacEwan Dr',51.134345,-114.107295
 6569,'6569','Castleridge Blvd Sta (NB)',51.10043,-113.957996
@@ -3312,9 +3315,7 @@
 6593,'6593','WB Shawnessy Blvd @ Millrise Blvd SW',50.91308,-114.074788
 6594,'6594','SB 4 St NW @ S Of Highland Pl',51.094105,-114.071642
 6596,'6596','Douglasbank Way Term SE',50.948543,-114.013675
-6598,'6598','NB Millrise Blvd @ Millrise Dr SW',50.917152,-114.074319
 6600,'6600','Edgebrook Rise NW Term',51.132461,-114.125697
-6601,'6601','NB Millrise Blvd @ 148 Ave SW',50.920087,-114.074789
 6602,'6602','SB Shawville Link @ Shawville Way SE',50.899308,-114.066519
 6603,'6603','SB Nose Hl Dr @ Crowfoot Rd NW',51.125726,-114.196897
 6604,'6604','SB Brisebois Dr @ Northmount Dr NW',51.092819,-114.129271
@@ -4053,7 +4054,6 @@
 7462,'7462','EB Bow Trl @ 45 St SW',51.048334,-114.151802
 7463,'7463','EB Bow Trl @ 40 St SW',51.045949,-114.144001
 7464,'7464','EB 5 Ave SW @ 9 St SW',51.048836,-114.082862
-7465,'7465','EB Bow Trl @ 37 St SW',51.045232,-114.141919
 7466,'7466','WB 6 Ave SE @ 1 St SE',51.047479,-114.059959
 7467,'7467','NB Laguna Way @ 43 Ave NE',51.092064,-113.933206
 7468,'7468','WB Bow Trl @ 45 St SW',51.049084,-114.153412
@@ -4678,17 +4678,10 @@
 8226,'8226','EB Shawnessy Dr @ Shawmeadows Rd SW',50.908807,-114.075482
 8227,'8227','NB Shawnessy Dr @ Shawmeadows Gt SW',50.911357,-114.073516
 8228,'8228','SB Shawinigan Dr @ Shannon Dr SW',50.908219,-114.088679
-8229,'8229','WB Shannon Dr @ Shannon Cr SW',50.910017,-114.085039
-8230,'8230','NB Shannon Close @ 159 Ave SW',50.91049,-114.079474
-8231,'8231','WB Shawnessy Dr @ Shawmeadows Rd SW',50.908669,-114.076444
-8232,'8232','SB Shawnessy Dr @ Shawmeadows Gt SW',50.910474,-114.073471
 8233,'8233','EB Shawnessy Blvd @ Shawnessy Dr SW',50.912727,-114.073259
 8234,'8234','EB Chaparral Dr @ Chaparral Cir SE',50.887486,-114.044353
 8235,'8235','SB Suncrest Way @ Sun Vly Blvd SE',50.906059,-114.040729
 8236,'8236','EB Sun Vly Blvd @ E Of Suncrest Way SE',50.905386,-114.035096
-8237,'8237','NB Suncrest Way @ Suncastle Gt SE',50.904069,-114.040642
-8238,'8238','WB Sunbank Way @ Sunmills Dr SE',50.902621,-114.0488
-8239,'8239','WB Sunbank Way @ Sunbank Rd SE',50.904066,-114.052606
 8240,'8240','EB Sunvale Dr @ Sundown Rd SE',50.899568,-114.049733
 8241,'8241','SB Sunmills Dr @ Sunvale Dr SE',50.899567,-114.047215
 8242,'8242','EB Sunmills Dr @ Sunlake Close SE',50.898436,-114.045167
@@ -4696,12 +4689,10 @@
 8244,'8244','EB Sunmills Dr @ Sunvista Close SE',50.897619,-114.032474
 8245,'8245','EB Sunmills Dr @ Sunwood Gt SE',50.897756,-114.029706
 8246,'8246','NB Sunmills Dr @ Sun Harbour Cr SE',50.898912,-114.027783
-8247,'8247','EB Sun Harbour Rd @ Sunmills Dr SE',50.900651,-114.026848
 8248,'8248','SB Sunmills Dr @ Sun Harbour Cr SE',50.898936,-114.028009
 8249,'8249','WB Sunmills Dr @ Sunwood Gt SE',50.897746,-114.031115
 8250,'8250','WB Sunmills Dr @ Sunvista Close SE',50.89812,-114.033424
-8251,'8251','SB Sunbank Way @ Sunvale Cr SE',50.903054,-114.051333
-8252,'8252','NB Sunmills Dr @ Sunbank Way SE',50.902959,-114.047939
+8253,'8253','NB Sunmills Dr @ Sun Harbour Rd',50.900698,-114.027884
 8254,'8254','NB Sunpark Dr @ Sunpark Plz SE',50.900812,-114.055332
 8255,'8255','SB 11 St NE @ 57 Ave NE',51.105625,-114.03658
 8256,'8256','EB James McKevitt Rd @ Millrise Hl SW',50.921231,-114.088521
@@ -4920,6 +4911,7 @@
 8511,'8511','NB Shawville Blvd @ Shawville Gt SE',50.89994,-114.063393
 8512,'8512','NB Shawville Blvd @ Shawville Rd SE',50.902387,-114.06486
 8513,'8513','SB 6 St SW @ Somerset Gt',50.899494,-114.075
+8514,'8514','EB Shawville Gt @ 6 St SW',50.897847,-114.07139
 8515,'8515','NB 6 St SW @ Shawville Gt',50.898347,-114.072682
 8516,'8516','WB 162 Ave SW @ James McKevitt Rd',50.905461,-114.100005
 8517,'8517','WB Dalton Dr (W) @ S Of Dalhousie Dr NW',51.102222,-114.155675
@@ -5535,9 +5527,6 @@
 9217,'9217','EB Shawnessy Blvd @ James McKevitt Rd SW',50.913916,-114.099366
 9218,'9218','NB Evergreen Dr @ Evergreen Plz SW',50.921112,-114.101998
 9219,'9219','NB Evergreen Dr @ Evergreen Lndg SW',50.925088,-114.102512
-9220,'9220','NB Millrise Dr @ Millcrest Way SW',50.91699,-114.092301
-9221,'9221','EB Millrise Dr @ Millcrest Rd SW',50.91757,-114.086701
-9222,'9222','EB Millrise Dr @ Millbank Ct SW',50.916471,-114.078004
 9223,'9223','WB Shawnessy Blvd @ W Of Shawinigan Dr SW',50.914124,-114.087016
 9224,'9224','WB Shawnessy Blvd @ Millrise Dr SW',50.91424,-114.093228
 9225,'9225','EB Midridge Dr @ Midcrest Cr SE',50.91944,-114.059774
@@ -5546,8 +5535,6 @@
 9228,'9228','WB Midridge Dr @ Midglen Way SE',50.918679,-114.052778
 9229,'9229','WB Midridge Dr @ Midcrest Cr SE',50.919287,-114.061904
 9230,'9230','SB Midridge Dr @ Midlawn Pl SE',50.917411,-114.06316
-9231,'9231','EB Midpark Dr @ Midpark Blvd SE',50.912404,-114.060758
-9232,'9232','SB Midpark Dr @ Midbend Cr SE',50.910932,-114.057693
 9233,'9233','SB Parkland Blvd @ 200 Parkglen Pl SE',50.92092,-114.025896
 9234,'9234','SB Parkland Blvd @ Parkvalley Rd SE',50.918142,-114.025618
 9235,'9235','SB Parkland Blvd @ 146 Ave SE',50.916614,-114.024606

@@ -22,8 +22,6 @@
 1301,0,'Westhills',13
 1401,0,'Bridlewood',14
 1400,0,'Cranston',14
-1500,0,'Millrise',15
-1501,0,'Somerset Sta',15
 1701,0,'Ramsay',17
 1700,0,'Renfrew',17
 1901,0,'Lions Pk LRT Sta',19
@@ -116,8 +114,8 @@
 8300,0,'Parkland',83
 8501,0,'McKnight-Westwinds Sta',85
 8500,0,'Saddleridge Sta',85
-8600,0,'Coventry Hls',86
-8601,0,'Coventry Hls',86
+8600,0,'Coventry N',86
+8601,0,'Coventry S',86
 8700,0,'17 Ave',87
 8701,0,'Marlborough Sta',87
 8800,0,'Harvest Hls',88
@@ -144,6 +142,8 @@
 10001,0,'Airport / N Pte Term',100
 10101,0,'City Ctr',101
 10100,0,'Inglewood',101
+10200,0,'Millrise',102
+10201,0,'Silverado',102
 10400,0,'Sunnyside',104
 10401,0,'U Of Calgary',104
 10500,0,'Dalhousie Sta',105
@@ -189,7 +189,6 @@
 13800,0,'Tuscany Sta',138
 14201,0,'City Ctr',142
 14200,0,'Panorama',142
-14501,0,'Saddletowne Sta',145
 14500,0,'Skyview Rnch / Redstone',145
 14701,0,'39 Ave Sta',147
 14700,0,'Starfield Insustrial',147
@@ -216,11 +215,10 @@
 16101,0,'N Pte Term',161
 16100,0,'Stoney Ind',161
 16701,0,'Walden / Legacy',167
-16800,0,'Walden / Legacy',168
 16900,0,'Rocky Rdg',169
 17400,0,'Tuscany',174
-17801,0,'Chaparral',178
-17800,0,'Sundance',178
+19401,0,'Chaparral Vly',194
+19400,0,'Somerset-Bridlewood Sta',194
 29900,0,'Arbour Lk',299
 30000,0,'Airport',300
 30001,0,'City Ctr',300
@@ -238,7 +236,6 @@
 30600,0,'Westbrook',306
 30700,0,'Chestermere',307
 30701,0,'City Ctr',307
-40200,0,'Silverado',402
 40400,0,'Mt Pleasant',404
 40401,0,'W Hillhurst',404
 40800,0,'Brentwood Sta',408
@@ -250,8 +247,6 @@
 42201,0,'Montgomery',422
 44000,0,'E Hls / Chateau Ests',440
 44001,0,'Franklin Sta',440
-44401,0,'Chaparral Vly / Walden',444
-44400,0,'Somerset Bridlewood Sta',444
 44900,0,'Eau Claire',449
 44901,0,'Parkhill',449
 45301,0,'69 St Sta',453
@@ -323,8 +318,8 @@
 74700,0,'PM',747
 74801,0,'AM',748
 74800,0,'PM',748
-75101,0,'AM',751
-75100,0,'PM',751
+75100,0,'Castleridge / Falconridge / Coral Spgs',751
+75101,0,'James Fowler Hs',751
 75201,0,'AM',752
 75200,0,'PM',752
 75301,0,'AM',753
@@ -469,7 +464,8 @@
 87200,0,'St Alphonsus Rundle',872
 87700,0,'AM',877
 87701,0,'PM',877
-87801,0,'F Whelihan Chaparral',878
+87800,0,'AM',878
+87801,0,'PM',878
 88000,0,'AM',880
 88001,0,'PM',880
 88200,0,'B Marie-Rose / Nolan Hl',882
