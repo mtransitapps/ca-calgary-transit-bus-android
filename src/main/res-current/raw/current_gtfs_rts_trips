@@ -26,8 +26,8 @@
 1700,0,'Renfrew',17
 1901,0,'Lions Pk LRT Sta',19
 1900,0,'Rundle LRT Sta',19
-2000,0,'78 Ave N Term',20
 2001,0,'Heritage Sta',20
+2000,0,'Northmount Dr N',20
 2101,0,'Castleridge',21
 2200,0,'City Ctr',22
 2201,0,'Richmond Rd',22
@@ -114,7 +114,7 @@
 8300,0,'Parkland',83
 8501,0,'McKnight-Westwinds Sta',85
 8500,0,'Saddleridge Sta',85
-8600,0,'Coventry Hls',86
+8600,0,'Coventry N',86
 8601,0,'Coventry S',86
 8700,0,'17 Ave',87
 8701,0,'Marlborough Sta',87
