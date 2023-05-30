@@ -2893,7 +2893,7 @@
 6086,'6086','NB Varsity Ests Dr @ Varsity Ests Pl NW',51.103274,-114.178512,0
 6087,'6087','EB Varsity Ests Dr @ Varsity Ests Pl NW',51.104545,-114.17042,0
 6088,'6088','EB Varsity Ests Dr @ Varsity Ests Rd NW',51.103155,-114.165404,0
-6089,'6089','Sunpark Dr SE / Sunpark Plz SE',50.901266,-114.055002,0
+6089,'6089','NB Sunpark Dr @ Sunpark Plz SE',50.901266,-114.055002,0
 6090,'6090','EB Temple Dr @ 52 St NE',51.091318,-113.956966,0
 6091,'6091','EB Temple Dr @ 64 St NE',51.092559,-113.942157,0
 6092,'6092','WB Temple Dr @ 64 St NE',51.084975,-113.941744,0
@@ -2959,7 +2959,7 @@
 6163,'6163','WB Deer Rdg Dr @ Deermont Rd SE',50.92345,-114.01509,0
 6164,'6164','NB Deer Rdg Dr @ 137 Ave SE',50.928527,-114.026493,0
 6165,'6165','NB Queensland Dr @ Canyon Mdws Dr SE',50.932633,-114.026999,0
-6166,'6166','SB Sunpark Dr @ Sunpark Plz SE',50.903884,-114.055349,0
+6166,'6166','SB Sunpark Dr @ Sunpark Plz SE Nleg',50.903884,-114.055349,0
 6168,'6168','EB Memorial Dr @ 44 St SE',51.052718,-113.969317,0
 6169,'6169','EB Memorial Dr @ 52 St NE',51.053391,-113.954759,0
 6170,'6170','EB Memorial Dr @ 68 St SE',51.052304,-113.934179,0
@@ -4695,7 +4695,7 @@
 8249,'8249','WB Sunmills Dr @ Sunwood Gt SE',50.897746,-114.031115,0
 8250,'8250','WB Sunmills Dr @ Sunvista Close SE',50.89812,-114.033424,0
 8253,'8253','NB Sunmills Dr @ Sun Harbour Rd',50.900698,-114.027884,0
-8254,'8254','NB Sunpark Dr @ Sunpark Plz SE',50.900812,-114.055332,0
+8254,'8254','SB Sunpark Dr @ Sunpark Plz SE Sleg',50.900812,-114.055332,0
 8255,'8255','SB 11 St NE @ 57 Ave NE',51.105625,-114.03658,0
 8256,'8256','EB James McKevitt Rd @ Millrise Hl SW',50.921231,-114.088521,0
 8257,'8257','SB Cranston Dr @ Cranfield Pk SE',50.892098,-113.978923,0
