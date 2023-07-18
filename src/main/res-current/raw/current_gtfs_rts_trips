@@ -112,7 +112,7 @@
 8300,0,'Parkland',83
 8501,0,'McKnight-Westwinds Sta',85
 8500,0,'Saddleridge Sta',85
-8600,0,'Coventry Hls',86
+8600,0,'Coventry N',86
 8601,0,'Coventry S',86
 8700,0,'17 Ave',87
 8701,0,'Marlborough Sta',87
@@ -251,8 +251,4 @@
 45301,0,'69 St Sta',453
 45300,0,'W Spgs',453
 50200,0,'Heritage Pk',502
-50400,0,'Ctr St N',504
-50401,0,'Stampede Pk',504
-50701,0,'McKenzie Towne',507
-50700,0,'Stampede Pk',507
 55500,0,'Dashmesh Ctr',555
