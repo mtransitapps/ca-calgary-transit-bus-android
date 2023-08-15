@@ -252,7 +252,7 @@
 2405,'2405','EB 8 Ave @ Wentworth Sq SW',51.063209,-114.215044,0
 2406,'2406','EB Cityscape Dr @ Cityscape Passage NE',51.152241,-113.961721,0
 2407,'2407','WB Cityscape Blvd @ Cityscape Dr NE',51.147286,-113.966919,0
-2408,'2408','NB Cityscape Dr @ 104 Ave NE',51.147638,-113.9662,0
+2408,'2408','NB Cityscape Dr @ 104 Ave NE',51.147901,-113.966179,0
 2409,'2409','NB Cityscape Dr @ Cityscape Mnr NE',51.150786,-113.966137,0
 2410,'2410','NB Cityscape Gt @ Cityscape Dr',51.152812,-113.958168,0
 2411,'2411','WB Cityscape Dr @ Cityscape Heath NE',51.152438,-113.962781,0
@@ -759,7 +759,7 @@
 3548,'3548','EB 112 Ave NW @ Royal Vista Dr NW',51.154054,-114.200364,0
 3549,'3549','WB 112 Ave NW @ Royal Vista Link NW',51.153996,-114.206133,0
 3550,'3550','WB 112 Ave NW @ 85 St NW',51.15187,-114.209914,0
-3552,'3552','NB 24 St @ Quarry Pk Blvd SE',50.964,-114.001393,0
+3552,'3552','NB 24 St SE @ Quarry Pk Blvd',50.964,-114.001393,0
 3553,'3553','SB 24 St SE @ Quarry Pk Blvd',50.962645,-114.001842,0
 3554,'3554','EB 112 Ave NW @ 85 St NW',51.152344,-114.208557,0
 3555,'3555','EB 112 Ave NW @ Royal Vista Link NW',51.153881,-114.204704,0
@@ -3473,7 +3473,7 @@
 7054,'7054','WB Northmount Dr @ Benson Rd NW',51.094247,-114.131368,0
 7055,'7055','WB Northmount Dr @ Bulyea Rd NW',51.09562,-114.134569,0
 7056,'7056','WB Northmount Dr @ 34 St NW',51.096094,-114.137739,0
-7057,'7057','WB Northmount Dr @ Boutlon Rd NW',51.096093,-114.13991,0
+7057,'7057','WB Northmount Dr @ Boulton Rd NW',51.096093,-114.13991,0
 7058,'7058','EB Northmount Dr @ Button Rd NW',51.095949,-114.138062,0
 7059,'7059','EB Northmount Dr @ Bulyea Rd NW',51.095123,-114.133742,0
 7060,'7060','EB Northmount Dr @ Braden Cr NW',51.093799,-114.130739,0
