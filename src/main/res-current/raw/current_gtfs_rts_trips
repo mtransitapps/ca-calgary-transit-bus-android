@@ -62,8 +62,8 @@
 4600,0,'Beddington',46
 4801,0,'Rundle',48
 4901,0,'Forest Hts',49
-5100,0,'Discovery Rdg / W Spgs',51
-5101,0,'Discovery Rdg / W Spgs',51
+5101,0,'Discovery Rdg',51
+5100,0,'Discovery Rdg',51
 5200,0,'Evergreen',52
 5201,0,'Somerset-Bridlewood Sta',52
 5300,0,'Brentwood Sta',53
@@ -218,8 +218,8 @@
 15901,0,'Saddlebrook',159
 16101,0,'N Pte Term',161
 16100,0,'Stoney Ind',161
-16400,0,'Richmond Term / Aspen Summit',164
-16401,0,'Richmond Term / Aspen Summit',164
+16401,0,'Richmond Term',164
+16400,0,'Richmond Term',164
 16701,0,'Walden / Legacy',167
 16900,0,'Rocky Rdg',169
 17400,0,'Tuscany',174
