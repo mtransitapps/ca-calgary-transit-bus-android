@@ -90,7 +90,7 @@
 6701,0,'Marlborough Sta',67
 6700,0,'Memorial Dr E',67
 6801,0,'17th Ave @ 84th St',68
-6800,0,'Saddletowne LRT Sta',68
+6800,0,'Saddletowne Term Stop B',68
 6900,0,'AM',69
 6901,0,'PM',69
 7000,0,'City Ctr',70
@@ -141,7 +141,7 @@
 9900,0,'Acadia',99
 9901,0,'Oakridge',99
 10000,0,'Airport / McKnight-Westwinds Sta',100
-10001,0,'Airport / N Pte Term',100
+10001,0,'Airport / N Pte',100
 10101,0,'City Ctr',101
 10100,0,'Inglewood',101
 10200,0,'Millrise',102
@@ -168,7 +168,7 @@
 11701,0,'McKenzie Towne',117
 11800,0,'Hidden Vly',118
 11901,0,'Freeport',119
-11900,0,'Saddletowne Sta',119
+11900,0,'Saddletowne',119
 12001,0,'Crowfoot LRT Sta',120
 12000,0,'Dalhousie LRT Sta',120
 12300,0,'N Pte Term',123
@@ -193,7 +193,7 @@
 13800,0,'Tuscany Sta',138
 14201,0,'City Ctr',142
 14200,0,'Panorama',142
-14500,0,'Skyview Rnch / Redstone',145
+14500,0,'Skyview / Redstone',145
 14701,0,'39 Ave Sta',147
 14700,0,'Starfield Insustrial',147
 14801,0,'Chinook Sta',148
@@ -212,7 +212,7 @@
 15501,0,'W Dover',155
 15600,0,'69 St Sta',156
 15601,0,'Aspen Woods',156
-15700,0,'Saddletowne Sta',157
+15700,0,'Stoney / Saddletowne',157
 15701,0,'Stoney Ind',157
 15800,0,'Royal Oak',158
 15901,0,'Saddlebrook',159
