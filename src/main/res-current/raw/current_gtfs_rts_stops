@@ -1697,9 +1697,11 @@
 4646,'4646','EB Copperfield Blvd @ Copperfield Mnr SE',50.910784,-113.936964,0
 4647,'4647','SB Copperfield Blvd @ Copperfield Mnr SE',50.910248,-113.937992,0
 4648,'4648','SB Palliser Dr @ Pump Hl Gt SW',50.962847,-114.102826,0
+4649,'4649','SB Palliser Dr @ Pump Hl Rise SW',50.964918,-114.102198,0
 4650,'4650','EB Palliser Dr @ 22 St SW',50.968903,-114.11272,0
 4651,'4651','EB Palliser Dr @ 24 St SW',50.969383,-114.11722,0
 4652,'4652','EB Palliser Dr @ Oakdale Pl SW',50.969392,-114.12014,0
+4653,'4653','NB Oakfield Dr @ Oakfield Pl SW',50.96849,-114.132803,0
 4654,'4654','EB Palliser Dr @ Oakfield Dr SW',50.97038,-114.130663,0
 4655,'4655','NB Oakfield Dr @ Southland Dr SW',50.961748,-114.132165,0
 4656,'4656','NB Cedarille Dr @ Cedarille Cr SW',50.958449,-114.135985,0
@@ -2520,6 +2522,7 @@
 5632,'5632','WB Cedarille Dr @ Cedardale Cr SW',50.952599,-114.132201,0
 5633,'5633','NB Oakfield Dr @ Cedarille Dr SW',50.960192,-114.132246,0
 5634,'5634','NB Oakfield Dr @ Oakmoor Dr SW',50.963232,-114.132244,0
+5635,'5635','NB Oakfield Dr @ Oakwood Dr SW',50.966524,-114.132596,0
 5636,'5636','EB Palliser Dr @ Oakwood Dr SW',50.969406,-114.125082,0
 5637,'5637','EB Palliser Dr @ Palishall Rd SW',50.967291,-114.109042,0
 5638,'5638','EB Palliser Dr @ 19 St SW',50.966635,-114.105767,0
