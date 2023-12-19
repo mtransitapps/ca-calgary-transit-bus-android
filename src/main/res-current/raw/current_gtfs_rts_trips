@@ -140,8 +140,8 @@
 9800,0,'Cougar Rdg',98
 9900,0,'Acadia',99
 9901,0,'Oakridge',99
-10000,0,'Airport / McKnight-Westwinds Sta',100
 10001,0,'Airport / N Pte',100
+10000,0,'Airport / Saddletowne',100
 10101,0,'City Ctr',101
 10100,0,'Inglewood',101
 10200,0,'Millrise',102
@@ -179,8 +179,7 @@
 12600,0,'Braeside',126
 12701,0,'Franklin Ind',127
 12700,0,'Maryvale',127
-12800,0,'Cornerstone / Redstone',128
-12801,0,'Saddletowne Sta',128
+12801,0,'Cornerstone / Redstone',128
 12901,0,'Dalhousie Sta',129
 12900,0,'Sage Hl',129
 13101,0,'Auburn Bay',131
@@ -189,6 +188,7 @@
 13400,0,'Dalhousie LRT Sta',134
 13501,0,'36 St SE / Erin Woods',135
 13500,0,'Marlborough Sta',135
+13600,0,'Corner Mdws / Cornerbrook',136
 13801,0,'Crowfoot Sta',138
 13800,0,'Tuscany Sta',138
 14201,0,'City Ctr',142
@@ -212,12 +212,10 @@
 15501,0,'W Dover',155
 15600,0,'69 St Sta',156
 15601,0,'Aspen Woods',156
+15701,0,'Stoney / N Pte',157
 15700,0,'Stoney / Saddletowne',157
-15701,0,'Stoney Ind',157
 15800,0,'Royal Oak',158
 15901,0,'Saddlebrook',159
-16101,0,'N Pte Term',161
-16100,0,'Stoney Ind',161
 16400,0,'Aspen Summit',164
 16401,0,'Richmond Term',164
 16701,0,'Walden / Legacy',167
