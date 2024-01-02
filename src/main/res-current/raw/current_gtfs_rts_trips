@@ -32,7 +32,7 @@
 2200,0,'City Ctr',22
 2201,0,'Richmond Rd',22
 2301,0,'Front St @ Main Ent S Health Campus',23
-2300,0,'Saddletowne Term Stop A',23
+2300,0,'Saddletowne Term',23
 2400,0,'City Ctr',24
 2401,0,'Ogden',24
 2700,0,'Willowglen',27
@@ -90,13 +90,13 @@
 6701,0,'Marlborough Sta',67
 6700,0,'Memorial Dr E',67
 6801,0,'17th Ave @ 84th St',68
-6800,0,'Saddletowne Term Stop C',68
+6800,0,'Saddletowne Term',68
 6900,0,'AM',69
 6901,0,'PM',69
 7000,0,'City Ctr',70
 7001,0,'Vly Rdg',70
 7101,0,'McKnight-Westwinds LRT Sta',71
-7100,0,'Saddletowne Term Stop D',71
+7100,0,'Saddletowne Term',71
 7401,0,'Tuscany',74
 7500,0,'Mahogany',75
 7501,0,'Somerset',75
