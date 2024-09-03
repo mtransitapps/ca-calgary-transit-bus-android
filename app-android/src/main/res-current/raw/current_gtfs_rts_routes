@@ -19,6 +19,7 @@
 22,'22','Richmond Rd SW','',1600,3
 23,'23','52 St E','',1601,3
 24,'24','Ogden','',1602,3
+26,'26','Sarcee Trl Crosstown','',1604,3
 27,'27','Willowglen','',1605,3
 28,'28','Deer Run','',1606,3
 29,'29','Queensland','',1607,3
@@ -93,12 +94,12 @@
 111,'111','Old Banff Coach Rd','',48657,3
 113,'113','North Ranchlands / Scenic Acres','',48659,3
 114,'114','Panorama / Country Hls','',48660,3
-115,'115','Symons Vly Pkwy','',48661,3
+115,'115','Tuscany / North Pte','',48661,3
 116,'116','Coventry Hls Express','00BBE5',48662,3
 117,'117','McKenzie Towne Express','00BBE5',48663,3
 118,'118','Hidden Vly','',48664,3
 119,'119','Freeport','',48665,3
-120,'120','North Silver Spgs','',48687,3
+120,'120','Silver Spgs','',48687,3
 123,'123','Sage Hl / North Pte Term','',48690,3
 124,'124','Evanston','',48691,3
 125,'125','Cedarbrae','',48692,3
@@ -107,7 +108,7 @@
 128,'128','East Skyview Rnch / Redstone','',48695,3
 129,'129','Dalhousie Sta / Sage Hl','',48696,3
 131,'131','East Bow Express','00BBE5',48719,3
-134,'134','South Silver Spgs','',48722,3
+134,'134','Rockland Pk','',48722,3
 135,'135','Erin Woods / 36 St SE','',48723,3
 136,'136','Corner Mdws / Cornerbrook','',48724,3
 138,'138','Citadel','',48726,3
@@ -145,5 +146,118 @@
 422,'422','Dalhousie / Montgomery','',51572,3
 440,'440','Chateau Ests / Franklin Sta','',51632,3
 449,'449','Eau Claire / Parkhill','',51641,3
-502,'502','Heritage Pk','',52471,3
 555,'555','Dashmesh Ctr','',52629,3
+698,'698','17th Ave / Western Canada / St Mary''s','E4A024',53717,3
+699,'699','West Spgs / Various Schools','E4A024',53718,3
+702,'702','Churchill / Nolan Hl','E4A024',54393,3
+703,'703','Churchill / Sherwood','E4A024',54394,3
+704,'704','Churchill / Edgepark Blvd','E4A024',54395,3
+705,'705','Churchill / Edgebrook Rise','E4A024',54396,3
+706,'706','Churchill / Edenwold Dr','E4A024',54397,3
+711,'711','Beaverbrook / Douglasglen','E4A024',54423,3
+712,'712','Beaverbrook / Parkland','E4A024',54424,3
+713,'713','Beaverbrook / Deer Run','E4A024',54425,3
+714,'714','Beaverbrook / Prestwick','E4A024',54426,3
+715,'715','Beaverbrook / Queensland','E4A024',54427,3
+716,'716','Beaverbrook / New Brighton','E4A024',54428,3
+718,'718','Beaverbrook / Douglasdale','E4A024',54430,3
+719,'719','Beaverbrook / McKenzie','E4A024',54431,3
+720,'720','Beaverbrook / Prestwick','E4A024',54453,3
+721,'721','Bowness / Vly Rdg','E4A024',54454,3
+722,'722','Bowness / Tuscany Ravine','E4A024',54455,3
+724,'724','Bowness / Tuscany North','E4A024',54457,3
+725,'725','Bowness / Silver Spgs','E4A024',54458,3
+726,'726','Bowness / Tuscany North','E4A024',54459,3
+728,'728','Bowness / Cougar Rdg','E4A024',54461,3
+732,'732','Central Memorial / Glamorgan','E4A024',54486,3
+733,'733','Central Memorial / Lakeview','E4A024',54487,3
+734,'734','Diefenbaker / Evanston','E4A024',54488,3
+735,'735','Diefenbaker / SageHill / Kincora','E4A024',54489,3
+736,'736','Diefenbaker / Evanston','E4A024',54490,3
+745,'745','Cr Hts / Vista Hts','E4A024',54520,3
+751,'751','Fowler / Castleridge / Falconridge','E4A024',54547,3
+752,'752','Fowler / Redstone','E4A024',54548,3
+753,'753','Fowler / Evanston / Sagehill / Kincora','E4A024',54549,3
+754,'754','Fowler / Saddletowne Sta','E4A024',54550,3
+755,'755','Fowler / SkyView','E4A024',54551,3
+756,'756','Fowler / Cornerstone','E4A024',54552,3
+757,'757','Joane Cardinal-Schubert / Copperpond','E4A024',54553,3
+758,'758','Joane Cardinal-Schubert / New Brighton','E4A024',54554,3
+760,'760','Scarlett / West Bonavista','E4A024',54577,3
+762,'762','Scarlett / Bonavista','E4A024',54579,3
+764,'764','Scarlett / James McKevitt Rd','E4A024',54581,3
+765,'765','Scarlett / Silverado','E4A024',54582,3
+766,'766','Scarlett / Evergreen','E4A024',54583,3
+767,'767','Scarlett / Anderson','E4A024',54584,3
+768,'768','Scarlett / Walden','E4A024',54585,3
+771,'771','Robert Thirsk / Nolan Hl','E4A024',54609,3
+772,'772','Robert Thirsk / Citadel','E4A024',54610,3
+773,'773','Robert Thirsk / Rocky Rdg','E4A024',54611,3
+774,'774','Robert Thirsk / Royal Oak','E4A024',54612,3
+776,'776','Wise Wood / Palliser / Oakridge','E4A024',54614,3
+777,'777','Wise Wood / Evergreen','E4A024',54615,3
+778,'778','Wise Wood / Woodlands','E4A024',54616,3
+779,'779','WiseWood / Riverbend','E4A024',54617,3
+780,'780','Wise Wood / Oakridge','E4A024',54639,3
+782,'782','HD Cartwrightl / Nolan Hl','E4A024',54641,3
+783,'783','Dr Gordon Higgins / Temple','E4A024',54642,3
+786,'786','John Ware / Woodbine','E4A024',54645,3
+789,'789','A E Cross / Signal Hl','E4A024',54648,3
+793,'793','Queen E / Sunnyside','E4A024',54673,3
+794,'794','FE Osborne / Silver Spgs','E4A024',54674,3
+795,'795','FE Osborne / SageHill','E4A024',54675,3
+796,'796','Tom Baines / Edgemont','E4A024',54676,3
+797,'797','Tom Baines / Hamptons','E4A024',54677,3
+798,'798','Annie Gale / Taradale','E4A024',54678,3
+799,'799','Annie Gale / Coral Spgs','E4A024',54679,3
+801,'801','Brebeuf / RoyalOak','E4A024',55353,3
+802,'802','Brebeuf / Hawkwood','E4A024',55354,3
+805,'805','Brebeuf / Hamptons / Edgemont','E4A024',55357,3
+807,'807','Brebeuf / Rocky Rdg','E4A024',55359,3
+809,'809','St Francis / NolanHill / Edgemont','E4A024',55361,3
+810,'810','St Francis / TuscanyGlen / Ravine','E4A024',55383,3
+811,'811','St Francis / Tuscany','E4A024',55384,3
+812,'812','St Francis / E Arbour Lk / Citadel','E4A024',55385,3
+813,'813','St Francis / Arbour Lk / Scenic Acres / Silver Spgs','E4A024',55386,3
+814,'814','St Francis / Royal Oak','E4A024',55387,3
+815,'815','St Francis / S Ranchlands / Arbour Lk','E4A024',55388,3
+816,'816','St Francis / E Hawkwood / Citadel','E4A024',55389,3
+817,'817','St Francis / Rocky Rdg','E4A024',55390,3
+818,'818','St Francis / Sherwood / Hamptons / Edgemont','E4A024',55391,3
+819,'819','St Francis / NolanHill','E4A024',55392,3
+820,'820','St Francis / Scenic Acres North','E4A024',55414,3
+821,'821','Bishop O''Byrne / McKenzie / Mtn Pk','E4A024',55415,3
+823,'823','Bishop McNally / Redstone / Skyview','E4A024',55417,3
+825,'825','Bishop Carroll / Mckenzie Towne Express','E4A024',55419,3
+826,'826','Bishop Carroll / Dalhousie / Brentwood','E4A024',55420,3
+832,'832','Madeleine D''Houet / North Pte','E4A024',55447,3
+833,'833','Madeleine D''Houet / Dalhousie Stn','E4A024',55448,3
+835,'835','St Bonaventure / Anderson','E4A024',55450,3
+836,'836','St Vincent De Paul / Scenic Acres','E4A024',55451,3
+839,'839','Our Lady Of Grace / Evanston','E4A024',55454,3
+844,'844','Notre Dame / Evanston','E4A024',55480,3
+845,'845','Msgr J S Smith S / Mahogany','E4A024',55481,3
+848,'848','Lady Of The Rockies / New Brighton','E4A024',55484,3
+849,'849','Lady Of The Rockies / Douglasdale','E4A024',55485,3
+851,'851','St Augustine / Lynnwood / Ogden','E4A024',55508,3
+853,'853','St Augustine / Riverbend','E4A024',55510,3
+858,'858','St Stephen / Legacy','E4A024',55515,3
+862,'862','All Saints High / Cranston North','E4A024',55540,3
+863,'863','All Saints High / Mahogany / Cranston','E4A024',55541,3
+864,'864','All Saints High / Auburn Bay','E4A024',55542,3
+865,'865','All Saints High / Silverado','E4A024',55543,3
+866,'866','All Saints High / Cranston','E4A024',55544,3
+867,'867','All Saints High / Chaparral','E4A024',55545,3
+869,'869','All Saints High / Somerset Bridlewood LRT','E4A024',55547,3
+871,'871','St Martha S / Marlborough','E4A024',55570,3
+872,'872','St Alphonsus / Rundle','E4A024',55571,3
+877,'877','Father James Whelihan / Walden','E4A024',55576,3
+878,'878','Father James Whelihan / Chaparral','E4A024',55577,3
+879,'879','Christ The King / Cranston','E4A024',55578,3
+880,'880','St Matthew / Heritage','E4A024',55600,3
+882,'882','Blessed Marie-Rose / Nolan Hl','E4A024',55602,3
+887,'887','St Elizabeth Seton / Panorama Hls','E4A024',55607,3
+892,'892','St Isabella / Mckenzie','E4A024',55633,3
+894,'894','St Gregory / 69 St SW / Strathcona','E4A024',55635,3
+895,'895','St Gregory / West Spgs / CougarRidge','E4A024',55636,3
+896,'896','LOA / Bowness / Vly Rdg','E4A024',55637,3
