@@ -312,16 +312,16 @@
 75101,0,'James Fowler Hs',751
 75201,0,'AM',752
 75200,0,'PM',752
-75301,0,'Fowler / Evanston / Sage Hl / Kincora',753
-75300,0,'Fowler / Redstone',753
+75301,0,'AM',753
+75300,0,'PM',753
 75401,0,'AM',754
 75400,0,'PM',754
 75501,0,'AM',755
 75500,0,'PM',755
 75601,0,'AM',756
 75600,0,'PM',756
-75700,0,'James Fowler Saddletowne Cir / Jc Schubert / Copperpond',757
-75701,0,'Jc Schubert / Copperpond',757
+75701,0,'AM',757
+75700,0,'PM',757
 75801,0,'AM',758
 75800,0,'PM',758
 76001,0,'AM',760
@@ -400,8 +400,8 @@
 81501,0,'PM',815
 81600,0,'AM',816
 81601,0,'PM',816
-81700,0,'R Thirsk Rocky Rdg / St Francis Rocky Rdg',817
-81701,0,'St Francis Rocky Rdg',817
+81700,0,'AM',817
+81701,0,'PM',817
 81801,0,'AM',818
 81800,0,'PM',818
 81901,0,'AM',819
