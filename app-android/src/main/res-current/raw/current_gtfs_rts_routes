@@ -94,7 +94,7 @@
 111,'111','Old Banff Coach Rd','',48657,3
 113,'113','North Ranchlands / Scenic Acres','',48659,3
 114,'114','Panorama / Country Hls','',48660,3
-115,'115','Tuscany / North Pte','',48661,3
+115,'115','Symons Vly Pkwy / Tuscany / North Pte','',48661,3
 116,'116','Coventry Hls Express','00BBE5',48662,3
 117,'117','McKenzie Towne Express','00BBE5',48663,3
 118,'118','Hidden Vly','',48664,3
@@ -169,6 +169,7 @@
 725,'725','Bowness / Silver Spgs','E4A024',54458,3
 726,'726','Bowness / Tuscany North','E4A024',54459,3
 728,'728','Bowness / Cougar Rdg','E4A024',54461,3
+731,'731','West Spgs / Ernest Mannin','E4A024',54485,3
 732,'732','Central Memorial / Glamorgan','E4A024',54486,3
 733,'733','Central Memorial / Lakeview','E4A024',54487,3
 734,'734','Diefenbaker / Evanston','E4A024',54488,3

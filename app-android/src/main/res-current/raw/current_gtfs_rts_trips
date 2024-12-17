@@ -40,7 +40,8 @@
 2700,0,'Willowglen',27
 2800,0,'Deer Run',28
 2901,0,'Queensland',29
-30019,0,'Highfield Ind',30
+3000,0,'Highfield Ind',30
+3001,0,'Highfield Ind',30
 3201,0,'Huntington',32
 3200,0,'Sunridge',32
 3301,0,'Barlow / Max Bell Sta',33
@@ -116,7 +117,7 @@
 8300,0,'Parkland',83
 8501,0,'McKnight-Westwinds Sta',85
 8500,0,'Saddleridge Sta',85
-8600,0,'Coventry N',86
+8600,0,'Coventry Hls',86
 8601,0,'Coventry S',86
 8700,0,'17 Ave',87
 8701,0,'Marlborough Sta',87
@@ -282,8 +283,8 @@
 71801,0,'PM',718
 71900,0,'AM',719
 71901,0,'PM',719
-72000,0,'N',720
-72001,0,'S',720
+72000,0,'Beaverbrook / Prestwick / N',720
+72001,0,'Beaverbrook / Prestwick / S',720
 72100,0,'AM',721
 72101,0,'PM',721
 72200,0,'AM',722
@@ -296,6 +297,8 @@
 72600,0,'PM',726
 72800,0,'AM',728
 72801,0,'PM',728
+73101,0,'AM',731
+73100,0,'PM',731
 73200,0,'AM',732
 73201,0,'PM',732
 73300,0,'AM',733
