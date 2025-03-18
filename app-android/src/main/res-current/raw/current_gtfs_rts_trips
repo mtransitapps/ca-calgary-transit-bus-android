@@ -110,6 +110,7 @@
 7800,0,'Sundance',78
 7901,0,'Cranston',79
 7900,0,'Mahogany',79
+8000,0,'Homestead',80
 8100,0,'MacLeod Tr SE - N',81
 8101,0,'MacLeod Tr SE - S',81
 8201,0,'Brentwood Sta',82
@@ -117,7 +118,7 @@
 8300,0,'Parkland',83
 8501,0,'McKnight-Westwinds Sta',85
 8500,0,'Saddleridge Sta',85
-8600,0,'Coventry N',86
+8600,0,'Coventry Hls',86
 8601,0,'Coventry S',86
 8700,0,'17 Ave',87
 8701,0,'Marlborough Sta',87
@@ -283,8 +284,8 @@
 71801,0,'PM',718
 71900,0,'AM',719
 71901,0,'PM',719
-72000,0,'AM',720
-72001,0,'PM',720
+72000,0,'N',720
+72001,0,'S',720
 72100,0,'AM',721
 72101,0,'PM',721
 72200,0,'AM',722
@@ -455,6 +456,7 @@
 86900,0,'All Saints Hs / Somersetbridlewood Sta',869
 87101,0,'St Martha Marlborough',871
 87200,0,'St Alphonsus Rundle',872
+87301,0,'Lady Of Peace / Shawnessy',873
 87700,0,'AM',877
 87701,0,'PM',877
 87800,0,'AM',878

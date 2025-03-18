@@ -65,6 +65,7 @@
 77,'77','Edgemont','',1760,3
 78,'78','Sundance / Chaparral','',1761,3
 79,'79','Cranston / Mahogany','',1762,3
+80,'80','Homestead','',1784,3
 81,'81','Macleod Tr S','',1785,3
 82,'82','Nolan Hl','',1786,3
 83,'83','Parkland','',1787,3
@@ -169,7 +170,7 @@
 725,'725','Bowness / Silver Spgs','E4A024',54458,3
 726,'726','Bowness / Tuscany North','E4A024',54459,3
 728,'728','Bowness / Cougar Rdg','E4A024',54461,3
-731,'731','West Spgs / Ernest Mannin','E4A024',54485,3
+731,'731','West Spgs / Ernest Manning','E4A024',54485,3
 732,'732','Central Memorial / Glamorgan','E4A024',54486,3
 733,'733','Central Memorial / Lakeview','E4A024',54487,3
 734,'734','Diefenbaker / Evanston','E4A024',54488,3
@@ -252,6 +253,7 @@
 869,'869','All Saints High / Somerset Bridlewood LRT','E4A024',55547,3
 871,'871','St Martha S / Marlborough','E4A024',55570,3
 872,'872','St Alphonsus / Rundle','E4A024',55571,3
+873,'873','Our Lady Of Peace / Shawnessy','E4A024',55572,3
 877,'877','Father James Whelihan / Walden','E4A024',55576,3
 878,'878','Father James Whelihan / Chaparral','E4A024',55577,3
 879,'879','Christ The King / Cranston','E4A024',55578,3
