@@ -26,11 +26,6 @@ public class CalgaryTransitBusAgencyTools extends DefaultAgencyTools {
 		new CalgaryTransitBusAgencyTools().start(args);
 	}
 
-	@Override
-	public boolean defaultExcludeEnabled() {
-		return true;
-	}
-
 	@NotNull
 	@Override
 	public String getAgencyName() {
@@ -91,7 +86,7 @@ public class CalgaryTransitBusAgencyTools extends DefaultAgencyTools {
 		routeLongName = CleanUtils.cleanSlashes(routeLongName);
 		routeLongName = CLEAN_STREET_POINT.clean(routeLongName);
 		routeLongName = CleanUtils.cleanStreetTypes(routeLongName);
-		return CleanUtils.cleanLabel(routeLongName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), routeLongName);
 	}
 
 	@Override
@@ -137,13 +132,16 @@ public class CalgaryTransitBusAgencyTools extends DefaultAgencyTools {
 		if (rsn >= 1 && rsn <= 299) {
 			return null;
 		}
-		if (rsn == 303) { // MO MAX Orange
+		switch (rsn) {
+		case 301: // ML MAX Green
+			return "4D8A5D"; // TODO check for updated web-site
+		case 303: // MO MAX Orange
 			return "EF8B22";
-		} else if (rsn == 304) { // MY MAX Yellow
+		case 304: // MY MAX Yellow
 			return "FFCD02";
-		} else if (rsn == 306) { // MT MAX Teal
+		case 306: // MT MAX Teal
 			return "009bA7";
-		} else if (rsn == 307) { // MP MAX Purple
+		case 307: // MP MAX Purple
 			return "92368D";
 		}
 		if (rsn >= 400 && rsn <= 599) {
@@ -164,10 +162,8 @@ public class CalgaryTransitBusAgencyTools extends DefaultAgencyTools {
 
 	@Override
 	public boolean allowNonDescriptiveHeadSigns(long routeId) {
-		if (Arrays.asList(
-				30L // 2024-12-17: ???
-		).contains(routeId)) {
-			return true;
+		if (routeId == 30L) {
+			return true; // 2024-12-17: ???
 		}
 		return super.allowNonDescriptiveHeadSigns(routeId);
 	}
@@ -256,7 +252,7 @@ public class CalgaryTransitBusAgencyTools extends DefaultAgencyTools {
 		tripHeadsign = CleanUtils.cleanBounds(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanStreetTypes(tripHeadsign);
 		tripHeadsign = CleanUtils.cleanNumbers(tripHeadsign);
-		return CleanUtils.cleanLabel(tripHeadsign);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), tripHeadsign);
 	}
 
 	private String[] getIgnoredWords() {
@@ -429,6 +425,6 @@ public class CalgaryTransitBusAgencyTools extends DefaultAgencyTools {
 		gStopName = CleanUtils.cleanStreetTypes(gStopName);
 		gStopName = CleanUtils.cleanNumbers(gStopName);
 		gStopName = STARTS_WITH_SLASH.clean(gStopName);
-		return CleanUtils.cleanLabel(gStopName);
+		return CleanUtils.cleanLabel(getFirstLanguageNN(), gStopName);
 	}
 }
