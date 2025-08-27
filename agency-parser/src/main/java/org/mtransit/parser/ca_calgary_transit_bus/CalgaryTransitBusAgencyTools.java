@@ -12,7 +12,7 @@ import org.mtransit.parser.MTLog;
 import org.mtransit.parser.gtfs.data.GRoute;
 import org.mtransit.parser.gtfs.data.GTrip;
 import org.mtransit.parser.mt.data.MAgency;
-import org.mtransit.parser.mt.data.MDirectionType;
+import org.mtransit.parser.mt.data.MDirectionCardinalType;
 import org.mtransit.parser.mt.data.MTrip;
 
 import java.util.Arrays;
@@ -184,13 +184,13 @@ public class CalgaryTransitBusAgencyTools extends DefaultAgencyTools {
 
 	@Nullable
 	@Override
-	public MDirectionType convertDirection(@Nullable String headSign) {
+	public MDirectionCardinalType convertDirection(@Nullable String headSign) {
 		if (headSign != null) {
 			final String headSignLC = headSign.toLowerCase(Locale.ENGLISH);
 			if (headSignLC.endsWith(" - north")) {
-				return MDirectionType.NORTH;
+				return MDirectionCardinalType.NORTH;
 			} else if (headSignLC.endsWith(" - south")) {
-				return MDirectionType.SOUTH;
+				return MDirectionCardinalType.SOUTH;
 			}
 		}
 		return null;
