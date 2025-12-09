@@ -64,6 +64,11 @@ public class CalgaryTransitBusAgencyTools extends DefaultAgencyTools {
 		return "\\-\\d+$";
 	}
 
+	@Override
+	public boolean verifyRouteIdsUniqueness() {
+		return false; // merge routes
+	}
+
 	@Nullable
 	@Override
 	public Long convertRouteIdFromShortNameNotSupported(@NotNull String routeShortName) {
