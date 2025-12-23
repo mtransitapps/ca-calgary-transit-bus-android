@@ -22,6 +22,8 @@
 1301,0,'Westhills',13
 1401,0,'Bridlewood',14
 1400,0,'Cranston',14
+1500,0,'City Ctr',15
+1501,0,'Southland',15
 1701,0,'Ramsay',17
 1700,0,'Renfrew',17
 1901,0,'Dalhousie Sta',19
@@ -40,8 +42,6 @@
 2700,0,'Willowglen',27
 2800,0,'Deer Run',28
 2901,0,'Queensland',29
-3000,0,'Highfield Ind',30
-3001,0,'Highfield Ind',30
 3201,0,'Huntington',32
 3200,0,'Sunridge',32
 3301,0,'Barlow / Max Bell Sta',33
@@ -96,8 +96,6 @@
 6700,0,'Memorial Dr E',67
 6801,0,'E Hls Sq @ E Hls Blvd',68
 6800,0,'Saddletowne Term',68
-7000,0,'City Ctr',70
-7001,0,'Vly Rdg',70
 7101,0,'McKnight-Westwinds LRT Sta',71
 7100,0,'Saddletowne Term',71
 7401,0,'Tuscany',74
@@ -118,7 +116,7 @@
 8300,0,'Parkland',83
 8501,0,'McKnight-Westwinds Sta',85
 8500,0,'Saddleridge Sta',85
-8600,0,'Coventry N',86
+8600,0,'Coventry Hls',86
 8601,0,'Coventry S',86
 8700,0,'17 Ave',87
 8701,0,'Marlborough Sta',87
@@ -135,7 +133,6 @@
 9300,0,'Westbrook Sta',93
 9401,0,'Signal Hl',94
 9400,0,'Strathacona Pk',94
-9501,0,'Palliser',95
 9600,0,'Anderson Sta',96
 9601,0,'McKenzie',96
 9701,0,'Crowfoot Sta / Scenic Acres',97
@@ -154,7 +151,6 @@
 10401,0,'U Of Calgary',104
 10500,0,'Dalhousie Sta',105
 10501,0,'Lions Pk Sta',105
-10600,0,'Deerfoot Mdws',106
 10800,0,'Brentwood',108
 10801,0,'Vly Rdg',108
 10901,0,'City Ctr',109
@@ -226,7 +222,6 @@
 16401,0,'Richmond Term',164
 16701,0,'Walden / Legacy',167
 16900,0,'Rocky Rdg',169
-17400,0,'Tuscany',174
 19401,0,'Chaparral Vly',194
 19400,0,'Somerset-Bridlewood Sta',194
 29900,0,'Arbour Lk',299
@@ -253,8 +248,6 @@
 42201,0,'Montgomery',422
 44000,0,'E Hls / Chateau Ests',440
 44001,0,'Franklin Sta',440
-44900,0,'Eau Claire',449
-44901,0,'Parkhill',449
 55500,0,'Dashmesh Ctr',555
 69800,0,'AM',698
 69801,0,'PM',698
@@ -288,8 +281,8 @@
 71801,0,'PM',718
 71900,0,'AM',719
 71901,0,'PM',719
-72000,0,'AM',720
-72001,0,'PM',720
+72000,0,'N',720
+72001,0,'S',720
 72100,0,'AM',721
 72101,0,'PM',721
 72200,0,'AM',722

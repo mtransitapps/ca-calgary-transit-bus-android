@@ -12,6 +12,7 @@
 12,'12','Southwest Loop','',1569,3
 13,'13','Altadore','',1570,3
 14,'14','Bridlewood / Cranston','',1571,3
+15,'15','Deerfoot Mdws','',1572,3
 17,'17','Renfrew / Ramsay','',1574,3
 19,'19','16 Ave North','',1576,3
 20,'20','Heritage Sta / Northmount Dr N','',1598,3
@@ -23,7 +24,6 @@
 27,'27','Willowglen','',1605,3
 28,'28','Deer Run','',1606,3
 29,'29','Queensland','',1607,3
-30,'30','Highfield Ind','',1629,3
 32,'32','Huntington / Sunridge','',1631,3
 33,'33','Vista Hts / Rundle','',1632,3
 34,'34','Pineridge','',1633,3
@@ -57,7 +57,6 @@
 66,'66','Lakeview','',1728,3
 67,'67','Memorial Dr E','',1729,3
 68,'68','68 St E','',1730,3
-70,'70','Vly Rdg Express','00BBE5',1753,3
 71,'71','Taradale','',1754,3
 74,'74','Tuscany','',1757,3
 75,'75','Somerset - Mahogany','',1758,3
@@ -79,7 +78,6 @@
 92,'92','McKenzie Towne','',1817,3
 93,'93','Coach Hl / Westbrook Sta','',1818,3
 94,'94','Strathcona / Signal Hl','',1819,3
-95,'95','Palliser','',1820,3
 96,'96','McKenzie','',1821,3
 97,'97','South Ranchlands / Scenic Acres','',1822,3
 98,'98','Cougar Rdg','',1823,3
@@ -89,7 +87,6 @@
 102,'102','Millrise / Silverado','',48627,3
 104,'104','Sunnyside / U Of Calgary','',48629,3
 105,'105','Dalhousie Sta / Lions Pk Sta','',48630,3
-106,'106','Southland / Deerfoot Mdws','',48631,3
 108,'108','Paskapoo Slopes','',48633,3
 109,'109','Harvest Hls Express','00BBE5',48634,3
 111,'111','Old Banff Coach Rd','',48657,3
@@ -132,22 +129,20 @@
 164,'164','Aspen Summit','',48815,3
 167,'167','Legacy','',48818,3
 169,'169','Rocky Rdg','',48820,3
-174,'174','Tuscany','',48846,3
 194,'194','Chaparral Vly / Wolf Willow','',48908,3
 299,'299','Arbour Lk','',49874,3
 300,'300','BRT Airport / City Ctr','ED1C2E',50547,3
-301,'301','MAX Grn North Pte / City Ctr','295F40',50548,3
+301,'MG','MAX Grn North Pte / City Ctr','295F40',50548,3
 302,'302','BRT Southeast / City Ctr','ED1C2E',50549,3
-303,'303','MAX Orange Brentwood / Saddletowne','EF8B22',50550,3
-304,'304','MAX Yellow Woodpark / City Ctr','FFCD02',50551,3
-306,'306','MAX Teal Westbrook / Douglas Gln','009BA7',50553,3
-307,'307','MAX Purple City Ctr / East Hls','92368D',50554,3
+303,'MO','MAX Orange Brentwood / Saddletowne','EF8B22',50550,3
+304,'MY','MAX Yellow Woodpark / City Ctr','FFCD02',50551,3
+306,'MT','MAX Teal Westbrook / Douglas Gln','009BA7',50553,3
+307,'MP','MAX Purple City Ctr / East Hls','92368D',50554,3
 404,'404','North Hl','',51512,3
 414,'414','14 St W','',51543,3
 421,'421','Panatella','',51571,3
 422,'422','Dalhousie / Montgomery','',51572,3
 440,'440','Chateau Ests / Franklin Sta','',51632,3
-449,'449','Eau Claire / Parkhill','',51641,3
 555,'555','Dashmesh Ctr','',52629,3
 698,'698','17th Ave / Western Canada / St Mary''s','E4A024',53717,3
 699,'699','West Spgs / Various Schools','E4A024',53718,3
