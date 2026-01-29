@@ -48,6 +48,11 @@ public class CalgaryTransitBusAgencyTools extends DefaultAgencyTools {
 	}
 
 	@Override
+	public @Nullable String getServiceIdCleanupRegex() {
+		return "^\\d{4}[A-Z]{2}-(\\w(BUS)((WK|SU|SA)-)?)?|(-\\d{2}(-|$))";
+	}
+
+	@Override
 	public boolean defaultRouteIdEnabled() {
 		return true;
 	}
