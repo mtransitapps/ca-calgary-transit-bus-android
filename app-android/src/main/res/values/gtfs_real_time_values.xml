@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation,UnusedResources">
     <string name="gtfs_real_time_agency_service_alerts_url">https://data.calgary.ca/download/jhgn-ynqj/application%%2Foctet-stream</string>
-    <string name="gtfs_real_time_agency_vehicle_positions_url">https://data.calgary.ca/download/am7c-qe3u/application%2Foctet-stream</string>
-    <string name="gtfs_real_time_agency_trip_updates_url">https://data.calgary.ca/download/gs4m-mdc2/application%2Foctet-stream</string>
+    <string name="gtfs_real_time_agency_vehicle_positions_url">https://data.calgary.ca/download/am7c-qe3u/application%%2Foctet-stream</string>
+    <string name="gtfs_real_time_agency_trip_updates_url">https://data.calgary.ca/download/gs4m-mdc2/application%%2Foctet-stream</string>
 </resources>
