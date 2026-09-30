@@ -1,14 +1,14 @@
 101,0,'Bowness',1
 100,0,'Forest Lawn',1
-201,0,'Killarney / 17 Ave',2
+201,0,'Killarney/17 Ave',2
 200,0,'Mt Pleasant',2
-300,0,'Ctr St N',3
-301,0,'Elbow Dr',3
+300,0,'Centre St N',3
+301,0,'Elbow Drive',3
 400,0,'Huntington',4
-501,0,'N Haven',5
-600,0,'City Ctr',6
+501,0,'North Haven',5
+600,0,'City Centre',6
 601,0,'Westhills',6
-700,0,'City Ctr',7
+700,0,'City Centre',7
 701,0,'Marda Loop',7
 801,0,'Foothills Medical Ctr',8
 800,0,'N Pte Term',8
@@ -18,11 +18,11 @@
 1001,0,'Southcentre',10
 1100,0,'Southwest Loop',11
 1201,0,'Southwest Loop',12
-1300,0,'City Ctr',13
+1300,0,'City Centre',13
 1301,0,'Westhills',13
 1401,0,'Bridlewood',14
 1400,0,'Cranston',14
-1500,0,'City Ctr',15
+1500,0,'City Centre',15
 1501,0,'Southland',15
 1701,0,'Ramsay',17
 1700,0,'Renfrew',17
@@ -31,11 +31,11 @@
 2001,0,'Heritage Sta',20
 2000,0,'Northmount Dr N',20
 2101,0,'Castleridge',21
-2200,0,'City Ctr',22
+2200,0,'City Centre',22
 2201,0,'Richmond Rd',22
 2301,0,'Front St @ Main Ent S Health Campus',23
 2300,0,'Saddletowne Term',23
-2400,0,'City Ctr',24
+2400,0,'City Centre',24
 2401,0,'Ogden',24
 2600,0,'Tuscany',26
 2601,0,'Westbrook',26
@@ -44,7 +44,7 @@
 2901,0,'Queensland',29
 3201,0,'Huntington',32
 3200,0,'Sunridge',32
-3301,0,'Barlow / Max Bell Sta',33
+3301,0,'Barlow/Max Bell Sta',33
 3300,0,'Rundle Sta',33
 3400,0,'Pineridge',34
 3500,0,'Bonavista',35
@@ -55,21 +55,21 @@
 3801,0,'N Crosstown Brentwood Sta',38
 3800,0,'N Crosstown Saddletowne Sta',38
 4001,0,'Crowfoot Sta',40
-4000,0,'N Hl',40
+4000,0,'North Hill',40
 4100,0,'Lynnwood',41
 4200,0,'Marlborough',42
 4301,0,'36 St E Chinook Sta',43
 4300,0,'36 St E Whitehorn Sta',43
 4401,0,'Avenida',44
-4400,0,'Deer Rdg',44
+4400,0,'Deer Ridge',44
 4601,0,'78 Ave Term',46
-4600,0,'Sage Hl',46
+4600,0,'Sage Hill',46
 4701,0,'78 Ave Term',47
-4700,0,'Sage Hl',47
+4700,0,'Sage Hill',47
 4801,0,'Rundle',48
 4901,0,'Forest Hts',49
 5101,0,'Discovery Rdg',51
-5100,0,'W Spgs',51
+5100,0,'West Springs',51
 5200,0,'Evergreen',52
 5201,0,'Somerset-Bridlewood Sta',52
 5300,0,'Brentwood Sta',53
@@ -79,23 +79,23 @@
 5601,0,'Anderson LRT Sta',56
 5600,0,'Heritage LRT Sta',56
 5701,0,'McCall Wy',57
-5700,0,'Monterey Pk',57
-5801,0,'44 St SE / Erin Woods',58
+5700,0,'Monterey Park',57
+5801,0,'44 St SE/Erin Woods',58
 5800,0,'Marlborough',58
 5900,0,'Savanna',59
 6001,0,'McKnight-Westwinds LRT Sta',60
 6000,0,'Saddletowne Term',60
 6101,0,'McKnight-Westwinds LRT Sta',61
 6100,0,'Saddletowne Term',61
-6201,0,'City Ctr',62
-6200,0,'Hidden Vly',62
-6301,0,'Alpine Pk',63
+6201,0,'City Centre',62
+6200,0,'Hidden Valley',62
+6301,0,'Alpine Park',63
 6300,0,'Fish Crk Sta',63
-6401,0,'City Ctr',64
+6401,0,'City Centre',64
 6400,0,'MacEwan',64
-6501,0,'Downtown W',65
-6500,0,'Mkt Mall',65
-6600,0,'City Ctr',66
+6501,0,'Downtown West',65
+6500,0,'Market Mall',65
+6600,0,'City Centre',66
 6601,0,'Lakeview',66
 6701,0,'Marlborough Sta',67
 6700,0,'Memorial Dr E',67
@@ -117,10 +117,10 @@
 8100,0,'Highfield',81
 8101,0,'MacLeod Tr SE - S',81
 8201,0,'Brentwood Sta',82
-8200,0,'Nolan Hl',82
+8200,0,'Nolan Hill',82
 8300,0,'Parkland',83
 8601,0,'78 Ave Term',86
-8600,0,'N Pte',86
+8600,0,'North Pointe',86
 8700,0,'17 Ave',87
 8701,0,'Marlborough Sta',87
 8901,0,'Lions Pk Sta',89
@@ -131,21 +131,21 @@
 9100,0,'Lions Pk Sta',91
 9200,0,'Anderson Sta',92
 9201,0,'McKenzie Towne',92
-9301,0,'Coach Hl',93
+9301,0,'Coach Hill',93
 9300,0,'Westbrook Sta',93
-9401,0,'Signal Hl',94
+9401,0,'Signal Hill',94
 9400,0,'Strathacona Pk',94
 9600,0,'Anderson Sta',96
 9601,0,'McKenzie',96
-9701,0,'Crowfoot Sta / Scenic Acres',97
+9701,0,'Crowfoot Sta/Scenic Acres',97
 9700,0,'S Ranchlands',97
-9801,0,'69 St Sta',98
-9800,0,'Cougar Rdg',98
+9801,0,'69 St Station',98
+9800,0,'Cougar Ridge',98
 9900,0,'Acadia',99
 9901,0,'Oakridge',99
-10001,0,'Airport / N Pte',100
-10000,0,'Airport / Saddletowne',100
-10101,0,'City Ctr',101
+10001,0,'Airport/N Pte',100
+10000,0,'Airport/Saddletowne',100
+10101,0,'City Centre',101
 10100,0,'Inglewood',101
 10200,0,'Millrise',102
 10201,0,'Silverado',102
@@ -154,20 +154,20 @@
 10500,0,'Dalhousie Sta',105
 10501,0,'Lions Pk Sta',105
 10800,0,'Brentwood',108
-10801,0,'Vly Rdg',108
-10901,0,'City Ctr',109
-10900,0,'Harvest Hls',109
-11101,0,'W Spgs',111
+10801,0,'Valley Ridge',108
+10901,0,'City Centre',109
+10900,0,'Harvest Hills',109
+11101,0,'West Springs',111
 11100,0,'Westbrook Sta',111
-11301,0,'Crowfoot Sta / Scenic Acres',113
+11301,0,'Crowfoot Sta/Scenic Acres',113
 11300,0,'N Ranchlands',113
 11401,0,'78 Ave Term',114
-11400,0,'N Pte',114
-11500,0,'N Pte',115
+11400,0,'North Pointe',114
+11500,0,'North Pointe',115
 11501,0,'Tuscany',115
-11601,0,'City Ctr',116
+11601,0,'City Centre',116
 11600,0,'Coventry Hls',116
-11700,0,'City Ctr',117
+11700,0,'City Centre',117
 11701,0,'McKenzie Towne',117
 11901,0,'Freeport',119
 11900,0,'Saddletowne',119
@@ -179,76 +179,76 @@
 12600,0,'Braeside',126
 12701,0,'Franklin Ind',127
 12700,0,'Maryvale',127
-12801,0,'Cornerstone / Redstone',128
+12801,0,'Cornerstone/Redstone',128
 12901,0,'Dalhousie Sta',129
-12900,0,'Sage Hl',129
-13100,0,'City Ctr / E Bow',131
-13101,0,'E Bow',131
+12900,0,'Sage Hill',129
+13100,0,'City Ctr/E Bow',131
+13101,0,'East Bow',131
 13400,0,'Dalhousie',134
-13401,0,'Rockland Pk',134
-13501,0,'36 St SE / Erin Woods',135
+13401,0,'Rockland Park',134
+13501,0,'36 St SE/Erin Woods',135
 13500,0,'Marlborough Sta',135
-13600,0,'Corner Mdws / Cornerbrook',136
+13600,0,'Corner Mdws/Cornerbrook',136
 13700,0,'Livingston',137
-13701,0,'N Pte',137
+13701,0,'North Pointe',137
 13801,0,'Crowfoot Sta',138
 13800,0,'Tuscany Sta',138
-14201,0,'City Ctr',142
+14201,0,'City Centre',142
 14200,0,'Panorama',142
-14500,0,'Skyview / Redstone',145
+14500,0,'Skyview/Redstone',145
 14701,0,'39 Ave Sta',147
 14700,0,'Starfield Insustrial',147
 14801,0,'Chinook Sta',148
 14800,0,'Great Plains Insustrial',148
 14901,0,'Heritage Sta',149
 14900,0,'Pt Trotter Ind',149
-15000,0,'114 Ave',150
+15000,0,'114 Avenue',150
 15001,0,'Anderson Sta',150
-15100,0,'City Ctr',151
+15100,0,'City Centre',151
 15101,0,'New Brighton',151
 15200,0,'New Brighton',152
 15300,0,'Copperfield',153
 15301,0,'Somerset-Bridlewood Sta',153
 15400,0,'Hamptons',154
 15500,0,'Forest Lawn',155
-15501,0,'W Dover',155
-15600,0,'69 St Sta',156
+15501,0,'West Dover',155
+15600,0,'69 St Station',156
 15601,0,'Aspen Woods',156
-15701,0,'Stoney / N Pte',157
-15700,0,'Stoney / Saddletowne',157
+15701,0,'Stoney/N Pte',157
+15700,0,'Stoney/Saddletowne',157
 15800,0,'Royal Oak',158
 15901,0,'Saddlebrook',159
 16400,0,'Aspen Summit',164
 16401,0,'Richmond Term',164
-16701,0,'Walden / Legacy',167
-16900,0,'Rocky Rdg',169
+16701,0,'Walden/Legacy',167
+16900,0,'Rocky Ridge',169
 19401,0,'Chaparral Vly',194
 19400,0,'Somerset-Bridlewood Sta',194
-29900,0,'Arbour Lk',299
-30101,0,'City Ctr',301
-30100,0,'N Pte',301
-30200,0,'City Ctr',302
+29900,0,'Arbour Lake',299
+30101,0,'City Centre',301
+30100,0,'North Pointe',301
+30200,0,'City Centre',302
 30201,0,'S Health Campus',302
 30301,0,'Brentwood',303
 30300,0,'Saddletowne',303
-30400,0,'City Ctr',304
+30400,0,'City Centre',304
 30401,0,'Woodpark',304
-30601,0,'Douglas Gln',306
+30601,0,'Douglas Glen',306
 30600,0,'Westbrook',306
 30700,0,'Chestermere',307
-30701,0,'City Ctr',307
+30701,0,'City Centre',307
 40400,0,'Mt Pleasant',404
 40401,0,'W Hillhurst',404
 41401,0,'14 St @ 17 Ave',414
 41400,0,'Niven Rd @ Norquay Dr',414
 42200,0,'Dalhousie',422
 42201,0,'Montgomery',422
-44000,0,'E Hls / Chateau Ests',440
+44000,0,'E Hls/Chateau Ests',440
 44001,0,'Franklin Sta',440
 50000,0,'Airport',500
-50001,0,'City Ctr',500
-50301,0,'City Ctr',503
-50300,0,'Symons Vly',503
+50001,0,'City Centre',500
+50301,0,'City Centre',503
+50300,0,'Symons Valley',503
 55500,0,'Dashmesh Ctr',555
 69701,0,'AM',697
 69700,0,'PM',697
@@ -284,8 +284,8 @@
 71801,0,'PM',718
 71900,0,'AM',719
 71901,0,'PM',719
-72000,0,'N',720
-72001,0,'S',720
+72003,1,'N',720
+72004,1,'S',720
 72100,0,'AM',721
 72101,0,'PM',721
 72200,0,'AM',722
@@ -316,8 +316,8 @@
 74500,0,'PM',745
 75001,0,'AM',750
 75000,0,'PM',750
-75100,0,'Coral Spgs / Falconridge',751
-75101,0,'James Fowler Hs',751
+75100,0,'Coral Spgs/Falconridge',751
+75101,0,'James Fowler HS',751
 75201,0,'AM',752
 75200,0,'PM',752
 75301,0,'AM',753
@@ -366,7 +366,7 @@
 78601,0,'PM',786
 78900,0,'AM',789
 78901,0,'PM',789
-79300,0,'Queen Elizabeth / Sunnyside',793
+79300,0,'Queen Elizabeth/Sunnyside',793
 79400,0,'AM',794
 79401,0,'PM',794
 79501,0,'AM',795
@@ -419,8 +419,8 @@
 83500,0,'St Bonaventure Anderson',835
 83600,0,'AM',836
 83601,0,'PM',836
-83901,0,'Lady Of Grace / Evanston',839
-84400,0,'Notre Dame / Evanston',844
+83901,0,'Lady Of Grace/Evanston',839
+84400,0,'Notre Dame/Evanston',844
 84500,0,'AM',845
 84501,0,'PM',845
 84800,0,'AM',848
@@ -443,7 +443,7 @@
 86600,0,'PM',866
 86701,0,'AM',867
 86700,0,'PM',867
-86900,0,'All Saints Hs / Somersetbridlewood Sta',869
+86900,0,'All Saints HS/Somersetbridlewood Sta',869
 87101,0,'St Martha Marlborough',871
 87200,0,'St Alphonsus Rundle',872
 87300,0,'AM',873
