@@ -1,0 +1,357 @@
+{
+    "default_route_id_enabled": true,
+    "use_route_short_name_for_route_id": false,
+    "use_route_short_name_for_route_id_comment": "keep original route ID",
+    "route_id_cleanup_regex": "\\-\\d+$",
+    "route_id_not_unique_allowed": true,
+    "route_id_not_unique_allowed_comment": "merge routes",
+    "default_route_long_name_enabled": true,
+    "route_long_name_cleaners": [
+        {
+            "regex": "((\\s)*(ave|dr|mt|st)\\.(\\s)*)",
+            "ignore_case": true,
+            "replacement": "$2$3$4",
+            "comment": "clean street point"
+        }
+    ],
+    "route_colors": [
+        {
+            "route_short_name_regex": "^((6|7|8)\\d{2})$",
+            "color": "E4A024",
+            "comment": "SCHOOL: YELLOW (from PDF map)"
+        },
+        {
+            "route_long_name_regex": "((\\W)(express)($))",
+            "color": "00BBE5",
+            "comment": "EXPRESS: LIGHT BLUE (from PDF map)"
+        },
+        {
+            "route_long_name_regex": "((\\W)(brt)($))",
+            "color": "ED1C2E",
+            "comment": "BRT: RED (from PDF map)"
+        },
+        {
+            "route_id": "301",
+            "route_short_name": "MG",
+            "color": "295F40",
+            "comment": "MG MAX Green"
+        },
+        {
+            "route_id": "303",
+            "route_short_name": "MO",
+            "color": "EF8B22",
+            "comment": "MG MAX Orange"
+        },
+        {
+            "route_id": "304",
+            "route_short_name": "MY",
+            "color": "FFCD02",
+            "comment": "MY MAX Yellow"
+        },
+        {
+            "route_id": "306",
+            "route_short_name": "MT",
+            "color": "009BA7",
+            "comment": "MG MAX Teal"
+        },
+        {
+            "route_id": "307",
+            "route_short_name": "MP",
+            "color": "92368D",
+            "comment": "MG MAX Purple"
+        }
+    ],
+    "direction_types": [
+        1,
+        0
+    ],
+    "direction_types_comment": "Cardinal directions or strings",
+    "direction_finder_enabled": true,
+    "direction_headsign_cleaners": [
+        {
+            "regex": "( \\([^(]+\\)$)",
+            "comment": "ends parentheses"
+        },
+        {
+            "regex": " stop \\w+$",
+            "ignore_case": true,
+            "comment": "ends with stop X"
+        },
+        {
+            "regex": "(^(EB|WB|NB|SB|NE|NW|SE|SW)? )",
+            "comment": "starts with bounds"
+        },
+        {
+            "regex": "( (EB|WB|NB|SB|NE|NW|SE|SW)?$)",
+            "comment": "ends with bounds"
+        },
+        {
+            "regex": "( (EB|WB|NB|SB|NE|NW|SE|SW)?(\\s*@) )",
+            "replacement": "$3 ",
+            "comment": "bounds before at"
+        }
+    ],
+    "allow_non_descriptive_head_signs_until": {
+        "30": "20261209"
+    },
+    "trip_headsign_remove_via": true,
+    "trip_headsign_cleaners": [
+        {
+            "comment": "clean slashes - needed for words/strings UPPER_CASE -> lower_case cleanup",
+            "regex": "(\\w+)\\s*/\\s*(\\w+)",
+            "replacement": "$1 / $2"
+        },
+        {
+            "regex": "(\\w)\\s*@\\s*(\\w)",
+            "replacement": "$1 @ $2",
+            "comment": "clean at spacing"
+        },
+        {
+            "regex": "((^|\\W)(av)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2Avenue$4"
+        },
+        {
+            "regex": "((^)(brt)(\\W))",
+            "ignore_case": true
+        },
+        {
+            "regex": "((^)(max \\w+)(\\W))",
+            "ignore_case": true
+        },
+        {
+            "regex": "((^|\\W)(mru|mount royal university)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2MRU$4"
+        },
+        {
+            "regex": "((^|\\W)(stn)(\\W|$))",
+            "ignore_case": true,
+            "replacement": "$2Station$4"
+        },
+        {
+            "regex": "((^)(route )?(\\d+)($))",
+            "ignore_case": true
+        },
+        {
+            "regex": "((\\W)(express)($))",
+            "ignore_case": true
+        }
+    ],
+    "stop_name_cleaners": [
+        {
+            "regex": "((\\s)*(ave|dr|mt|st)\\.(\\s)*)",
+            "ignore_case": true,
+            "replacement": "$2$3$4",
+            "comment": "clean street point"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(AVE|Ave|Av|AV)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Avenue $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(PA)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Park $4"
+        },
+        {
+            "regex": "((^|\\W){1}(HT|ht)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Heights $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(GV)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Grove $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(PT)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Point $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(TC)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Terrace $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(RI|Ri)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Rise $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(MR|Mr)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Manor $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(DR)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Drive $4"
+        },
+        {
+            "regex": "((^|[\\W]){1}(ST)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Street $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(VI)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Villas $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(PZ)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Plaza $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(WY)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Way $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(GR|Gr)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Green $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(Bvd|Bv|BV)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Boulevard $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(GA|Ga)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Gate $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(RD)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Road $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(LI|LINK|Li)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Link $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(PL)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Place $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(SQ)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Square $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(CL)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Close $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(CR)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Crescent $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(GD)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Gardens $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(LN)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Lane $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(CO)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Ct $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(CI)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Circle $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(HE)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Heath $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(ME)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Mews $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(Trl|Tr|TR)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Trail $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(LD)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Landing $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(HL)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Hill $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(PK)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Park $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(CM)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Common $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(GT)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Gate $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(CV)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Cove $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(VW)([^a-zA-Z]|$){1})",
+            "replacement": "$2 View $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(BY|BA|BAY)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Bay $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(CE)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Center $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(CTR)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Center $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(PY|Py)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Parkway $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(PR)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Parade $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(PS)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Passage $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(RO)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Row $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(MT)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Mount $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(GDN)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Garden $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(TERR)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Terrace $4"
+        },
+        {
+            "regex": "(\\w)\\s*@\\s*(\\w)",
+            "replacement": "$1 @ $2",
+            "comment": "Ensure spaces around @ symbol"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(Mount Royal University)([^a-zA-Z]|$){1})",
+            "replacement": "$2 MRU $4"
+        },
+        {
+            "regex": "((^|[^A-Z]){1}(Mount)([^a-zA-Z]|$){1})",
+            "replacement": "$2 Mt $4"
+        },
+        {
+            "regex": "(^\\s*/\\s*)",
+            "comment": "Clean leading slashes"
+        },
+        {
+            "regex": "eb",
+            "ignore_case": true,
+            "is_word": true,
+            "replacement": "EB",
+            "comment": "Ensure EB is uppercase"
+        }
+    ]
+}
